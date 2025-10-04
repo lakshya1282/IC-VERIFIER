@@ -1,0 +1,21 @@
+IC_Model_Number,OEM_Name,Package_Type,Marking_Text,Marking_Image_URL,Release_Date,Source_URL
+ATmega328P,Microchip Technology,TQFP-32,ATMEL 328P U,https://oem-site.com/atmega328p-marking.png,2016-05-12,https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328P.pdf
+STM32F103C8T6,STMicroelectronics,LQFP-48,STM32F103C8T6,https://oem-site.com/stm32f103-marking.png,2018-11-20,https://www.st.com/resource/en/datasheet/stm32f103c8.pdf
+SN74HC595N,Texas Instruments,DIP-16,SN74HC595N TI,https://oem-site.com/sn74hc595n.png,2015-02-03,https://www.ti.com/lit/ds/symlink/sn74hc595.pdf
+ESP32-WROOM-32,Espressif Systems,QFN-48,ESP32-WROOM-32,https://oem-site.com/esp32-marking.png,2019-09-14,https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+LM358N,Texas Instruments,DIP-8,LM358N TI,https://oem-site.com/lm358n.png,2017-01-25,https://www.ti.com/lit/ds/symlink/lm358.pdf
+PIC16F877A,Microchip Technology,DIP-40,PIC16F877A,https://oem-site.com/pic16f877a.png,2016-09-10,https://ww1.microchip.com/downloads/en/devicedoc/39582b.pdf
+ATtiny85,Microchip Technology,DIP-8,ATTINY85,https://oem-site.com/attiny85.png,2015-06-23,https://ww1.microchip.com/downloads/en/devicedoc/doc2586.pdf
+STM32F407VG,STMicroelectronics,LQFP-100,STM32F407VG,https://oem-site.com/stm32f407.png,2019-07-14,https://www.st.com/resource/en/datasheet/stm32f407vg.pdf
+74LS00N,Texas Instruments,DIP-14,SN74LS00N,https://oem-site.com/74ls00.png,2014-03-05,https://www.ti.com/lit/ds/symlink/sn74ls00.pdf
+NE555P,Texas Instruments,DIP-8,NE555P,https://oem-site.com/ne555.png,2013-04-11,https://www.ti.com/lit/ds/symlink/ne555.pdf
+XC7A35T-1CPG236C,Xilinx,BGA-236,XC7A35T,https://oem-site.com/xc7a35t.png,2018-01-15,https://www.xilinx.com/support/documentation/data_sheets/ds180_7Series_Overview.pdf
+CY7C1041CV33,Cypress Semiconductor,TSOP-32,CY7C1041CV33,https://oem-site.com/cy7c1041.png,2017-03-22,https://www.cypress.com/file/44771/download
+W25Q64JVSSIQ,Winbond,SOIC-8,25Q64JV,https://oem-site.com/w25q64.png,2019-08-02,https://www.winbond.com/resource-files/w25q64jv%20revg%2008202019.pdf
+MCP3008,Microchip Technology,DIP-16,MCP3008,https://oem-site.com/mcp3008.png,2016-11-09,https://ww1.microchip.com/downloads/en/devicedoc/21295d.pdf
+SST39SF010A,Microchip Technology,PLCC-32,SST39SF010A,https://oem-site.com/sst39sf010a.png,2014-10-10,https://ww1.microchip.com/downloads/en/devicedoc/20005022c.pdf
+CY8C5888LTI-LP097,Cypress Semiconductor,QFN-68,CY8C5888,https://oem-site.com/cy8c5888.png,2019-04-30,https://www.cypress.com/file/138911/download
+AM29F040B,AMD,PLCC-32,AM29F040B,https://oem-site.com/am29f040b.png,2012-06-14,https://pdf1.alldatasheet.com/datasheet-pdf/view/AdvancedMicroDevices/AM29F040B.html
+XC3S200A-4VQ100C,Xilinx,VQFP-100,XC3S200A,https://oem-site.com/xc3s200a.png,2015-12-18,https://www.xilinx.com/support/documentation/data_sheets/ds529.pdf
+STM32H743ZI,STMicroelectronics,LQFP-144,STM32H743ZI,https://oem-site.com/stm32h743.png,2020-02-19,https://www.st.com/resource/en/datasheet/stm32h743zi.pdf
+ESP8266EX,Espressif Systems,QFN-32,ESP8266EX,https://oem-site.com/esp8266.png,2017-11-28,https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf
