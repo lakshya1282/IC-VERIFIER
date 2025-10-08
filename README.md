@@ -345,3 +345,8 @@ For issues or questions, please open an issue on the repository.
 - Use environment-specific configurations
 - Implement comprehensive error handling
 - Add automated testing
+push commands
+>>git add .
+>>git status
+>>git commit -m "commit message"
+>>git push --set-upstream origin arbab
