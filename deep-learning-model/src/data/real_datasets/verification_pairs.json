@@ -1,0 +1,3692 @@
+[
+  {
+    "image_id": "electrocom61_IMG20240219113649_jpg.rf.739000e43b9a609949208514a7f7a363",
+    "recognized_text": "IMG20240219113649_JPG.RF.739000E43B9A609949208514A7F7A363",
+    "part_number": "IMG20240219113649_JPG.RF.739000E43B9A609949208514A7F7A363",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240219113649_jpg.rf.739000e43b9a609949208514a7f7a363_fake",
+    "recognized_text": "IMG20240219113649_JPG.RF.739000E43B9A609949208514A7F7A363",
+    "part_number": "IMG20240219113649_JPG.RF.739000E43B9A609949208514A7F7A363",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240219113831_jpg.rf.ed5be8ce7f85c63010b471366a38e691",
+    "recognized_text": "IMG20240219113831_JPG.RF.ED5BE8CE7F85C63010B471366A38E691",
+    "part_number": "IMG20240219113831_JPG.RF.ED5BE8CE7F85C63010B471366A38E691",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240219113831_jpg.rf.ed5be8ce7f85c63010b471366a38e691_fake",
+    "recognized_text": "IMG20240219113831_JPG.RF.ED5BE8CE7F85C63010B47I366A38E691",
+    "part_number": "IMG20240219113831_JPG.RF.ED5BE8CE7F85C63010B47I366A38E691",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240219113926_jpg.rf.9724c69342e44e72e934b2fc66f21012",
+    "recognized_text": "IMG20240219113926_JPG.RF.9724C69342E44E72E934B2FC66F21012",
+    "part_number": "IMG20240219113926_JPG.RF.9724C69342E44E72E934B2FC66F21012",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240219113926_jpg.rf.9724c69342e44e72e934b2fc66f21012_fake",
+    "recognized_text": "IMG202402I9113926_JPG.RF.9724C69342E44E72E934B2FC66F21012",
+    "part_number": "IMG202402I9113926_JPG.RF.9724C69342E44E72E934B2FC66F21012",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240219114137_jpg.rf.26d61e3934b9d0bdc12450cb4ff08744",
+    "recognized_text": "IMG20240219114137_JPG.RF.26D61E3934B9D0BDC12450CB4FF08744",
+    "part_number": "IMG20240219114137_JPG.RF.26D61E3934B9D0BDC12450CB4FF08744",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240219114137_jpg.rf.26d61e3934b9d0bdc12450cb4ff08744_fake",
+    "recognized_text": "IMG20240219114137_JPG.RF.26D61E3934B9D08DC12450CB4FF08744",
+    "part_number": "IMG20240219114137_JPG.RF.26D61E3934B9D08DC12450CB4FF08744",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220114517_jpg.rf.04a180b57af90fa9de100a1fff18493b",
+    "recognized_text": "IMG20240220114517_JPG.RF.04A180B57AF90FA9DE100A1FFF18493B",
+    "part_number": "IMG20240220114517_JPG.RF.04A180B57AF90FA9DE100A1FFF18493B",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220114517_jpg.rf.04a180b57af90fa9de100a1fff18493b_fake",
+    "recognized_text": "IMG20240220114517_JPG.RF.04A180B57AF90FA9DE10OA1FFF18493B",
+    "part_number": "IMG20240220114517_JPG.RF.04A180B57AF90FA9DE10OA1FFF18493B",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220114741_jpg.rf.48fb8e9ea7f7be7950b669678d98fa07",
+    "recognized_text": "IMG20240220114741_JPG.RF.48FB8E9EA7F7BE7950B669678D98FA07",
+    "part_number": "IMG20240220114741_JPG.RF.48FB8E9EA7F7BE7950B669678D98FA07",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220114741_jpg.rf.48fb8e9ea7f7be7950b669678d98fa07_fake",
+    "recognized_text": "IMG20240220114741_JPG.RF.48FB8E9EA7F7BE7950B669678D98FA07",
+    "part_number": "IMG20240220114741_JPG.RF.48FB8E9EA7F7BE7950B669678D98FA07",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220115100_jpg.rf.d1e0338cb21d08c8f1ac016ef5b80358",
+    "recognized_text": "IMG20240220115100_JPG.RF.D1E0338CB21D08C8F1AC016EF5B80358",
+    "part_number": "IMG20240220115100_JPG.RF.D1E0338CB21D08C8F1AC016EF5B80358",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220115100_jpg.rf.d1e0338cb21d08c8f1ac016ef5b80358_fake",
+    "recognized_text": "IMG20240220115100_JPG.RF.D1E0338CB21D08C8F1AC016EF5B80358",
+    "part_number": "IMG20240220115100_JPG.RF.D1E0338CB21D08C8F1AC016EF5B80358",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220115109_jpg.rf.78565e6efae921fc5eca8bb70668e3ad",
+    "recognized_text": "IMG20240220115109_JPG.RF.78565E6EFAE921FC5ECA8BB70668E3AD",
+    "part_number": "IMG20240220115109_JPG.RF.78565E6EFAE921FC5ECA8BB70668E3AD",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220115109_jpg.rf.78565e6efae921fc5eca8bb70668e3ad_fake",
+    "recognized_text": "IMG20240220115109_JPG.RF.7B565E6EFAE921FC5ECA8BB70668E3AD",
+    "part_number": "IMG20240220115109_JPG.RF.7B565E6EFAE921FC5ECA8BB70668E3AD",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220120432_jpg.rf.c9512f6a6925f4af0e4b0f4d9f07af3f",
+    "recognized_text": "IMG20240220120432_JPG.RF.C9512F6A6925F4AF0E4B0F4D9F07AF3F",
+    "part_number": "IMG20240220120432_JPG.RF.C9512F6A6925F4AF0E4B0F4D9F07AF3F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220120432_jpg.rf.c9512f6a6925f4af0e4b0f4d9f07af3f_fake",
+    "recognized_text": "IMG20240220120432_JPG.RF.C9512F6A6925F4AF0E4B0F4D9F07AF3F",
+    "part_number": "IMG20240220120432_JPG.RF.C9512F6A6925F4AF0E4B0F4D9F07AF3F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220120706_jpg.rf.b1dff83806d49403b448742f4f1c5f51",
+    "recognized_text": "IMG20240220120706_JPG.RF.B1DFF83806D49403B448742F4F1C5F51",
+    "part_number": "IMG20240220120706_JPG.RF.B1DFF83806D49403B448742F4F1C5F51",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220120706_jpg.rf.b1dff83806d49403b448742f4f1c5f51_fake",
+    "recognized_text": "1MG20240220120706_JPG.RF.B1DFF83806D49403B448742F4F1C5F51",
+    "part_number": "1MG20240220120706_JPG.RF.B1DFF83806D49403B448742F4F1C5F51",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220120712_jpg.rf.96d18ff8984936b546ae711b100700f7",
+    "recognized_text": "IMG20240220120712_JPG.RF.96D18FF8984936B546AE711B100700F7",
+    "part_number": "IMG20240220120712_JPG.RF.96D18FF8984936B546AE711B100700F7",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220120712_jpg.rf.96d18ff8984936b546ae711b100700f7_fake",
+    "recognized_text": "IMG20240220120712_JPG.RF.96D18FF8984936B546AE711B100700F7",
+    "part_number": "IMG20240220120712_JPG.RF.96D18FF8984936B546AE711B100700F7",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220121703_jpg.rf.55fe7748ced798efb890a1a72e617e5d",
+    "recognized_text": "IMG20240220121703_JPG.RF.55FE7748CED798EFB890A1A72E617E5D",
+    "part_number": "IMG20240220121703_JPG.RF.55FE7748CED798EFB890A1A72E617E5D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220121703_jpg.rf.55fe7748ced798efb890a1a72e617e5d_fake",
+    "recognized_text": "IMG20240220121703_JPG.RF.55FE7748CED798EFB890A1A72E617E5D",
+    "part_number": "IMG20240220121703_JPG.RF.55FE7748CED798EFB890A1A72E617E5D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220133619_jpg.rf.8f5000c4ec4a4bd7f7171c5ceb22d602",
+    "recognized_text": "IMG20240220133619_JPG.RF.8F5000C4EC4A4BD7F7171C5CEB22D602",
+    "part_number": "IMG20240220133619_JPG.RF.8F5000C4EC4A4BD7F7171C5CEB22D602",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220133619_jpg.rf.8f5000c4ec4a4bd7f7171c5ceb22d602_fake",
+    "recognized_text": "IMG20240220133619_JPG.RF.8F5000C4EC4A4BD7F7171C5CEB22D602",
+    "part_number": "IMG20240220133619_JPG.RF.8F5000C4EC4A4BD7F7171C5CEB22D602",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220133854_jpg.rf.9f3c735ec1e8cd41f8bc3f804a58fa3a",
+    "recognized_text": "IMG20240220133854_JPG.RF.9F3C735EC1E8CD41F8BC3F804A58FA3A",
+    "part_number": "IMG20240220133854_JPG.RF.9F3C735EC1E8CD41F8BC3F804A58FA3A",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220133854_jpg.rf.9f3c735ec1e8cd41f8bc3f804a58fa3a_fake",
+    "recognized_text": "IMG20240220133854_JPG.RF.9F3C735EC1E8CD4IF8BC3F804A58FA3A",
+    "part_number": "IMG20240220133854_JPG.RF.9F3C735EC1E8CD4IF8BC3F804A58FA3A",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220134311_jpg.rf.c86c6215934b48228e7e922810f1dc4d",
+    "recognized_text": "IMG20240220134311_JPG.RF.C86C6215934B48228E7E922810F1DC4D",
+    "part_number": "IMG20240220134311_JPG.RF.C86C6215934B48228E7E922810F1DC4D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220134311_jpg.rf.c86c6215934b48228e7e922810f1dc4d_fake",
+    "recognized_text": "IMG20240220134311_JPG.RF.C86C6215934B48228E7E922810F1DC4D",
+    "part_number": "IMG20240220134311_JPG.RF.C86C6215934B48228E7E922810F1DC4D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220134537_jpg.rf.6e9cb5dae19821e0db09299098502a1e",
+    "recognized_text": "IMG20240220134537_JPG.RF.6E9CB5DAE19821E0DB09299098502A1E",
+    "part_number": "IMG20240220134537_JPG.RF.6E9CB5DAE19821E0DB09299098502A1E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220134537_jpg.rf.6e9cb5dae19821e0db09299098502a1e_fake",
+    "recognized_text": "IMG20240220134537_JPG.RF.6E9CB5DAE19821E0DB09299098502A1E",
+    "part_number": "IMG20240220134537_JPG.RF.6E9CB5DAE19821E0DB09299098502A1E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220134651_jpg.rf.fb74ba5d99ba2393de9b6fcba342fb8a",
+    "recognized_text": "IMG20240220134651_JPG.RF.FB74BA5D99BA2393DE9B6FCBA342FB8A",
+    "part_number": "IMG20240220134651_JPG.RF.FB74BA5D99BA2393DE9B6FCBA342FB8A",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220134651_jpg.rf.fb74ba5d99ba2393de9b6fcba342fb8a_fake",
+    "recognized_text": "IMG20240220134651_JPG.RF.FB74BA5D99BA2393DE9B6FCBA342FB8A",
+    "part_number": "IMG20240220134651_JPG.RF.FB74BA5D99BA2393DE9B6FCBA342FB8A",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220134719_jpg.rf.08f603752d2605e2714f8c5bcfe7a50f",
+    "recognized_text": "IMG20240220134719_JPG.RF.08F603752D2605E2714F8C5BCFE7A50F",
+    "part_number": "IMG20240220134719_JPG.RF.08F603752D2605E2714F8C5BCFE7A50F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220134719_jpg.rf.08f603752d2605e2714f8c5bcfe7a50f_fake",
+    "recognized_text": "IMG20240220134719_JPG.RF.08F603752D2605E2714F8C5BCFE7A50F",
+    "part_number": "IMG20240220134719_JPG.RF.08F603752D2605E2714F8C5BCFE7A50F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220135003_jpg.rf.dc15732106daa440f79b169b6f4e1bd9",
+    "recognized_text": "IMG20240220135003_JPG.RF.DC15732106DAA440F79B169B6F4E1BD9",
+    "part_number": "IMG20240220135003_JPG.RF.DC15732106DAA440F79B169B6F4E1BD9",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220135003_jpg.rf.dc15732106daa440f79b169b6f4e1bd9_fake",
+    "recognized_text": "IMG20240220135003_JPG.RF.DC15732106DAA440F79B169B6F4EIBD9",
+    "part_number": "IMG20240220135003_JPG.RF.DC15732106DAA440F79B169B6F4EIBD9",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220135244_jpg.rf.67896633ce6b3c734bcc10ef21ad5823",
+    "recognized_text": "IMG20240220135244_JPG.RF.67896633CE6B3C734BCC10EF21AD5823",
+    "part_number": "IMG20240220135244_JPG.RF.67896633CE6B3C734BCC10EF21AD5823",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240220135244_jpg.rf.67896633ce6b3c734bcc10ef21ad5823_fake",
+    "recognized_text": "IMG20240220135244_JPG.RF.67896633CE6B3C734BCC10EF21AD5823",
+    "part_number": "IMG20240220135244_JPG.RF.67896633CE6B3C734BCC10EF21AD5823",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228123032_jpg.rf.6fd6968fa07c5b4701d8d0a25f030732",
+    "recognized_text": "IMG20240228123032_JPG.RF.6FD6968FA07C5B4701D8D0A25F030732",
+    "part_number": "IMG20240228123032_JPG.RF.6FD6968FA07C5B4701D8D0A25F030732",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228123032_jpg.rf.6fd6968fa07c5b4701d8d0a25f030732_fake",
+    "recognized_text": "IMG2024022B123032_JPG.RF.6FD6968FA07C5B4701D8D0A25F030732",
+    "part_number": "IMG2024022B123032_JPG.RF.6FD6968FA07C5B4701D8D0A25F030732",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228123642_jpg.rf.ea1b858851d68488ef362a87b3f5037e",
+    "recognized_text": "IMG20240228123642_JPG.RF.EA1B858851D68488EF362A87B3F5037E",
+    "part_number": "IMG20240228123642_JPG.RF.EA1B858851D68488EF362A87B3F5037E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228123642_jpg.rf.ea1b858851d68488ef362a87b3f5037e_fake",
+    "recognized_text": "IMG20240228123642_JPG.RF.EAIB858851D68488EF362A87B3F5037E",
+    "part_number": "IMG20240228123642_JPG.RF.EAIB858851D68488EF362A87B3F5037E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228123723_jpg.rf.a9fa093d25b382134ff04f0dda702db6",
+    "recognized_text": "IMG20240228123723_JPG.RF.A9FA093D25B382134FF04F0DDA702DB6",
+    "part_number": "IMG20240228123723_JPG.RF.A9FA093D25B382134FF04F0DDA702DB6",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228123723_jpg.rf.a9fa093d25b382134ff04f0dda702db6_fake",
+    "recognized_text": "IMG20240228123723_JPG.RF.A9FA093D25B382134FF04F0DDA702DB6",
+    "part_number": "IMG20240228123723_JPG.RF.A9FA093D25B382134FF04F0DDA702DB6",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228124445_jpg.rf.c6486ef417d1e1500fc957bd3df310ed",
+    "recognized_text": "IMG20240228124445_JPG.RF.C6486EF417D1E1500FC957BD3DF310ED",
+    "part_number": "IMG20240228124445_JPG.RF.C6486EF417D1E1500FC957BD3DF310ED",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228124445_jpg.rf.c6486ef417d1e1500fc957bd3df310ed_fake",
+    "recognized_text": "IMG20240228124445_JPG.RF.C6486EF417D1E1500FC957BD3DF310ED",
+    "part_number": "IMG20240228124445_JPG.RF.C6486EF417D1E1500FC957BD3DF310ED",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228124453_jpg.rf.2a9310ee50d085af5f0a6cc719399530",
+    "recognized_text": "IMG20240228124453_JPG.RF.2A9310EE50D085AF5F0A6CC719399530",
+    "part_number": "IMG20240228124453_JPG.RF.2A9310EE50D085AF5F0A6CC719399530",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228124453_jpg.rf.2a9310ee50d085af5f0a6cc719399530_fake",
+    "recognized_text": "IMG20240228124453_JPG.RF.2A9310EE5OD085AF5F0A6CC719399530",
+    "part_number": "IMG20240228124453_JPG.RF.2A9310EE5OD085AF5F0A6CC719399530",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228125647_jpg.rf.8815024701d86cee3b7cf47770db4287",
+    "recognized_text": "IMG20240228125647_JPG.RF.8815024701D86CEE3B7CF47770DB4287",
+    "part_number": "IMG20240228125647_JPG.RF.8815024701D86CEE3B7CF47770DB4287",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228125647_jpg.rf.8815024701d86cee3b7cf47770db4287_fake",
+    "recognized_text": "IMG20240228125647_JPG.RF.8815024701D86CEE3B7CF47770DB4287",
+    "part_number": "IMG20240228125647_JPG.RF.8815024701D86CEE3B7CF47770DB4287",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228125705_jpg.rf.99d41b064917fb9fd3011b4938528906",
+    "recognized_text": "IMG20240228125705_JPG.RF.99D41B064917FB9FD3011B4938528906",
+    "part_number": "IMG20240228125705_JPG.RF.99D41B064917FB9FD3011B4938528906",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228125705_jpg.rf.99d41b064917fb9fd3011b4938528906_fake",
+    "recognized_text": "IMG20240228125705_JPG.RF.99D41B064917FB9FD3011B4938528906",
+    "part_number": "IMG20240228125705_JPG.RF.99D41B064917FB9FD3011B4938528906",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228131317_jpg.rf.437b2288d1052fbb817ca20bdfe4e14a",
+    "recognized_text": "IMG20240228131317_JPG.RF.437B2288D1052FBB817CA20BDFE4E14A",
+    "part_number": "IMG20240228131317_JPG.RF.437B2288D1052FBB817CA20BDFE4E14A",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228131317_jpg.rf.437b2288d1052fbb817ca20bdfe4e14a_fake",
+    "recognized_text": "IMG2024022813I317_JPG.RF.437B2288D1052FBB817CA20BDFE4E14A",
+    "part_number": "IMG2024022813I317_JPG.RF.437B2288D1052FBB817CA20BDFE4E14A",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228131634_jpg.rf.10baba083450a3ed73a61b03d4cb014f",
+    "recognized_text": "IMG20240228131634_JPG.RF.10BABA083450A3ED73A61B03D4CB014F",
+    "part_number": "IMG20240228131634_JPG.RF.10BABA083450A3ED73A61B03D4CB014F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228131634_jpg.rf.10baba083450a3ed73a61b03d4cb014f_fake",
+    "recognized_text": "IMG20240228I31634_JPG.RF.10BABA083450A3ED73A61B03D4CB014F",
+    "part_number": "IMG20240228I31634_JPG.RF.10BABA083450A3ED73A61B03D4CB014F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228131658_jpg.rf.1ee0658dc4471a39544b0dbdbfbfbb3c",
+    "recognized_text": "IMG20240228131658_JPG.RF.1EE0658DC4471A39544B0DBDBFBFBB3C",
+    "part_number": "IMG20240228131658_JPG.RF.1EE0658DC4471A39544B0DBDBFBFBB3C",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228131658_jpg.rf.1ee0658dc4471a39544b0dbdbfbfbb3c_fake",
+    "recognized_text": "IMG20240228131658_JPG.RF.1EE0658DC4471A39544B0DBDBFBFBB3C",
+    "part_number": "IMG20240228131658_JPG.RF.1EE0658DC4471A39544B0DBDBFBFBB3C",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228131921_01_jpg.rf.499285664f7a2269be464b7f9c04c3f2",
+    "recognized_text": "IMG20240228131921_01_JPG.RF.499285664F7A2269BE464B7F9C04C3F2",
+    "part_number": "IMG20240228131921_01_JPG.RF.499285664F7A2269BE464B7F9C04C3F2",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228131921_01_jpg.rf.499285664f7a2269be464b7f9c04c3f2_fake",
+    "recognized_text": "IMG20240228131921_01_JPG.RF.499285664F7A2269BE464B7F9CO4C3F2",
+    "part_number": "IMG20240228131921_01_JPG.RF.499285664F7A2269BE464B7F9CO4C3F2",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228132456_jpg.rf.eb64c1ed2dbcd1e6aa3444ccbcac9c4c",
+    "recognized_text": "IMG20240228132456_JPG.RF.EB64C1ED2DBCD1E6AA3444CCBCAC9C4C",
+    "part_number": "IMG20240228132456_JPG.RF.EB64C1ED2DBCD1E6AA3444CCBCAC9C4C",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228132456_jpg.rf.eb64c1ed2dbcd1e6aa3444ccbcac9c4c_fake",
+    "recognized_text": "IMG20240228132456_JPG.RF.EB64C1ED2DBCD1E6AA3444CCBCAC9C4C",
+    "part_number": "IMG20240228132456_JPG.RF.EB64C1ED2DBCD1E6AA3444CCBCAC9C4C",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228132533_jpg.rf.143880b7203bf01cbc7f4389bf0950a9",
+    "recognized_text": "IMG20240228132533_JPG.RF.143880B7203BF01CBC7F4389BF0950A9",
+    "part_number": "IMG20240228132533_JPG.RF.143880B7203BF01CBC7F4389BF0950A9",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228132533_jpg.rf.143880b7203bf01cbc7f4389bf0950a9_fake",
+    "recognized_text": "IMG20240228132533_JPG.RF.143880B7203BF01CBC7F4389BF0950A9",
+    "part_number": "IMG20240228132533_JPG.RF.143880B7203BF01CBC7F4389BF0950A9",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228132935_jpg.rf.4e48dbee62b520471322d8e85eb76303",
+    "recognized_text": "IMG20240228132935_JPG.RF.4E48DBEE62B520471322D8E85EB76303",
+    "part_number": "IMG20240228132935_JPG.RF.4E48DBEE62B520471322D8E85EB76303",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228132935_jpg.rf.4e48dbee62b520471322d8e85eb76303_fake",
+    "recognized_text": "IMG20240228132935_JPG.RF.4E48DBEE62B520471322D8E85EB76303",
+    "part_number": "IMG20240228132935_JPG.RF.4E48DBEE62B520471322D8E85EB76303",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228133659_01_jpg.rf.3906dd240d26469fb41bc84188d1cb5c",
+    "recognized_text": "IMG20240228133659_01_JPG.RF.3906DD240D26469FB41BC84188D1CB5C",
+    "part_number": "IMG20240228133659_01_JPG.RF.3906DD240D26469FB41BC84188D1CB5C",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228133659_01_jpg.rf.3906dd240d26469fb41bc84188d1cb5c_fake",
+    "recognized_text": "IMG20240228133659_01_JPG.RF.3906DD240D26469FB41BC84188D1CB5C",
+    "part_number": "IMG20240228133659_01_JPG.RF.3906DD240D26469FB41BC84188D1CB5C",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228135553_jpg.rf.eba81894b805784244573adc6e27013c",
+    "recognized_text": "IMG20240228135553_JPG.RF.EBA81894B805784244573ADC6E27013C",
+    "part_number": "IMG20240228135553_JPG.RF.EBA81894B805784244573ADC6E27013C",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228135553_jpg.rf.eba81894b805784244573adc6e27013c_fake",
+    "recognized_text": "IMG20240228135553_JPG.RF.EBA81894B805784244573ADC6E27013C",
+    "part_number": "IMG20240228135553_JPG.RF.EBA81894B805784244573ADC6E27013C",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228142403_jpg.rf.a435ebefe7741245109277088757e380",
+    "recognized_text": "IMG20240228142403_JPG.RF.A435EBEFE7741245109277088757E380",
+    "part_number": "IMG20240228142403_JPG.RF.A435EBEFE7741245109277088757E380",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228142403_jpg.rf.a435ebefe7741245109277088757e380_fake",
+    "recognized_text": "IMG2O240228142403_JPG.RF.A435EBEFE7741245109277088757E380",
+    "part_number": "IMG2O240228142403_JPG.RF.A435EBEFE7741245109277088757E380",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110129_jpg.rf.f69afec48f2ac3cf680a5de6ff36b2fe",
+    "recognized_text": "IMG20240303110129_JPG.RF.F69AFEC48F2AC3CF680A5DE6FF36B2FE",
+    "part_number": "IMG20240303110129_JPG.RF.F69AFEC48F2AC3CF680A5DE6FF36B2FE",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110129_jpg.rf.f69afec48f2ac3cf680a5de6ff36b2fe_fake",
+    "recognized_text": "IMG202403031I0129_JPG.RF.F69AFEC48F2AC3CF680A5DE6FF36B2FE",
+    "part_number": "IMG202403031I0129_JPG.RF.F69AFEC48F2AC3CF680A5DE6FF36B2FE",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110214_jpg.rf.42a2d0ef482d33cbb5ce934a98a73fac",
+    "recognized_text": "IMG20240303110214_JPG.RF.42A2D0EF482D33CBB5CE934A98A73FAC",
+    "part_number": "IMG20240303110214_JPG.RF.42A2D0EF482D33CBB5CE934A98A73FAC",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110214_jpg.rf.42a2d0ef482d33cbb5ce934a98a73fac_fake",
+    "recognized_text": "IMG2024030311O214_JPG.RF.42A2D0EF482D33CBB5CE934A98A73FAC",
+    "part_number": "IMG2024030311O214_JPG.RF.42A2D0EF482D33CBB5CE934A98A73FAC",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110406_jpg.rf.093c14ba8b00880183879855c7ac7c55",
+    "recognized_text": "IMG20240303110406_JPG.RF.093C14BA8B00880183879855C7AC7C55",
+    "part_number": "IMG20240303110406_JPG.RF.093C14BA8B00880183879855C7AC7C55",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110406_jpg.rf.093c14ba8b00880183879855c7ac7c55_fake",
+    "recognized_text": "IMG20240303110406_JPG.RF.093C14BA8B00880183879855C7AC7C55",
+    "part_number": "IMG20240303110406_JPG.RF.093C14BA8B00880183879855C7AC7C55",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110414_jpg.rf.691bbd7eca1f9a50e1ed06825e417172",
+    "recognized_text": "IMG20240303110414_JPG.RF.691BBD7ECA1F9A50E1ED06825E417172",
+    "part_number": "IMG20240303110414_JPG.RF.691BBD7ECA1F9A50E1ED06825E417172",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110414_jpg.rf.691bbd7eca1f9a50e1ed06825e417172_fake",
+    "recognized_text": "IMG202403031104I4_JPG.RF.691BBD7ECA1F9A50E1ED06825E417172",
+    "part_number": "IMG202403031104I4_JPG.RF.691BBD7ECA1F9A50E1ED06825E417172",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110422_jpg.rf.4557efe72f4ddd25a4ec1ac70b352e8c",
+    "recognized_text": "IMG20240303110422_JPG.RF.4557EFE72F4DDD25A4EC1AC70B352E8C",
+    "part_number": "IMG20240303110422_JPG.RF.4557EFE72F4DDD25A4EC1AC70B352E8C",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110422_jpg.rf.4557efe72f4ddd25a4ec1ac70b352e8c_fake",
+    "recognized_text": "IMG20240303110422_JPG.RF.4557EFE72F4DDD25A4EC1AC70B352E8C",
+    "part_number": "IMG20240303110422_JPG.RF.4557EFE72F4DDD25A4EC1AC70B352E8C",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110734_jpg.rf.908199f7e1fc14639e5a01dc803b0a5d",
+    "recognized_text": "IMG20240303110734_JPG.RF.908199F7E1FC14639E5A01DC803B0A5D",
+    "part_number": "IMG20240303110734_JPG.RF.908199F7E1FC14639E5A01DC803B0A5D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303110734_jpg.rf.908199f7e1fc14639e5a01dc803b0a5d_fake",
+    "recognized_text": "IMG20240303110734_JPG.RF.908199F7E1FC14639E5A01DC803B0A5D",
+    "part_number": "IMG20240303110734_JPG.RF.908199F7E1FC14639E5A01DC803B0A5D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303111224_jpg.rf.0cb9be849b5133341b95270349e224a2",
+    "recognized_text": "IMG20240303111224_JPG.RF.0CB9BE849B5133341B95270349E224A2",
+    "part_number": "IMG20240303111224_JPG.RF.0CB9BE849B5133341B95270349E224A2",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303111224_jpg.rf.0cb9be849b5133341b95270349e224a2_fake",
+    "recognized_text": "IMG20240303111224_JPG.RF.0CB9BEB49B5133341B95270349E224A2",
+    "part_number": "IMG20240303111224_JPG.RF.0CB9BEB49B5133341B95270349E224A2",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303111312_jpg.rf.4e9622644a995b74cf13a5632baaa0f0",
+    "recognized_text": "IMG20240303111312_JPG.RF.4E9622644A995B74CF13A5632BAAA0F0",
+    "part_number": "IMG20240303111312_JPG.RF.4E9622644A995B74CF13A5632BAAA0F0",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240303111312_jpg.rf.4e9622644a995b74cf13a5632baaa0f0_fake",
+    "recognized_text": "IMG20240303111312_JPG.RF.4E9622644A995B74CF13A5632BAAA0F0",
+    "part_number": "IMG20240303111312_JPG.RF.4E9622644A995B74CF13A5632BAAA0F0",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306115356_jpg.rf.8b554c7e17663b5acb2d3ca35c1435d8",
+    "recognized_text": "IMG20240306115356_JPG.RF.8B554C7E17663B5ACB2D3CA35C1435D8",
+    "part_number": "IMG20240306115356_JPG.RF.8B554C7E17663B5ACB2D3CA35C1435D8",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306115356_jpg.rf.8b554c7e17663b5acb2d3ca35c1435d8_fake",
+    "recognized_text": "IMG20240306115356_JPG.RF.8B554C7E17663B5ACB2D3CA35C1435D8",
+    "part_number": "IMG20240306115356_JPG.RF.8B554C7E17663B5ACB2D3CA35C1435D8",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306115416_jpg.rf.227130def0038d5eff3592e8309e8762",
+    "recognized_text": "IMG20240306115416_JPG.RF.227130DEF0038D5EFF3592E8309E8762",
+    "part_number": "IMG20240306115416_JPG.RF.227130DEF0038D5EFF3592E8309E8762",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306115416_jpg.rf.227130def0038d5eff3592e8309e8762_fake",
+    "recognized_text": "IMG20240306115416_JPG.RF.227130DEF0038D5EFF3592E8309E8762",
+    "part_number": "IMG20240306115416_JPG.RF.227130DEF0038D5EFF3592E8309E8762",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306120839_jpg.rf.f01cef01b9afaf85fd1e7c6242112a6e",
+    "recognized_text": "IMG20240306120839_JPG.RF.F01CEF01B9AFAF85FD1E7C6242112A6E",
+    "part_number": "IMG20240306120839_JPG.RF.F01CEF01B9AFAF85FD1E7C6242112A6E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306120839_jpg.rf.f01cef01b9afaf85fd1e7c6242112a6e_fake",
+    "recognized_text": "IMG2O240306120839_JPG.RF.F01CEF01B9AFAF85FD1E7C6242112A6E",
+    "part_number": "IMG2O240306120839_JPG.RF.F01CEF01B9AFAF85FD1E7C6242112A6E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306121026_jpg.rf.95a158a09cf951fb282d828f12e83121",
+    "recognized_text": "IMG20240306121026_JPG.RF.95A158A09CF951FB282D828F12E83121",
+    "part_number": "IMG20240306121026_JPG.RF.95A158A09CF951FB282D828F12E83121",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306121026_jpg.rf.95a158a09cf951fb282d828f12e83121_fake",
+    "recognized_text": "IMG20240306121026_JPG.RF.95A158A09CF951FB282D828F12E83121",
+    "part_number": "IMG20240306121026_JPG.RF.95A158A09CF951FB282D828F12E83121",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306143551_jpg.rf.7741f027f005c7bc1bf39d271abfcd68",
+    "recognized_text": "IMG20240306143551_JPG.RF.7741F027F005C7BC1BF39D271ABFCD68",
+    "part_number": "IMG20240306143551_JPG.RF.7741F027F005C7BC1BF39D271ABFCD68",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306143551_jpg.rf.7741f027f005c7bc1bf39d271abfcd68_fake",
+    "recognized_text": "IMG20240306143551_JPG.RF.7741F027F005C7BC1BF39D271ABFCD68",
+    "part_number": "IMG20240306143551_JPG.RF.7741F027F005C7BC1BF39D271ABFCD68",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306143620_jpg.rf.f146c19a5615d687720c0e4f8cf2a835",
+    "recognized_text": "IMG20240306143620_JPG.RF.F146C19A5615D687720C0E4F8CF2A835",
+    "part_number": "IMG20240306143620_JPG.RF.F146C19A5615D687720C0E4F8CF2A835",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306143620_jpg.rf.f146c19a5615d687720c0e4f8cf2a835_fake",
+    "recognized_text": "IMG20240306143620_JPG.RF.F146C19A5615D687720C0E4F8CF2A835",
+    "part_number": "IMG20240306143620_JPG.RF.F146C19A5615D687720C0E4F8CF2A835",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306143713_jpg.rf.307965d5bf18e193a696c151caee496f",
+    "recognized_text": "IMG20240306143713_JPG.RF.307965D5BF18E193A696C151CAEE496F",
+    "part_number": "IMG20240306143713_JPG.RF.307965D5BF18E193A696C151CAEE496F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306143713_jpg.rf.307965d5bf18e193a696c151caee496f_fake",
+    "recognized_text": "IMG20240306143713_JPG.RF.307965D5BF18E193A696C151CAEE496F",
+    "part_number": "IMG20240306143713_JPG.RF.307965D5BF18E193A696C151CAEE496F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306143950_jpg.rf.c6f94ec40dff9bbefa9d7b5f62305064",
+    "recognized_text": "IMG20240306143950_JPG.RF.C6F94EC40DFF9BBEFA9D7B5F62305064",
+    "part_number": "IMG20240306143950_JPG.RF.C6F94EC40DFF9BBEFA9D7B5F62305064",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306143950_jpg.rf.c6f94ec40dff9bbefa9d7b5f62305064_fake",
+    "recognized_text": "IMG20240306143950_JPG.RF.C6F94EC40DFF9BBEFA9D7B5F62305064",
+    "part_number": "IMG20240306143950_JPG.RF.C6F94EC40DFF9BBEFA9D7B5F62305064",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306144250_jpg.rf.3707cd5226a50fe9f9c3ba8b308d7420",
+    "recognized_text": "IMG20240306144250_JPG.RF.3707CD5226A50FE9F9C3BA8B308D7420",
+    "part_number": "IMG20240306144250_JPG.RF.3707CD5226A50FE9F9C3BA8B308D7420",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306144250_jpg.rf.3707cd5226a50fe9f9c3ba8b308d7420_fake",
+    "recognized_text": "IMG2024030614425O_JPG.RF.3707CD5226A50FE9F9C3BA8B308D7420",
+    "part_number": "IMG2024030614425O_JPG.RF.3707CD5226A50FE9F9C3BA8B308D7420",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306144311_jpg.rf.8e5e511d633218a92292a3e717375bf8",
+    "recognized_text": "IMG20240306144311_JPG.RF.8E5E511D633218A92292A3E717375BF8",
+    "part_number": "IMG20240306144311_JPG.RF.8E5E511D633218A92292A3E717375BF8",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306144311_jpg.rf.8e5e511d633218a92292a3e717375bf8_fake",
+    "recognized_text": "IMG20240306144311_JPG.RF.8E5E511D633218A92292A3E717375BF8",
+    "part_number": "IMG20240306144311_JPG.RF.8E5E511D633218A92292A3E717375BF8",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309112459_jpg.rf.f2f5b12f9e6ee60fc4a21900c6c30950",
+    "recognized_text": "IMG20240309112459_JPG.RF.F2F5B12F9E6EE60FC4A21900C6C30950",
+    "part_number": "IMG20240309112459_JPG.RF.F2F5B12F9E6EE60FC4A21900C6C30950",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309112459_jpg.rf.f2f5b12f9e6ee60fc4a21900c6c30950_fake",
+    "recognized_text": "IMG20240309112459_JPG.RF.F2F5B12F9E6EE60FC4A21900C6C3O950",
+    "part_number": "IMG20240309112459_JPG.RF.F2F5B12F9E6EE60FC4A21900C6C3O950",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309112551_jpg.rf.60492e479f3c0b12a33c08d5e55c01b7",
+    "recognized_text": "IMG20240309112551_JPG.RF.60492E479F3C0B12A33C08D5E55C01B7",
+    "part_number": "IMG20240309112551_JPG.RF.60492E479F3C0B12A33C08D5E55C01B7",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309112551_jpg.rf.60492e479f3c0b12a33c08d5e55c01b7_fake",
+    "recognized_text": "IMG2O240309112551_JPG.RF.60492E479F3C0B12A33C08D5E55C01B7",
+    "part_number": "IMG2O240309112551_JPG.RF.60492E479F3C0B12A33C08D5E55C01B7",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309112703_jpg.rf.8c7a677abdba7e75dbf5dddb42d89986",
+    "recognized_text": "IMG20240309112703_JPG.RF.8C7A677ABDBA7E75DBF5DDDB42D89986",
+    "part_number": "IMG20240309112703_JPG.RF.8C7A677ABDBA7E75DBF5DDDB42D89986",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309112703_jpg.rf.8c7a677abdba7e75dbf5dddb42d89986_fake",
+    "recognized_text": "IMG20240309112703_JPG.RF.8C7A677ABDBA7E75D8F5DDDB42D89986",
+    "part_number": "IMG20240309112703_JPG.RF.8C7A677ABDBA7E75D8F5DDDB42D89986",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309112748_jpg.rf.b61e5944228f904b9e67156be26ba15d",
+    "recognized_text": "IMG20240309112748_JPG.RF.B61E5944228F904B9E67156BE26BA15D",
+    "part_number": "IMG20240309112748_JPG.RF.B61E5944228F904B9E67156BE26BA15D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309112748_jpg.rf.b61e5944228f904b9e67156be26ba15d_fake",
+    "recognized_text": "IMG20240309112748_JPG.RF.B61E5944228F904B9E67156BE26BA15D",
+    "part_number": "IMG20240309112748_JPG.RF.B61E5944228F904B9E67156BE26BA15D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309113417_jpg.rf.97d14d5a33935de3ba341eac65df071a",
+    "recognized_text": "IMG20240309113417_JPG.RF.97D14D5A33935DE3BA341EAC65DF071A",
+    "part_number": "IMG20240309113417_JPG.RF.97D14D5A33935DE3BA341EAC65DF071A",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309113417_jpg.rf.97d14d5a33935de3ba341eac65df071a_fake",
+    "recognized_text": "IMG20240309113417_JPG.RF.97D14D5A33935DE3BA341EAC65DF071A",
+    "part_number": "IMG20240309113417_JPG.RF.97D14D5A33935DE3BA341EAC65DF071A",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309113622_jpg.rf.6732f6ff991f411c6f24bf80081ed7c9",
+    "recognized_text": "IMG20240309113622_JPG.RF.6732F6FF991F411C6F24BF80081ED7C9",
+    "part_number": "IMG20240309113622_JPG.RF.6732F6FF991F411C6F24BF80081ED7C9",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309113622_jpg.rf.6732f6ff991f411c6f24bf80081ed7c9_fake",
+    "recognized_text": "IMG202403O9113622_JPG.RF.6732F6FF991F411C6F24BF80081ED7C9",
+    "part_number": "IMG202403O9113622_JPG.RF.6732F6FF991F411C6F24BF80081ED7C9",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309114604_jpg.rf.562e29307759de4a2210a4ae3ebd519b",
+    "recognized_text": "IMG20240309114604_JPG.RF.562E29307759DE4A2210A4AE3EBD519B",
+    "part_number": "IMG20240309114604_JPG.RF.562E29307759DE4A2210A4AE3EBD519B",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309114604_jpg.rf.562e29307759de4a2210a4ae3ebd519b_fake",
+    "recognized_text": "IMG20240309114604_JPG.RF.562E29307759DE4A2210A4AE3EBD519B",
+    "part_number": "IMG20240309114604_JPG.RF.562E29307759DE4A2210A4AE3EBD519B",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309114740_jpg.rf.c14b7c25f2fed4800e2187978d33247d",
+    "recognized_text": "IMG20240309114740_JPG.RF.C14B7C25F2FED4800E2187978D33247D",
+    "part_number": "IMG20240309114740_JPG.RF.C14B7C25F2FED4800E2187978D33247D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309114740_jpg.rf.c14b7c25f2fed4800e2187978d33247d_fake",
+    "recognized_text": "IMG20240309114740_JPG.RF.C14B7C25F2FED4800E2187978D33247D",
+    "part_number": "IMG20240309114740_JPG.RF.C14B7C25F2FED4800E2187978D33247D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309114846_jpg.rf.9cf50aeb9825d11f47ea42ad302cc2a0",
+    "recognized_text": "IMG20240309114846_JPG.RF.9CF50AEB9825D11F47EA42AD302CC2A0",
+    "part_number": "IMG20240309114846_JPG.RF.9CF50AEB9825D11F47EA42AD302CC2A0",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309114846_jpg.rf.9cf50aeb9825d11f47ea42ad302cc2a0_fake",
+    "recognized_text": "IMG2O240309114846_JPG.RF.9CF50AEB9825D11F47EA42AD302CC2A0",
+    "part_number": "IMG2O240309114846_JPG.RF.9CF50AEB9825D11F47EA42AD302CC2A0",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309115014_jpg.rf.ff12164246fc231f2ec876ee1fd2c8b4",
+    "recognized_text": "IMG20240309115014_JPG.RF.FF12164246FC231F2EC876EE1FD2C8B4",
+    "part_number": "IMG20240309115014_JPG.RF.FF12164246FC231F2EC876EE1FD2C8B4",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309115014_jpg.rf.ff12164246fc231f2ec876ee1fd2c8b4_fake",
+    "recognized_text": "IMG20240309115014_JPG.RF.FF12164246FC231F2EC876EE1FD2C8B4",
+    "part_number": "IMG20240309115014_JPG.RF.FF12164246FC231F2EC876EE1FD2C8B4",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309115204_jpg.rf.1671fdd07f252ac94f4d03a6b0d1d8bf",
+    "recognized_text": "IMG20240309115204_JPG.RF.1671FDD07F252AC94F4D03A6B0D1D8BF",
+    "part_number": "IMG20240309115204_JPG.RF.1671FDD07F252AC94F4D03A6B0D1D8BF",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309115204_jpg.rf.1671fdd07f252ac94f4d03a6b0d1d8bf_fake",
+    "recognized_text": "IMG202403091I5204_JPG.RF.1671FDD07F252AC94F4D03A6B0D1D8BF",
+    "part_number": "IMG202403091I5204_JPG.RF.1671FDD07F252AC94F4D03A6B0D1D8BF",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309115335_jpg.rf.6ad540faa5368da45bb973134108bc92",
+    "recognized_text": "IMG20240309115335_JPG.RF.6AD540FAA5368DA45BB973134108BC92",
+    "part_number": "IMG20240309115335_JPG.RF.6AD540FAA5368DA45BB973134108BC92",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309115335_jpg.rf.6ad540faa5368da45bb973134108bc92_fake",
+    "recognized_text": "IMG20240309115335_JPG.RF.6AD540FAA5368DA45BB973134108BC92",
+    "part_number": "IMG20240309115335_JPG.RF.6AD540FAA5368DA45BB973134108BC92",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240417115121_jpg.rf.13be37c45ead033f9d0ad1eb6b5d49e6",
+    "recognized_text": "IMG20240417115121_JPG.RF.13BE37C45EAD033F9D0AD1EB6B5D49E6",
+    "part_number": "IMG20240417115121_JPG.RF.13BE37C45EAD033F9D0AD1EB6B5D49E6",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240417115121_jpg.rf.13be37c45ead033f9d0ad1eb6b5d49e6_fake",
+    "recognized_text": "IMG20240417115121_JPG.RF.13BE37C45EAD033F9D0AD1EB6B5D49E6",
+    "part_number": "IMG20240417115121_JPG.RF.13BE37C45EAD033F9D0AD1EB6B5D49E6",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG20240417115151_jpg.rf.e17a341aeb82ba75a36bcba2cc2c1a73",
+    "recognized_text": "IMG20240417115151_JPG.RF.E17A341AEB82BA75A36BCBA2CC2C1A73",
+    "part_number": "IMG20240417115151_JPG.RF.E17A341AEB82BA75A36BCBA2CC2C1A73",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG20240417115151_jpg.rf.e17a341aeb82ba75a36bcba2cc2c1a73_fake",
+    "recognized_text": "IMG2024041711S151_JPG.RF.E17A341AEB82BA75A36BCBA2CC2C1A73",
+    "part_number": "IMG2024041711S151_JPG.RF.E17A341AEB82BA75A36BCBA2CC2C1A73",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_113711_jpg.rf.73592dbfb956713954c415060015c988",
+    "recognized_text": "IMG_20240219_113711_JPG.RF.73592DBFB956713954C415060015C988",
+    "part_number": "IMG_20240219_113711_JPG.RF.73592DBFB956713954C415060015C988",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_113711_jpg.rf.73592dbfb956713954c415060015c988_fake",
+    "recognized_text": "IMG_20240219_113711_JPG.RF.73592DBFB956713954C4I5060015C988",
+    "part_number": "IMG_20240219_113711_JPG.RF.73592DBFB956713954C4I5060015C988",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_113730_jpg.rf.43bcf0a8aa798b429ab2c0df3544050a",
+    "recognized_text": "IMG_20240219_113730_JPG.RF.43BCF0A8AA798B429AB2C0DF3544050A",
+    "part_number": "IMG_20240219_113730_JPG.RF.43BCF0A8AA798B429AB2C0DF3544050A",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_113730_jpg.rf.43bcf0a8aa798b429ab2c0df3544050a_fake",
+    "recognized_text": "IMG_2024O219_113730_JPG.RF.43BCF0A8AA798B429AB2C0DF3544050A",
+    "part_number": "IMG_2024O219_113730_JPG.RF.43BCF0A8AA798B429AB2C0DF3544050A",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_114018_jpg.rf.cc4cd7e4ff37ab830c5c2486c64928cb",
+    "recognized_text": "IMG_20240219_114018_JPG.RF.CC4CD7E4FF37AB830C5C2486C64928CB",
+    "part_number": "IMG_20240219_114018_JPG.RF.CC4CD7E4FF37AB830C5C2486C64928CB",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_114018_jpg.rf.cc4cd7e4ff37ab830c5c2486c64928cb_fake",
+    "recognized_text": "IMG_20240219_114018_JPG.RF.CC4CD7E4FF37AB830C5C2486C64928CB",
+    "part_number": "IMG_20240219_114018_JPG.RF.CC4CD7E4FF37AB830C5C2486C64928CB",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_114214_jpg.rf.9bab4688773675e4df3250dfa834ccee",
+    "recognized_text": "IMG_20240219_114214_JPG.RF.9BAB4688773675E4DF3250DFA834CCEE",
+    "part_number": "IMG_20240219_114214_JPG.RF.9BAB4688773675E4DF3250DFA834CCEE",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_114214_jpg.rf.9bab4688773675e4df3250dfa834ccee_fake",
+    "recognized_text": "IMG_20240219_114214_JPG.RF.9BAB4688773675E4DF3250DFA834CCEE",
+    "part_number": "IMG_20240219_114214_JPG.RF.9BAB4688773675E4DF3250DFA834CCEE",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_115224_jpg.rf.5f67037e074d7be714f5f45783a15fcd",
+    "recognized_text": "IMG_20240219_115224_JPG.RF.5F67037E074D7BE714F5F45783A15FCD",
+    "part_number": "IMG_20240219_115224_JPG.RF.5F67037E074D7BE714F5F45783A15FCD",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_115224_jpg.rf.5f67037e074d7be714f5f45783a15fcd_fake",
+    "recognized_text": "IMG_20240219_115224_JPG.RF.5F67037E074D7BE714F5F45783A15FCD",
+    "part_number": "IMG_20240219_115224_JPG.RF.5F67037E074D7BE714F5F45783A15FCD",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_115342_jpg.rf.e0ac84daf7ebae808e72b4262a666558",
+    "recognized_text": "IMG_20240219_115342_JPG.RF.E0AC84DAF7EBAE808E72B4262A666558",
+    "part_number": "IMG_20240219_115342_JPG.RF.E0AC84DAF7EBAE808E72B4262A666558",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_115342_jpg.rf.e0ac84daf7ebae808e72b4262a666558_fake",
+    "recognized_text": "IMG_2024O219_I15342_JPG.RF.E0AC84DAF7EBAE808E72B4262A666558",
+    "part_number": "IMG_2024O219_I15342_JPG.RF.E0AC84DAF7EBAE808E72B4262A666558",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_114159_jpg.rf.0f552fb476fb128439104386f388a9e1",
+    "recognized_text": "IMG_20240220_114159_JPG.RF.0F552FB476FB128439104386F388A9E1",
+    "part_number": "IMG_20240220_114159_JPG.RF.0F552FB476FB128439104386F388A9E1",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_114159_jpg.rf.0f552fb476fb128439104386f388a9e1_fake",
+    "recognized_text": "IMG_20240220_114159_JPG.RF.0F552FB476FB128439104386F388A9E1",
+    "part_number": "IMG_20240220_114159_JPG.RF.0F552FB476FB128439104386F388A9E1",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_114930_jpg.rf.b443e1496d702c6d19987ab43b73930f",
+    "recognized_text": "IMG_20240220_114930_JPG.RF.B443E1496D702C6D19987AB43B73930F",
+    "part_number": "IMG_20240220_114930_JPG.RF.B443E1496D702C6D19987AB43B73930F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_114930_jpg.rf.b443e1496d702c6d19987ab43b73930f_fake",
+    "recognized_text": "IMG_20240220_114930_JPG.RF.B443E1496D702C6D19987AB43B73930F",
+    "part_number": "IMG_20240220_114930_JPG.RF.B443E1496D702C6D19987AB43B73930F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_114936_jpg.rf.5b54d7d2ccb68d38b87483bdfca9172e",
+    "recognized_text": "IMG_20240220_114936_JPG.RF.5B54D7D2CCB68D38B87483BDFCA9172E",
+    "part_number": "IMG_20240220_114936_JPG.RF.5B54D7D2CCB68D38B87483BDFCA9172E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_114936_jpg.rf.5b54d7d2ccb68d38b87483bdfca9172e_fake",
+    "recognized_text": "IMG_20240220_114936_JPG.RF.5B54D7D2CCB68D38B87483BDFCA9I72E",
+    "part_number": "IMG_20240220_114936_JPG.RF.5B54D7D2CCB68D38B87483BDFCA9I72E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115051_jpg.rf.49e9d8d02f507512436a41a7966826d1",
+    "recognized_text": "IMG_20240220_115051_JPG.RF.49E9D8D02F507512436A41A7966826D1",
+    "part_number": "IMG_20240220_115051_JPG.RF.49E9D8D02F507512436A41A7966826D1",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115051_jpg.rf.49e9d8d02f507512436a41a7966826d1_fake",
+    "recognized_text": "IMG_20240220_I15051_JPG.RF.49E9D8D02F507512436A41A7966826D1",
+    "part_number": "IMG_20240220_I15051_JPG.RF.49E9D8D02F507512436A41A7966826D1",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115127_jpg.rf.2ef9da86f74753542d0dc9991f49f8aa",
+    "recognized_text": "IMG_20240220_115127_JPG.RF.2EF9DA86F74753542D0DC9991F49F8AA",
+    "part_number": "IMG_20240220_115127_JPG.RF.2EF9DA86F74753542D0DC9991F49F8AA",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115127_jpg.rf.2ef9da86f74753542d0dc9991f49f8aa_fake",
+    "recognized_text": "IMG_20240220_115127_JPG.RF.2EF9DA86F74753542D0DC9991F49F8AA",
+    "part_number": "IMG_20240220_115127_JPG.RF.2EF9DA86F74753542D0DC9991F49F8AA",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115502_jpg.rf.caca3a276324e9f03b4c1615f4b80654",
+    "recognized_text": "IMG_20240220_115502_JPG.RF.CACA3A276324E9F03B4C1615F4B80654",
+    "part_number": "IMG_20240220_115502_JPG.RF.CACA3A276324E9F03B4C1615F4B80654",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115502_jpg.rf.caca3a276324e9f03b4c1615f4b80654_fake",
+    "recognized_text": "IMG_20240220_115502_JPG.RF.CACA3A276324E9F03B4C1615F4B80654",
+    "part_number": "IMG_20240220_115502_JPG.RF.CACA3A276324E9F03B4C1615F4B80654",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115539_jpg.rf.eda7266da9458a76b702c7f881428cc7",
+    "recognized_text": "IMG_20240220_115539_JPG.RF.EDA7266DA9458A76B702C7F881428CC7",
+    "part_number": "IMG_20240220_115539_JPG.RF.EDA7266DA9458A76B702C7F881428CC7",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115539_jpg.rf.eda7266da9458a76b702c7f881428cc7_fake",
+    "recognized_text": "IMG_20240220_115539_JPG.RF.EDA7266DA9458A76B7O2C7F881428CC7",
+    "part_number": "IMG_20240220_115539_JPG.RF.EDA7266DA9458A76B7O2C7F881428CC7",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115849_jpg.rf.bbb5356805697fdfec52649f14a1a613",
+    "recognized_text": "IMG_20240220_115849_JPG.RF.BBB5356805697FDFEC52649F14A1A613",
+    "part_number": "IMG_20240220_115849_JPG.RF.BBB5356805697FDFEC52649F14A1A613",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_115849_jpg.rf.bbb5356805697fdfec52649f14a1a613_fake",
+    "recognized_text": "IMG_20240220_1I5849_JPG.RF.BBB5356805697FDFEC52649F14A1A613",
+    "part_number": "IMG_20240220_1I5849_JPG.RF.BBB5356805697FDFEC52649F14A1A613",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_120146_jpg.rf.6e384cb143d3899adc87d26a3be971cf",
+    "recognized_text": "IMG_20240220_120146_JPG.RF.6E384CB143D3899ADC87D26A3BE971CF",
+    "part_number": "IMG_20240220_120146_JPG.RF.6E384CB143D3899ADC87D26A3BE971CF",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_120146_jpg.rf.6e384cb143d3899adc87d26a3be971cf_fake",
+    "recognized_text": "IMG_20240220_120146_JPG.RF.6E384CB143D3899ADC87D26A3BE971CF",
+    "part_number": "IMG_20240220_120146_JPG.RF.6E384CB143D3899ADC87D26A3BE971CF",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_120314_jpg.rf.8f38f201a072e90254dbe3bedc28e441",
+    "recognized_text": "IMG_20240220_120314_JPG.RF.8F38F201A072E90254DBE3BEDC28E441",
+    "part_number": "IMG_20240220_120314_JPG.RF.8F38F201A072E90254DBE3BEDC28E441",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_120314_jpg.rf.8f38f201a072e90254dbe3bedc28e441_fake",
+    "recognized_text": "IMG_2024O220_120314_JPG.RF.8F38F201A072E90254DBE3BEDC28E441",
+    "part_number": "IMG_2024O220_120314_JPG.RF.8F38F201A072E90254DBE3BEDC28E441",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_120420_jpg.rf.b13a9f50d46f1573627ffa5d272f5f4e",
+    "recognized_text": "IMG_20240220_120420_JPG.RF.B13A9F50D46F1573627FFA5D272F5F4E",
+    "part_number": "IMG_20240220_120420_JPG.RF.B13A9F50D46F1573627FFA5D272F5F4E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_120420_jpg.rf.b13a9f50d46f1573627ffa5d272f5f4e_fake",
+    "recognized_text": "IMG_20240220_120420_JPG.RF.B13A9F50D46F1573627FFA5D272F5F4E",
+    "part_number": "IMG_20240220_120420_JPG.RF.B13A9F50D46F1573627FFA5D272F5F4E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_121153_jpg.rf.b72d5c89649bea09b7e40a57be3286d1",
+    "recognized_text": "IMG_20240220_121153_JPG.RF.B72D5C89649BEA09B7E40A57BE3286D1",
+    "part_number": "IMG_20240220_121153_JPG.RF.B72D5C89649BEA09B7E40A57BE3286D1",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_121153_jpg.rf.b72d5c89649bea09b7e40a57be3286d1_fake",
+    "recognized_text": "IMG_20240220_121153_JPG.RF.B72D5C89649BEA09B7E40A57BE3286D1",
+    "part_number": "IMG_20240220_121153_JPG.RF.B72D5C89649BEA09B7E40A57BE3286D1",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_121405_jpg.rf.955301391da1ddddbb0261c30bccaedd",
+    "recognized_text": "IMG_20240220_121405_JPG.RF.955301391DA1DDDDBB0261C30BCCAEDD",
+    "part_number": "IMG_20240220_121405_JPG.RF.955301391DA1DDDDBB0261C30BCCAEDD",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_121405_jpg.rf.955301391da1ddddbb0261c30bccaedd_fake",
+    "recognized_text": "1MG_20240220_121405_JPG.RF.955301391DA1DDDDBB0261C30BCCAEDD",
+    "part_number": "1MG_20240220_121405_JPG.RF.955301391DA1DDDDBB0261C30BCCAEDD",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_121536_jpg.rf.586596b30ec2e3ba5fb7dee0decda0e3",
+    "recognized_text": "IMG_20240220_121536_JPG.RF.586596B30EC2E3BA5FB7DEE0DECDA0E3",
+    "part_number": "IMG_20240220_121536_JPG.RF.586596B30EC2E3BA5FB7DEE0DECDA0E3",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_121536_jpg.rf.586596b30ec2e3ba5fb7dee0decda0e3_fake",
+    "recognized_text": "IMG_20240220_121536_JPG.RF.586596B30EC2E3BA5FB7DEE0DECDA0E3",
+    "part_number": "IMG_20240220_121536_JPG.RF.586596B30EC2E3BA5FB7DEE0DECDA0E3",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_131552_jpg.rf.71080158437bc9ae0f7d54ae707c240c",
+    "recognized_text": "IMG_20240220_131552_JPG.RF.71080158437BC9AE0F7D54AE707C240C",
+    "part_number": "IMG_20240220_131552_JPG.RF.71080158437BC9AE0F7D54AE707C240C",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_131552_jpg.rf.71080158437bc9ae0f7d54ae707c240c_fake",
+    "recognized_text": "IMG_20240220_131552_JPG.RF.71080158437BC9AE0F7D54AE707C240C",
+    "part_number": "IMG_20240220_131552_JPG.RF.71080158437BC9AE0F7D54AE707C240C",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_131738_jpg.rf.fbe647d388305137d824ea8dc3bc97f9",
+    "recognized_text": "IMG_20240220_131738_JPG.RF.FBE647D388305137D824EA8DC3BC97F9",
+    "part_number": "IMG_20240220_131738_JPG.RF.FBE647D388305137D824EA8DC3BC97F9",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_131738_jpg.rf.fbe647d388305137d824ea8dc3bc97f9_fake",
+    "recognized_text": "IMG_20240220_131738_JPG.RF.FBE647D388305137DB24EA8DC3BC97F9",
+    "part_number": "IMG_20240220_131738_JPG.RF.FBE647D388305137DB24EA8DC3BC97F9",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132056_jpg.rf.a837dfe589d463b576be27cd1b010515",
+    "recognized_text": "IMG_20240220_132056_JPG.RF.A837DFE589D463B576BE27CD1B010515",
+    "part_number": "IMG_20240220_132056_JPG.RF.A837DFE589D463B576BE27CD1B010515",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132056_jpg.rf.a837dfe589d463b576be27cd1b010515_fake",
+    "recognized_text": "IMG_20240220_132056_JPG.RF.AB37DFE589D463B576BE27CD1B010515",
+    "part_number": "IMG_20240220_132056_JPG.RF.AB37DFE589D463B576BE27CD1B010515",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132104_jpg.rf.17babf06563ff7f0245b954ad07082bc",
+    "recognized_text": "IMG_20240220_132104_JPG.RF.17BABF06563FF7F0245B954AD07082BC",
+    "part_number": "IMG_20240220_132104_JPG.RF.17BABF06563FF7F0245B954AD07082BC",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132104_jpg.rf.17babf06563ff7f0245b954ad07082bc_fake",
+    "recognized_text": "IMG_20240220_132104_JPG.RF.17BABF06563FF7F0245B954AD07082BC",
+    "part_number": "IMG_20240220_132104_JPG.RF.17BABF06563FF7F0245B954AD07082BC",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132322_jpg.rf.5d90ec795020ac9177d733d3df7f06c9",
+    "recognized_text": "IMG_20240220_132322_JPG.RF.5D90EC795020AC9177D733D3DF7F06C9",
+    "part_number": "IMG_20240220_132322_JPG.RF.5D90EC795020AC9177D733D3DF7F06C9",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132322_jpg.rf.5d90ec795020ac9177d733d3df7f06c9_fake",
+    "recognized_text": "IMG_20240220_132322_JPG.RF.5D90EC795020AC9177D733D3DF7F06C9",
+    "part_number": "IMG_20240220_132322_JPG.RF.5D90EC795020AC9177D733D3DF7F06C9",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132601_jpg.rf.e135d5eb0963addffeef0116f2859568",
+    "recognized_text": "IMG_20240220_132601_JPG.RF.E135D5EB0963ADDFFEEF0116F2859568",
+    "part_number": "IMG_20240220_132601_JPG.RF.E135D5EB0963ADDFFEEF0116F2859568",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132601_jpg.rf.e135d5eb0963addffeef0116f2859568_fake",
+    "recognized_text": "IMG_20240220_132601_JPG.RF.E135D5EB0963ADDFFEEF0116F2859568",
+    "part_number": "IMG_20240220_132601_JPG.RF.E135D5EB0963ADDFFEEF0116F2859568",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132642_jpg.rf.419401059068264b9fcf74cdfd31a4c3",
+    "recognized_text": "IMG_20240220_132642_JPG.RF.419401059068264B9FCF74CDFD31A4C3",
+    "part_number": "IMG_20240220_132642_JPG.RF.419401059068264B9FCF74CDFD31A4C3",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132642_jpg.rf.419401059068264b9fcf74cdfd31a4c3_fake",
+    "recognized_text": "IMG_20240220_132642_JPG.RF.419401059O68264B9FCF74CDFD31A4C3",
+    "part_number": "IMG_20240220_132642_JPG.RF.419401059O68264B9FCF74CDFD31A4C3",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132702_jpg.rf.9afbefef4012ba90e2c01a45ace97118",
+    "recognized_text": "IMG_20240220_132702_JPG.RF.9AFBEFEF4012BA90E2C01A45ACE97118",
+    "part_number": "IMG_20240220_132702_JPG.RF.9AFBEFEF4012BA90E2C01A45ACE97118",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132702_jpg.rf.9afbefef4012ba90e2c01a45ace97118_fake",
+    "recognized_text": "IMG_20240220_132702_JPG.RF.9AFBEFEF4012BA90E2C01A45ACE97118",
+    "part_number": "IMG_20240220_132702_JPG.RF.9AFBEFEF4012BA90E2C01A45ACE97118",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132849_jpg.rf.da9b465f39e5e8d432bdfb22bcbab693",
+    "recognized_text": "IMG_20240220_132849_JPG.RF.DA9B465F39E5E8D432BDFB22BCBAB693",
+    "part_number": "IMG_20240220_132849_JPG.RF.DA9B465F39E5E8D432BDFB22BCBAB693",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_132849_jpg.rf.da9b465f39e5e8d432bdfb22bcbab693_fake",
+    "recognized_text": "IMG_20240220_132849_JPG.RF.DA9B465F39E5E8D432BDFB228CBAB693",
+    "part_number": "IMG_20240220_132849_JPG.RF.DA9B465F39E5E8D432BDFB228CBAB693",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_133024_jpg.rf.64df91f54b138445e1c1415caedcc635",
+    "recognized_text": "IMG_20240220_133024_JPG.RF.64DF91F54B138445E1C1415CAEDCC635",
+    "part_number": "IMG_20240220_133024_JPG.RF.64DF91F54B138445E1C1415CAEDCC635",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_133024_jpg.rf.64df91f54b138445e1c1415caedcc635_fake",
+    "recognized_text": "IMG_20240220_133024_JPG.RF.64DF91F54B138445E1C1415CAEDCC635",
+    "part_number": "IMG_20240220_133024_JPG.RF.64DF91F54B138445E1C1415CAEDCC635",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_133130_jpg.rf.eba77575e367ac0e848c7ed46fc5903e",
+    "recognized_text": "IMG_20240220_133130_JPG.RF.EBA77575E367AC0E848C7ED46FC5903E",
+    "part_number": "IMG_20240220_133130_JPG.RF.EBA77575E367AC0E848C7ED46FC5903E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_133130_jpg.rf.eba77575e367ac0e848c7ed46fc5903e_fake",
+    "recognized_text": "IMG_20240220_133130_JPG.RF.EBA77575E367AC0E848C7ED46FC5903E",
+    "part_number": "IMG_20240220_133130_JPG.RF.EBA77575E367AC0E848C7ED46FC5903E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_133352_jpg.rf.bf2311f408e9b230dd5bd8f847f3a719",
+    "recognized_text": "IMG_20240220_133352_JPG.RF.BF2311F408E9B230DD5BD8F847F3A719",
+    "part_number": "IMG_20240220_133352_JPG.RF.BF2311F408E9B230DD5BD8F847F3A719",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_133352_jpg.rf.bf2311f408e9b230dd5bd8f847f3a719_fake",
+    "recognized_text": "IMG_20240220_133352_JPG.RF.BF2311F408E9B230DD5BD8F847F3A719",
+    "part_number": "IMG_20240220_133352_JPG.RF.BF2311F408E9B230DD5BD8F847F3A719",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_134137_jpg.rf.2ddd06351f0f48c9c1f0f5ff18c0547b",
+    "recognized_text": "IMG_20240220_134137_JPG.RF.2DDD06351F0F48C9C1F0F5FF18C0547B",
+    "part_number": "IMG_20240220_134137_JPG.RF.2DDD06351F0F48C9C1F0F5FF18C0547B",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_134137_jpg.rf.2ddd06351f0f48c9c1f0f5ff18c0547b_fake",
+    "recognized_text": "IMG_2024022O_134137_JPG.RF.2DDD06351F0F48C9C1F0F5FF18C0547B",
+    "part_number": "IMG_2024022O_134137_JPG.RF.2DDD06351F0F48C9C1F0F5FF18C0547B",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135316_jpg.rf.86ecdcb8ede74080b37939b00a813356",
+    "recognized_text": "IMG_20240220_135316_JPG.RF.86ECDCB8EDE74080B37939B00A813356",
+    "part_number": "IMG_20240220_135316_JPG.RF.86ECDCB8EDE74080B37939B00A813356",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135316_jpg.rf.86ecdcb8ede74080b37939b00a813356_fake",
+    "recognized_text": "IMG_20240220_I35316_JPG.RF.86ECDCB8EDE74080B37939B00A813356",
+    "part_number": "IMG_20240220_I35316_JPG.RF.86ECDCB8EDE74080B37939B00A813356",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135322_jpg.rf.2d994b0cc8f3802324cdcbdcb6fdd82f",
+    "recognized_text": "IMG_20240220_135322_JPG.RF.2D994B0CC8F3802324CDCBDCB6FDD82F",
+    "part_number": "IMG_20240220_135322_JPG.RF.2D994B0CC8F3802324CDCBDCB6FDD82F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135322_jpg.rf.2d994b0cc8f3802324cdcbdcb6fdd82f_fake",
+    "recognized_text": "1MG_20240220_135322_JPG.RF.2D994B0CC8F3802324CDCBDCB6FDD82F",
+    "part_number": "1MG_20240220_135322_JPG.RF.2D994B0CC8F3802324CDCBDCB6FDD82F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135410_jpg.rf.301c2957b7e25e18602c0cc3354047fa",
+    "recognized_text": "IMG_20240220_135410_JPG.RF.301C2957B7E25E18602C0CC3354047FA",
+    "part_number": "IMG_20240220_135410_JPG.RF.301C2957B7E25E18602C0CC3354047FA",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135410_jpg.rf.301c2957b7e25e18602c0cc3354047fa_fake",
+    "recognized_text": "IMG_20240220_135410_JPG.RF.301C2957B7E25E18602C0CC3354047FA",
+    "part_number": "IMG_20240220_135410_JPG.RF.301C2957B7E25E18602C0CC3354047FA",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135627_jpg.rf.0a74794fb5ce1f8eecb7d53f0effdb5e",
+    "recognized_text": "IMG_20240220_135627_JPG.RF.0A74794FB5CE1F8EECB7D53F0EFFDB5E",
+    "part_number": "IMG_20240220_135627_JPG.RF.0A74794FB5CE1F8EECB7D53F0EFFDB5E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135627_jpg.rf.0a74794fb5ce1f8eecb7d53f0effdb5e_fake",
+    "recognized_text": "IMG_20240220_135627_JPG.RF.0A74794FB5CE1F8EECB7D53F0EFFDB5E",
+    "part_number": "IMG_20240220_135627_JPG.RF.0A74794FB5CE1F8EECB7D53F0EFFDB5E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135723_jpg.rf.0ff88ae88bf6b102c93373ad0a34778f",
+    "recognized_text": "IMG_20240220_135723_JPG.RF.0FF88AE88BF6B102C93373AD0A34778F",
+    "part_number": "IMG_20240220_135723_JPG.RF.0FF88AE88BF6B102C93373AD0A34778F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_135723_jpg.rf.0ff88ae88bf6b102c93373ad0a34778f_fake",
+    "recognized_text": "IMG_20240220_135723_JPG.RF.0FF88AE88BF6B102C93373AD0A34778F",
+    "part_number": "IMG_20240220_135723_JPG.RF.0FF88AE88BF6B102C93373AD0A34778F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123102_jpg.rf.b9f18438512804aca24c2bd0c4b72299",
+    "recognized_text": "IMG_20240228_123102_JPG.RF.B9F18438512804ACA24C2BD0C4B72299",
+    "part_number": "IMG_20240228_123102_JPG.RF.B9F18438512804ACA24C2BD0C4B72299",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123102_jpg.rf.b9f18438512804aca24c2bd0c4b72299_fake",
+    "recognized_text": "IMG_2024O228_123102_JPG.RF.B9F18438512804ACA24C2BD0C4B72299",
+    "part_number": "IMG_2024O228_123102_JPG.RF.B9F18438512804ACA24C2BD0C4B72299",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123116_jpg.rf.3220aa9aef7e3bc7777145a86be7cf44",
+    "recognized_text": "IMG_20240228_123116_JPG.RF.3220AA9AEF7E3BC7777145A86BE7CF44",
+    "part_number": "IMG_20240228_123116_JPG.RF.3220AA9AEF7E3BC7777145A86BE7CF44",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123116_jpg.rf.3220aa9aef7e3bc7777145a86be7cf44_fake",
+    "recognized_text": "IMG_2024O228_123116_JPG.RF.3220AA9AEF7E3BC7777145A86BE7CF44",
+    "part_number": "IMG_2024O228_123116_JPG.RF.3220AA9AEF7E3BC7777145A86BE7CF44",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123641_jpg.rf.f4abc9c0bcb6416755a85bd6d036f715",
+    "recognized_text": "IMG_20240228_123641_JPG.RF.F4ABC9C0BCB6416755A85BD6D036F715",
+    "part_number": "IMG_20240228_123641_JPG.RF.F4ABC9C0BCB6416755A85BD6D036F715",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123641_jpg.rf.f4abc9c0bcb6416755a85bd6d036f715_fake",
+    "recognized_text": "IMG_20240228_123641_JPG.RF.F4ABC9C0BCB6416755A85BD6D036F715",
+    "part_number": "IMG_20240228_123641_JPG.RF.F4ABC9C0BCB6416755A85BD6D036F715",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123700_jpg.rf.f129c8b787843039cd11e35552fdd0c4",
+    "recognized_text": "IMG_20240228_123700_JPG.RF.F129C8B787843039CD11E35552FDD0C4",
+    "part_number": "IMG_20240228_123700_JPG.RF.F129C8B787843039CD11E35552FDD0C4",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123700_jpg.rf.f129c8b787843039cd11e35552fdd0c4_fake",
+    "recognized_text": "IMG_20240228_123700_JPG.RF.F129C8B787843039CD11E35552FDD0C4",
+    "part_number": "IMG_20240228_123700_JPG.RF.F129C8B787843039CD11E35552FDD0C4",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123716_jpg.rf.c1a8abba79e512ad3b271ad1fd7f1424",
+    "recognized_text": "IMG_20240228_123716_JPG.RF.C1A8ABBA79E512AD3B271AD1FD7F1424",
+    "part_number": "IMG_20240228_123716_JPG.RF.C1A8ABBA79E512AD3B271AD1FD7F1424",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_123716_jpg.rf.c1a8abba79e512ad3b271ad1fd7f1424_fake",
+    "recognized_text": "IMG_20240228_123716_JPG.RF.C1A8ABBA79E512AD3B271AD1FD7F1424",
+    "part_number": "IMG_20240228_123716_JPG.RF.C1A8ABBA79E512AD3B271AD1FD7F1424",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_124433_jpg.rf.f0c84e41af2702587786a3a01f9ce87d",
+    "recognized_text": "IMG_20240228_124433_JPG.RF.F0C84E41AF2702587786A3A01F9CE87D",
+    "part_number": "IMG_20240228_124433_JPG.RF.F0C84E41AF2702587786A3A01F9CE87D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_124433_jpg.rf.f0c84e41af2702587786a3a01f9ce87d_fake",
+    "recognized_text": "IMG_20240228_124433_JPG.RF.F0C84E41AF2702587786A3A01F9CE87D",
+    "part_number": "IMG_20240228_124433_JPG.RF.F0C84E41AF2702587786A3A01F9CE87D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_124619_jpg.rf.8b7faa9b763ae03eebb1c08260f899b1",
+    "recognized_text": "IMG_20240228_124619_JPG.RF.8B7FAA9B763AE03EEBB1C08260F899B1",
+    "part_number": "IMG_20240228_124619_JPG.RF.8B7FAA9B763AE03EEBB1C08260F899B1",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_124619_jpg.rf.8b7faa9b763ae03eebb1c08260f899b1_fake",
+    "recognized_text": "IMG_20240228_124619_JPG.RF.8B7FAA9B763AE03EEBB1C08260F899B1",
+    "part_number": "IMG_20240228_124619_JPG.RF.8B7FAA9B763AE03EEBB1C08260F899B1",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_125641_jpg.rf.7bec5fd95a8de6f97f14bbeb3deaf8ae",
+    "recognized_text": "IMG_20240228_125641_JPG.RF.7BEC5FD95A8DE6F97F14BBEB3DEAF8AE",
+    "part_number": "IMG_20240228_125641_JPG.RF.7BEC5FD95A8DE6F97F14BBEB3DEAF8AE",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_125641_jpg.rf.7bec5fd95a8de6f97f14bbeb3deaf8ae_fake",
+    "recognized_text": "IMG_20240228_125641_JPG.RF.7BEC5FD95A8DE6F97F14BBEB3DEAF8AE",
+    "part_number": "IMG_20240228_125641_JPG.RF.7BEC5FD95A8DE6F97F14BBEB3DEAF8AE",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_125719_jpg.rf.bcc68968898621daa5b94a7895e75c27",
+    "recognized_text": "IMG_20240228_125719_JPG.RF.BCC68968898621DAA5B94A7895E75C27",
+    "part_number": "IMG_20240228_125719_JPG.RF.BCC68968898621DAA5B94A7895E75C27",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_125719_jpg.rf.bcc68968898621daa5b94a7895e75c27_fake",
+    "recognized_text": "IMG_20240228_125719_JPG.RF.BCC6896889B621DAA5B94A7B95E75C27",
+    "part_number": "IMG_20240228_125719_JPG.RF.BCC6896889B621DAA5B94A7B95E75C27",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_131018_jpg.rf.5b86dbc31381d86a84c689715c53f71a",
+    "recognized_text": "IMG_20240228_131018_JPG.RF.5B86DBC31381D86A84C689715C53F71A",
+    "part_number": "IMG_20240228_131018_JPG.RF.5B86DBC31381D86A84C689715C53F71A",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_131018_jpg.rf.5b86dbc31381d86a84c689715c53f71a_fake",
+    "recognized_text": "IMG_20240228_131018_JPG.RF.5B86DBC31381D86A84C689715C53F71A",
+    "part_number": "IMG_20240228_131018_JPG.RF.5B86DBC31381D86A84C689715C53F71A",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_131416_jpg.rf.678a6c01efd8521610930f1868f31220",
+    "recognized_text": "IMG_20240228_131416_JPG.RF.678A6C01EFD8521610930F1868F31220",
+    "part_number": "IMG_20240228_131416_JPG.RF.678A6C01EFD8521610930F1868F31220",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_131416_jpg.rf.678a6c01efd8521610930f1868f31220_fake",
+    "recognized_text": "IMG_20240228_131416_JPG.RF.678A6C01EFD8521610930F1868F31220",
+    "part_number": "IMG_20240228_131416_JPG.RF.678A6C01EFD8521610930F1868F31220",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_131530_jpg.rf.a3e99f65a75bf1d59df6c102f3d7bb9e",
+    "recognized_text": "IMG_20240228_131530_JPG.RF.A3E99F65A75BF1D59DF6C102F3D7BB9E",
+    "part_number": "IMG_20240228_131530_JPG.RF.A3E99F65A75BF1D59DF6C102F3D7BB9E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_131530_jpg.rf.a3e99f65a75bf1d59df6c102f3d7bb9e_fake",
+    "recognized_text": "IMG_20240228_131S30_JPG.RF.A3E99F65A75BF1D59DF6C102F3D7BB9E",
+    "part_number": "IMG_20240228_131S30_JPG.RF.A3E99F65A75BF1D59DF6C102F3D7BB9E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132304_jpg.rf.9ad02584b327437c45fb118005bf821c",
+    "recognized_text": "IMG_20240228_132304_JPG.RF.9AD02584B327437C45FB118005BF821C",
+    "part_number": "IMG_20240228_132304_JPG.RF.9AD02584B327437C45FB118005BF821C",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132304_jpg.rf.9ad02584b327437c45fb118005bf821c_fake",
+    "recognized_text": "IMG_20240228_132304_JPG.RF.9AD02584B327437C45FB118005BF821C",
+    "part_number": "IMG_20240228_132304_JPG.RF.9AD02584B327437C45FB118005BF821C",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132345_jpg.rf.cf6a5fd3a131e46c4df392870e8157d0",
+    "recognized_text": "IMG_20240228_132345_JPG.RF.CF6A5FD3A131E46C4DF392870E8157D0",
+    "part_number": "IMG_20240228_132345_JPG.RF.CF6A5FD3A131E46C4DF392870E8157D0",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132345_jpg.rf.cf6a5fd3a131e46c4df392870e8157d0_fake",
+    "recognized_text": "IMG_20240228_132345_JPG.RF.CF6A5FD3A131E46C4DF392870E8157D0",
+    "part_number": "IMG_20240228_132345_JPG.RF.CF6A5FD3A131E46C4DF392870E8157D0",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132351_jpg.rf.a89adea384ebb787fb3034b79f129dfc",
+    "recognized_text": "IMG_20240228_132351_JPG.RF.A89ADEA384EBB787FB3034B79F129DFC",
+    "part_number": "IMG_20240228_132351_JPG.RF.A89ADEA384EBB787FB3034B79F129DFC",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132351_jpg.rf.a89adea384ebb787fb3034b79f129dfc_fake",
+    "recognized_text": "IMG_20240228_132351_JPG.RF.A89ADEA384E8B787FB3034B79F129DFC",
+    "part_number": "IMG_20240228_132351_JPG.RF.A89ADEA384E8B787FB3034B79F129DFC",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132355_jpg.rf.1c17a8b8cf4d37fdf475aa05278ef1c0",
+    "recognized_text": "IMG_20240228_132355_JPG.RF.1C17A8B8CF4D37FDF475AA05278EF1C0",
+    "part_number": "IMG_20240228_132355_JPG.RF.1C17A8B8CF4D37FDF475AA05278EF1C0",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132355_jpg.rf.1c17a8b8cf4d37fdf475aa05278ef1c0_fake",
+    "recognized_text": "IMG_20240228_132355_JPG.RF.1C17ABB8CF4D37FDF475AA05278EF1C0",
+    "part_number": "IMG_20240228_132355_JPG.RF.1C17ABB8CF4D37FDF475AA05278EF1C0",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132436_jpg.rf.1f38f885e7816cf977d3ff6370fe9b4f",
+    "recognized_text": "IMG_20240228_132436_JPG.RF.1F38F885E7816CF977D3FF6370FE9B4F",
+    "part_number": "IMG_20240228_132436_JPG.RF.1F38F885E7816CF977D3FF6370FE9B4F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132436_jpg.rf.1f38f885e7816cf977d3ff6370fe9b4f_fake",
+    "recognized_text": "IMG_2024O228_132436_JPG.RF.1F38F885E7816CF977D3FF6370FE9B4F",
+    "part_number": "IMG_2024O228_132436_JPG.RF.1F38F885E7816CF977D3FF6370FE9B4F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132444_jpg.rf.2516904628e0b15db734007e04edd52b",
+    "recognized_text": "IMG_20240228_132444_JPG.RF.2516904628E0B15DB734007E04EDD52B",
+    "part_number": "IMG_20240228_132444_JPG.RF.2516904628E0B15DB734007E04EDD52B",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132444_jpg.rf.2516904628e0b15db734007e04edd52b_fake",
+    "recognized_text": "IMG_20240228_132444_JPG.RF.2516904628E0B15DB734007E04EDD52B",
+    "part_number": "IMG_20240228_132444_JPG.RF.2516904628E0B15DB734007E04EDD52B",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_133000_jpg.rf.65570f0f0eedeed199f4921274fe091f",
+    "recognized_text": "IMG_20240228_133000_JPG.RF.65570F0F0EEDEED199F4921274FE091F",
+    "part_number": "IMG_20240228_133000_JPG.RF.65570F0F0EEDEED199F4921274FE091F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_133000_jpg.rf.65570f0f0eedeed199f4921274fe091f_fake",
+    "recognized_text": "IMG_20240228_133000_JPG.RF.65570F0FOEEDEED199F4921274FE091F",
+    "part_number": "IMG_20240228_133000_JPG.RF.65570F0FOEEDEED199F4921274FE091F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_133010_jpg.rf.4d6436bd9fd0c23d38d67d236e661b37",
+    "recognized_text": "IMG_20240228_133010_JPG.RF.4D6436BD9FD0C23D38D67D236E661B37",
+    "part_number": "IMG_20240228_133010_JPG.RF.4D6436BD9FD0C23D38D67D236E661B37",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_133010_jpg.rf.4d6436bd9fd0c23d38d67d236e661b37_fake",
+    "recognized_text": "IMG_20240228_133010_JPG.RF.4D6436BD9FD0C23D38D67D236E661B37",
+    "part_number": "IMG_20240228_133010_JPG.RF.4D6436BD9FD0C23D38D67D236E661B37",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_133205_jpg.rf.703954a1693df222aa794866394d35cc",
+    "recognized_text": "IMG_20240228_133205_JPG.RF.703954A1693DF222AA794866394D35CC",
+    "part_number": "IMG_20240228_133205_JPG.RF.703954A1693DF222AA794866394D35CC",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_133205_jpg.rf.703954a1693df222aa794866394d35cc_fake",
+    "recognized_text": "IMG_20240228_133205_JPG.RF.703954A1693DF222AA794866394D35CC",
+    "part_number": "IMG_20240228_133205_JPG.RF.703954A1693DF222AA794866394D35CC",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_133453_jpg.rf.2d57d46c2c65f294a27aa5a65b64fb2d",
+    "recognized_text": "IMG_20240228_133453_JPG.RF.2D57D46C2C65F294A27AA5A65B64FB2D",
+    "part_number": "IMG_20240228_133453_JPG.RF.2D57D46C2C65F294A27AA5A65B64FB2D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_133453_jpg.rf.2d57d46c2c65f294a27aa5a65b64fb2d_fake",
+    "recognized_text": "IMG_20240228_133453_JPG.RF.2D57D46C2C65F294A27AA5A65B64FB2D",
+    "part_number": "IMG_20240228_133453_JPG.RF.2D57D46C2C65F294A27AA5A65B64FB2D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_135615_jpg.rf.595f3682cd5c6a1099b7f8dea268a8d6",
+    "recognized_text": "IMG_20240228_135615_JPG.RF.595F3682CD5C6A1099B7F8DEA268A8D6",
+    "part_number": "IMG_20240228_135615_JPG.RF.595F3682CD5C6A1099B7F8DEA268A8D6",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_135615_jpg.rf.595f3682cd5c6a1099b7f8dea268a8d6_fake",
+    "recognized_text": "IMG_20240228_135615_JPG.RF.595F3682CD5C6A1099B7F8DEA268A8D6",
+    "part_number": "IMG_20240228_135615_JPG.RF.595F3682CD5C6A1099B7F8DEA268A8D6",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_135620_jpg.rf.951b7f77c51f44d38b00c864b84de6d7",
+    "recognized_text": "IMG_20240228_135620_JPG.RF.951B7F77C51F44D38B00C864B84DE6D7",
+    "part_number": "IMG_20240228_135620_JPG.RF.951B7F77C51F44D38B00C864B84DE6D7",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_135620_jpg.rf.951b7f77c51f44d38b00c864b84de6d7_fake",
+    "recognized_text": "IMG_20240228_135620_JPG.RF.951B7F77C51F44D38B00C864B84DE6D7",
+    "part_number": "IMG_20240228_135620_JPG.RF.951B7F77C51F44D38B00C864B84DE6D7",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_135625_jpg.rf.82d14d356fd47cd746f2bc026e1bc4de",
+    "recognized_text": "IMG_20240228_135625_JPG.RF.82D14D356FD47CD746F2BC026E1BC4DE",
+    "part_number": "IMG_20240228_135625_JPG.RF.82D14D356FD47CD746F2BC026E1BC4DE",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_135625_jpg.rf.82d14d356fd47cd746f2bc026e1bc4de_fake",
+    "recognized_text": "IMG_20240228_135625_JPG.RF.82D14D356FD47CD746F2BC026E1BC4DE",
+    "part_number": "IMG_20240228_135625_JPG.RF.82D14D356FD47CD746F2BC026E1BC4DE",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_135857_jpg.rf.74cbf8bb1567609d816831fa83f2c871",
+    "recognized_text": "IMG_20240228_135857_JPG.RF.74CBF8BB1567609D816831FA83F2C871",
+    "part_number": "IMG_20240228_135857_JPG.RF.74CBF8BB1567609D816831FA83F2C871",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_135857_jpg.rf.74cbf8bb1567609d816831fa83f2c871_fake",
+    "recognized_text": "IMG_20240228_135857_JPG.RF.74CBF8BB1567609D81683IFA83F2C87I",
+    "part_number": "IMG_20240228_135857_JPG.RF.74CBF8BB1567609D81683IFA83F2C87I",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_140555_jpg.rf.5d923cfa5b47e55090dfe75b09aa12f8",
+    "recognized_text": "IMG_20240228_140555_JPG.RF.5D923CFA5B47E55090DFE75B09AA12F8",
+    "part_number": "IMG_20240228_140555_JPG.RF.5D923CFA5B47E55090DFE75B09AA12F8",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_140555_jpg.rf.5d923cfa5b47e55090dfe75b09aa12f8_fake",
+    "recognized_text": "IMG_20240228_140555_JPG.RF.5D923CFA5B47E55090DFE75B09AA12F8",
+    "part_number": "IMG_20240228_140555_JPG.RF.5D923CFA5B47E55090DFE75B09AA12F8",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_141050_jpg.rf.30a351721524a996d3ecd2acc61bb960",
+    "recognized_text": "IMG_20240228_141050_JPG.RF.30A351721524A996D3ECD2ACC61BB960",
+    "part_number": "IMG_20240228_141050_JPG.RF.30A351721524A996D3ECD2ACC61BB960",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_141050_jpg.rf.30a351721524a996d3ecd2acc61bb960_fake",
+    "recognized_text": "IMG_20240228_141050_JPG.RF.30A351721524A996D3ECD2ACC618B960",
+    "part_number": "IMG_20240228_141050_JPG.RF.30A351721524A996D3ECD2ACC618B960",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_141139_jpg.rf.fe90078c696587c9fc3d417bfd1028c3",
+    "recognized_text": "IMG_20240228_141139_JPG.RF.FE90078C696587C9FC3D417BFD1028C3",
+    "part_number": "IMG_20240228_141139_JPG.RF.FE90078C696587C9FC3D417BFD1028C3",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_141139_jpg.rf.fe90078c696587c9fc3d417bfd1028c3_fake",
+    "recognized_text": "IMG_20240228_141I39_JPG.RF.FE90078C696587C9FC3D417BFD1028C3",
+    "part_number": "IMG_20240228_141I39_JPG.RF.FE90078C696587C9FC3D417BFD1028C3",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_141443_jpg.rf.185fa7cad8d4545b764313c408901aff",
+    "recognized_text": "IMG_20240228_141443_JPG.RF.185FA7CAD8D4545B764313C408901AFF",
+    "part_number": "IMG_20240228_141443_JPG.RF.185FA7CAD8D4545B764313C408901AFF",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_141443_jpg.rf.185fa7cad8d4545b764313c408901aff_fake",
+    "recognized_text": "IMG_20240228_141443_JPG.RF.185FA7CAD8D4545B764313C408901AFF",
+    "part_number": "IMG_20240228_141443_JPG.RF.185FA7CAD8D4545B764313C408901AFF",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_105837_jpg.rf.f757de19c155f88dfc26781e3fae6b7d",
+    "recognized_text": "IMG_20240303_105837_JPG.RF.F757DE19C155F88DFC26781E3FAE6B7D",
+    "part_number": "IMG_20240303_105837_JPG.RF.F757DE19C155F88DFC26781E3FAE6B7D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_105837_jpg.rf.f757de19c155f88dfc26781e3fae6b7d_fake",
+    "recognized_text": "IMG_20240303_105837_JPG.RF.F757DE19C155F88DFC26781E3FAE6B7D",
+    "part_number": "IMG_20240303_105837_JPG.RF.F757DE19C155F88DFC26781E3FAE6B7D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110048_jpg.rf.c50edfb679bdaba9931fef8a32fe0f5a",
+    "recognized_text": "IMG_20240303_110048_JPG.RF.C50EDFB679BDABA9931FEF8A32FE0F5A",
+    "part_number": "IMG_20240303_110048_JPG.RF.C50EDFB679BDABA9931FEF8A32FE0F5A",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110048_jpg.rf.c50edfb679bdaba9931fef8a32fe0f5a_fake",
+    "recognized_text": "IMG_20240303_110048_JPG.RF.C50EDFB679BDABA9931FEF8A32FE0F5A",
+    "part_number": "IMG_20240303_110048_JPG.RF.C50EDFB679BDABA9931FEF8A32FE0F5A",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110113_jpg.rf.6391ffd4829f13ad169dcc9940182129",
+    "recognized_text": "IMG_20240303_110113_JPG.RF.6391FFD4829F13AD169DCC9940182129",
+    "part_number": "IMG_20240303_110113_JPG.RF.6391FFD4829F13AD169DCC9940182129",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110113_jpg.rf.6391ffd4829f13ad169dcc9940182129_fake",
+    "recognized_text": "IMG_20240303_110113_JPG.RF.6391FFD4829FI3AD169DCC9940182129",
+    "part_number": "IMG_20240303_110113_JPG.RF.6391FFD4829FI3AD169DCC9940182129",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110324_jpg.rf.c8119350ae364bf9a091a6a2fd7d3b8a",
+    "recognized_text": "IMG_20240303_110324_JPG.RF.C8119350AE364BF9A091A6A2FD7D3B8A",
+    "part_number": "IMG_20240303_110324_JPG.RF.C8119350AE364BF9A091A6A2FD7D3B8A",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110324_jpg.rf.c8119350ae364bf9a091a6a2fd7d3b8a_fake",
+    "recognized_text": "IMG_20240303_110324_JPG.RF.C8119350AE364BF9A091A6A2FD7D3B8A",
+    "part_number": "IMG_20240303_110324_JPG.RF.C8119350AE364BF9A091A6A2FD7D3B8A",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110412_jpg.rf.e84776e98b94a3137555090d892852a2",
+    "recognized_text": "IMG_20240303_110412_JPG.RF.E84776E98B94A3137555090D892852A2",
+    "part_number": "IMG_20240303_110412_JPG.RF.E84776E98B94A3137555090D892852A2",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110412_jpg.rf.e84776e98b94a3137555090d892852a2_fake",
+    "recognized_text": "IMG_20240303_110412_JPG.RF.E84776E98B94A3137555O90D892852A2",
+    "part_number": "IMG_20240303_110412_JPG.RF.E84776E98B94A3137555O90D892852A2",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110604_jpg.rf.1661e74922b224221db2fc0d3612a51d",
+    "recognized_text": "IMG_20240303_110604_JPG.RF.1661E74922B224221DB2FC0D3612A51D",
+    "part_number": "IMG_20240303_110604_JPG.RF.1661E74922B224221DB2FC0D3612A51D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110604_jpg.rf.1661e74922b224221db2fc0d3612a51d_fake",
+    "recognized_text": "IMG_20240303_110604_JPG.RF.1661E74922B224221DB2FC0D3612A51D",
+    "part_number": "IMG_20240303_110604_JPG.RF.1661E74922B224221DB2FC0D3612A51D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110904_jpg.rf.f2c156f565c5f914b60718aaaef7e6a0",
+    "recognized_text": "IMG_20240303_110904_JPG.RF.F2C156F565C5F914B60718AAAEF7E6A0",
+    "part_number": "IMG_20240303_110904_JPG.RF.F2C156F565C5F914B60718AAAEF7E6A0",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_110904_jpg.rf.f2c156f565c5f914b60718aaaef7e6a0_fake",
+    "recognized_text": "IMG_20240303_110904_JPG.RF.F2C156F565C5F914B60718AAAEF7E6A0",
+    "part_number": "IMG_20240303_110904_JPG.RF.F2C156F565C5F914B60718AAAEF7E6A0",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_111206_jpg.rf.d258c6e53736840c89e8a0320e08ce36",
+    "recognized_text": "IMG_20240303_111206_JPG.RF.D258C6E53736840C89E8A0320E08CE36",
+    "part_number": "IMG_20240303_111206_JPG.RF.D258C6E53736840C89E8A0320E08CE36",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_111206_jpg.rf.d258c6e53736840c89e8a0320e08ce36_fake",
+    "recognized_text": "IMG_20240303_111206_JPG.RF.D258C6E53736840CB9E8A0320E08CE36",
+    "part_number": "IMG_20240303_111206_JPG.RF.D258C6E53736840CB9E8A0320E08CE36",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_111459_jpg.rf.11f445399013e3da38d39fabb2ee25f1",
+    "recognized_text": "IMG_20240303_111459_JPG.RF.11F445399013E3DA38D39FABB2EE25F1",
+    "part_number": "IMG_20240303_111459_JPG.RF.11F445399013E3DA38D39FABB2EE25F1",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_111459_jpg.rf.11f445399013e3da38d39fabb2ee25f1_fake",
+    "recognized_text": "IMG_20240303_111459_JPG.RF.11F445399013E3DA38D39FABB2EE25F1",
+    "part_number": "IMG_20240303_111459_JPG.RF.11F445399013E3DA38D39FABB2EE25F1",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_111552_jpg.rf.a1d3f09ed89b2661735f8879933ffe24",
+    "recognized_text": "IMG_20240303_111552_JPG.RF.A1D3F09ED89B2661735F8879933FFE24",
+    "part_number": "IMG_20240303_111552_JPG.RF.A1D3F09ED89B2661735F8879933FFE24",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240303_111552_jpg.rf.a1d3f09ed89b2661735f8879933ffe24_fake",
+    "recognized_text": "IMG_202403O3_111552_JPG.RF.A1D3F09ED89B2661735F8879933FFE24",
+    "part_number": "IMG_202403O3_111552_JPG.RF.A1D3F09ED89B2661735F8879933FFE24",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_115212_jpg.rf.11cf9b22ebc8c34e923a759a54c1624e",
+    "recognized_text": "IMG_20240306_115212_JPG.RF.11CF9B22EBC8C34E923A759A54C1624E",
+    "part_number": "IMG_20240306_115212_JPG.RF.11CF9B22EBC8C34E923A759A54C1624E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_115212_jpg.rf.11cf9b22ebc8c34e923a759a54c1624e_fake",
+    "recognized_text": "IMG_20240306_115212_JPG.RF.11CF9B22EBC8C34E923A759A54C1624E",
+    "part_number": "IMG_20240306_115212_JPG.RF.11CF9B22EBC8C34E923A759A54C1624E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120025_jpg.rf.8b0845d16314799cc4f470ec7b37f810",
+    "recognized_text": "IMG_20240306_120025_JPG.RF.8B0845D16314799CC4F470EC7B37F810",
+    "part_number": "IMG_20240306_120025_JPG.RF.8B0845D16314799CC4F470EC7B37F810",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120025_jpg.rf.8b0845d16314799cc4f470ec7b37f810_fake",
+    "recognized_text": "IMG_20240306_120025_JPG.RF.8B0845D16314799CC4F470EC7B37F810",
+    "part_number": "IMG_20240306_120025_JPG.RF.8B0845D16314799CC4F470EC7B37F810",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120259_jpg.rf.0af669d95432e3687176e0aebca1836d",
+    "recognized_text": "IMG_20240306_120259_JPG.RF.0AF669D95432E3687176E0AEBCA1836D",
+    "part_number": "IMG_20240306_120259_JPG.RF.0AF669D95432E3687176E0AEBCA1836D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120259_jpg.rf.0af669d95432e3687176e0aebca1836d_fake",
+    "recognized_text": "IMG_20240306_120259_JPG.RF.0AF669D95432E3687176E0AEBCA1836D",
+    "part_number": "IMG_20240306_120259_JPG.RF.0AF669D95432E3687176E0AEBCA1836D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120433_jpg.rf.962769289037319b32952b8dba6c966b",
+    "recognized_text": "IMG_20240306_120433_JPG.RF.962769289037319B32952B8DBA6C966B",
+    "part_number": "IMG_20240306_120433_JPG.RF.962769289037319B32952B8DBA6C966B",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120433_jpg.rf.962769289037319b32952b8dba6c966b_fake",
+    "recognized_text": "IMG_20240306_120433_JPG.RF.962769289037319B32952B8DBA6C966B",
+    "part_number": "IMG_20240306_120433_JPG.RF.962769289037319B32952B8DBA6C966B",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120648_jpg.rf.067731625dc3398e3a1105397428edeb",
+    "recognized_text": "IMG_20240306_120648_JPG.RF.067731625DC3398E3A1105397428EDEB",
+    "part_number": "IMG_20240306_120648_JPG.RF.067731625DC3398E3A1105397428EDEB",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120648_jpg.rf.067731625dc3398e3a1105397428edeb_fake",
+    "recognized_text": "IMG_20240306_120648_JPG.RF.067731625DC3398E3A1105397428EDEB",
+    "part_number": "IMG_20240306_120648_JPG.RF.067731625DC3398E3A1105397428EDEB",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120752_jpg.rf.82276aa1b943f41819d50577adc1b2f0",
+    "recognized_text": "IMG_20240306_120752_JPG.RF.82276AA1B943F41819D50577ADC1B2F0",
+    "part_number": "IMG_20240306_120752_JPG.RF.82276AA1B943F41819D50577ADC1B2F0",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120752_jpg.rf.82276aa1b943f41819d50577adc1b2f0_fake",
+    "recognized_text": "IMG_20240306_120752_JPG.RF.82276AA1B943F41819D50577ADC1B2F0",
+    "part_number": "IMG_20240306_120752_JPG.RF.82276AA1B943F41819D50577ADC1B2F0",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120807_jpg.rf.e5a36fae12c0f1befd4f2df7c5c694a4",
+    "recognized_text": "IMG_20240306_120807_JPG.RF.E5A36FAE12C0F1BEFD4F2DF7C5C694A4",
+    "part_number": "IMG_20240306_120807_JPG.RF.E5A36FAE12C0F1BEFD4F2DF7C5C694A4",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120807_jpg.rf.e5a36fae12c0f1befd4f2df7c5c694a4_fake",
+    "recognized_text": "IMG_20240306_120807_JPG.RF.E5A36FAE12C0F1BEFD4F2DF7C5C694A4",
+    "part_number": "IMG_20240306_120807_JPG.RF.E5A36FAE12C0F1BEFD4F2DF7C5C694A4",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_121004_jpg.rf.df33d1000f8f6b4c01ee93ef518a61d2",
+    "recognized_text": "IMG_20240306_121004_JPG.RF.DF33D1000F8F6B4C01EE93EF518A61D2",
+    "part_number": "IMG_20240306_121004_JPG.RF.DF33D1000F8F6B4C01EE93EF518A61D2",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_121004_jpg.rf.df33d1000f8f6b4c01ee93ef518a61d2_fake",
+    "recognized_text": "IMG_20240306_121004_JPG.RF.DF33D1000F8F6B4C01EE93EF518A61D2",
+    "part_number": "IMG_20240306_121004_JPG.RF.DF33D1000F8F6B4C01EE93EF518A61D2",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_143648_jpg.rf.7c326233b042232c6daf340b1ffaefff",
+    "recognized_text": "IMG_20240306_143648_JPG.RF.7C326233B042232C6DAF340B1FFAEFFF",
+    "part_number": "IMG_20240306_143648_JPG.RF.7C326233B042232C6DAF340B1FFAEFFF",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_143648_jpg.rf.7c326233b042232c6daf340b1ffaefff_fake",
+    "recognized_text": "IMG_20240306_143648_JPG.RF.7C326233B042232C6DAF340B1FFAEFFF",
+    "part_number": "IMG_20240306_143648_JPG.RF.7C326233B042232C6DAF340B1FFAEFFF",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_143742_jpg.rf.8c2c0bf64346f4d0d887d9dbe81a7cd4",
+    "recognized_text": "IMG_20240306_143742_JPG.RF.8C2C0BF64346F4D0D887D9DBE81A7CD4",
+    "part_number": "IMG_20240306_143742_JPG.RF.8C2C0BF64346F4D0D887D9DBE81A7CD4",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_143742_jpg.rf.8c2c0bf64346f4d0d887d9dbe81a7cd4_fake",
+    "recognized_text": "IMG_20240306_143742_JPG.RF.8C2C0BF64346F4D0D887D9DBE81A7CD4",
+    "part_number": "IMG_20240306_143742_JPG.RF.8C2C0BF64346F4D0D887D9DBE81A7CD4",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_143943_jpg.rf.59afcfb92025019e4ed8ede91a198934",
+    "recognized_text": "IMG_20240306_143943_JPG.RF.59AFCFB92025019E4ED8EDE91A198934",
+    "part_number": "IMG_20240306_143943_JPG.RF.59AFCFB92025019E4ED8EDE91A198934",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_143943_jpg.rf.59afcfb92025019e4ed8ede91a198934_fake",
+    "recognized_text": "IMG_20240306_143943_JPG.RF.59AFCFB92025019E4ED8EDE91A198934",
+    "part_number": "IMG_20240306_143943_JPG.RF.59AFCFB92025019E4ED8EDE91A198934",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_144146_jpg.rf.16ef13c3da594c732895ca0c74d170f3",
+    "recognized_text": "IMG_20240306_144146_JPG.RF.16EF13C3DA594C732895CA0C74D170F3",
+    "part_number": "IMG_20240306_144146_JPG.RF.16EF13C3DA594C732895CA0C74D170F3",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_144146_jpg.rf.16ef13c3da594c732895ca0c74d170f3_fake",
+    "recognized_text": "IMG_20240306_144146_JPG.RF.16EF13C3DA594C732895CA0C74D170F3",
+    "part_number": "IMG_20240306_144146_JPG.RF.16EF13C3DA594C732895CA0C74D170F3",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_144150_jpg.rf.0ebb8f67a5e9b4c96570ff12a6b7b15e",
+    "recognized_text": "IMG_20240306_144150_JPG.RF.0EBB8F67A5E9B4C96570FF12A6B7B15E",
+    "part_number": "IMG_20240306_144150_JPG.RF.0EBB8F67A5E9B4C96570FF12A6B7B15E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_144150_jpg.rf.0ebb8f67a5e9b4c96570ff12a6b7b15e_fake",
+    "recognized_text": "IMG_20240306_144150_JPG.RF.0EBB8F67A5E9B4C96570FF12A6B7B15E",
+    "part_number": "IMG_20240306_144150_JPG.RF.0EBB8F67A5E9B4C96570FF12A6B7B15E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_144215_jpg.rf.8266022dfc1469529aaea5c6fcf34a1b",
+    "recognized_text": "IMG_20240306_144215_JPG.RF.8266022DFC1469529AAEA5C6FCF34A1B",
+    "part_number": "IMG_20240306_144215_JPG.RF.8266022DFC1469529AAEA5C6FCF34A1B",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_144215_jpg.rf.8266022dfc1469529aaea5c6fcf34a1b_fake",
+    "recognized_text": "IMG_20240306_144215_JPG.RF.8266022DFC1469529AAEA5C6FCF34AIB",
+    "part_number": "IMG_20240306_144215_JPG.RF.8266022DFC1469529AAEA5C6FCF34AIB",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_112657_jpg.rf.581891d5b4996d3cafae13d413193c05",
+    "recognized_text": "IMG_20240309_112657_JPG.RF.581891D5B4996D3CAFAE13D413193C05",
+    "part_number": "IMG_20240309_112657_JPG.RF.581891D5B4996D3CAFAE13D413193C05",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_112657_jpg.rf.581891d5b4996d3cafae13d413193c05_fake",
+    "recognized_text": "IMG_2O240309_I12657_JPG.RF.581891D5B4996D3CAFAE13D413193C05",
+    "part_number": "IMG_2O240309_I12657_JPG.RF.581891D5B4996D3CAFAE13D413193C05",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_112841_jpg.rf.cc5852497e5fcd9ff2175a8c3408978a",
+    "recognized_text": "IMG_20240309_112841_JPG.RF.CC5852497E5FCD9FF2175A8C3408978A",
+    "part_number": "IMG_20240309_112841_JPG.RF.CC5852497E5FCD9FF2175A8C3408978A",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_112841_jpg.rf.cc5852497e5fcd9ff2175a8c3408978a_fake",
+    "recognized_text": "IMG_20240309_112841_JPG.RF.CC5852497E5FCD9FF2175A8C3408978A",
+    "part_number": "IMG_20240309_112841_JPG.RF.CC5852497E5FCD9FF2175A8C3408978A",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_112934_jpg.rf.3355d61862de284fb4d077c88001e4ae",
+    "recognized_text": "IMG_20240309_112934_JPG.RF.3355D61862DE284FB4D077C88001E4AE",
+    "part_number": "IMG_20240309_112934_JPG.RF.3355D61862DE284FB4D077C88001E4AE",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_112934_jpg.rf.3355d61862de284fb4d077c88001e4ae_fake",
+    "recognized_text": "IMG_20240309_112934_JPG.RF.3355D61862DE2B4FB4D077C88001E4AE",
+    "part_number": "IMG_20240309_112934_JPG.RF.3355D61862DE2B4FB4D077C88001E4AE",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113054_jpg.rf.76cbf1a60e0f66c520167d6568ae3409",
+    "recognized_text": "IMG_20240309_113054_JPG.RF.76CBF1A60E0F66C520167D6568AE3409",
+    "part_number": "IMG_20240309_113054_JPG.RF.76CBF1A60E0F66C520167D6568AE3409",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113054_jpg.rf.76cbf1a60e0f66c520167d6568ae3409_fake",
+    "recognized_text": "IMG_20240309_113054_JPG.RF.76CBF1A60E0F66C520167D6568AE3409",
+    "part_number": "IMG_20240309_113054_JPG.RF.76CBF1A60E0F66C520167D6568AE3409",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113356_jpg.rf.d0f07ff64ee895962ccfc3edbc5fd5dc",
+    "recognized_text": "IMG_20240309_113356_JPG.RF.D0F07FF64EE895962CCFC3EDBC5FD5DC",
+    "part_number": "IMG_20240309_113356_JPG.RF.D0F07FF64EE895962CCFC3EDBC5FD5DC",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113356_jpg.rf.d0f07ff64ee895962ccfc3edbc5fd5dc_fake",
+    "recognized_text": "IMG_20240309_113356_JPG.RF.D0F07FF64EE895962CCFC3EDBC5FD5DC",
+    "part_number": "IMG_20240309_113356_JPG.RF.D0F07FF64EE895962CCFC3EDBC5FD5DC",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113550_jpg.rf.2b51b28276f4c688962ca5a71b951754",
+    "recognized_text": "IMG_20240309_113550_JPG.RF.2B51B28276F4C688962CA5A71B951754",
+    "part_number": "IMG_20240309_113550_JPG.RF.2B51B28276F4C688962CA5A71B951754",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113550_jpg.rf.2b51b28276f4c688962ca5a71b951754_fake",
+    "recognized_text": "IMG_20240309_113550_JPG.RF.2BS1B28276F4C688962CA5A71B951754",
+    "part_number": "IMG_20240309_113550_JPG.RF.2BS1B28276F4C688962CA5A71B951754",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113625_jpg.rf.5e31475aed19167bf813daecb500270d",
+    "recognized_text": "IMG_20240309_113625_JPG.RF.5E31475AED19167BF813DAECB500270D",
+    "part_number": "IMG_20240309_113625_JPG.RF.5E31475AED19167BF813DAECB500270D",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113625_jpg.rf.5e31475aed19167bf813daecb500270d_fake",
+    "recognized_text": "IMG_20240309_113625_JPG.RF.5E31475AED19167BF813DAECB500270D",
+    "part_number": "IMG_20240309_113625_JPG.RF.5E31475AED19167BF813DAECB500270D",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113711_jpg.rf.8bff1ea46ff73dba44517862ff57d0a5",
+    "recognized_text": "IMG_20240309_113711_JPG.RF.8BFF1EA46FF73DBA44517862FF57D0A5",
+    "part_number": "IMG_20240309_113711_JPG.RF.8BFF1EA46FF73DBA44517862FF57D0A5",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113711_jpg.rf.8bff1ea46ff73dba44517862ff57d0a5_fake",
+    "recognized_text": "IMG_20240309_1I3711_JPG.RF.88FF1EA46FF73DBA44517862FF57D0A5",
+    "part_number": "IMG_20240309_1I3711_JPG.RF.88FF1EA46FF73DBA44517862FF57D0A5",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113723_jpg.rf.e5cff6f8234a1e533956d2d457f9ec14",
+    "recognized_text": "IMG_20240309_113723_JPG.RF.E5CFF6F8234A1E533956D2D457F9EC14",
+    "part_number": "IMG_20240309_113723_JPG.RF.E5CFF6F8234A1E533956D2D457F9EC14",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113723_jpg.rf.e5cff6f8234a1e533956d2d457f9ec14_fake",
+    "recognized_text": "IMG_20240309_113723_JPG.RF.E5CFF6F8234A1E533956D2D457F9EC14",
+    "part_number": "IMG_20240309_113723_JPG.RF.E5CFF6F8234A1E533956D2D457F9EC14",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113834_jpg.rf.a00f74b8ff0f1f083009839ab52267e7",
+    "recognized_text": "IMG_20240309_113834_JPG.RF.A00F74B8FF0F1F083009839AB52267E7",
+    "part_number": "IMG_20240309_113834_JPG.RF.A00F74B8FF0F1F083009839AB52267E7",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113834_jpg.rf.a00f74b8ff0f1f083009839ab52267e7_fake",
+    "recognized_text": "IMG_20240309_113834_JPG.RF.A00F74B8FF0F1F083009839AB52267E7",
+    "part_number": "IMG_20240309_113834_JPG.RF.A00F74B8FF0F1F083009839AB52267E7",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_114006_jpg.rf.4e16accad12dface4a511baeb33f13bb",
+    "recognized_text": "IMG_20240309_114006_JPG.RF.4E16ACCAD12DFACE4A511BAEB33F13BB",
+    "part_number": "IMG_20240309_114006_JPG.RF.4E16ACCAD12DFACE4A511BAEB33F13BB",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_114006_jpg.rf.4e16accad12dface4a511baeb33f13bb_fake",
+    "recognized_text": "IMG_20240309_114006_JPG.RF.4E16ACCAD12DFACE4A511BAEB33F13BB",
+    "part_number": "IMG_20240309_114006_JPG.RF.4E16ACCAD12DFACE4A511BAEB33F13BB",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_114140_jpg.rf.10d5c63d601ba51b7d3b7f2105a11b85",
+    "recognized_text": "IMG_20240309_114140_JPG.RF.10D5C63D601BA51B7D3B7F2105A11B85",
+    "part_number": "IMG_20240309_114140_JPG.RF.10D5C63D601BA51B7D3B7F2105A11B85",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_114140_jpg.rf.10d5c63d601ba51b7d3b7f2105a11b85_fake",
+    "recognized_text": "IMG_20240309_114140_JPG.RF.10D5C63D601BA51B7D3B7F2105A11B85",
+    "part_number": "IMG_20240309_114140_JPG.RF.10D5C63D601BA51B7D3B7F2105A11B85",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_114741_jpg.rf.978c3ec24fde2a0dfa63e79171ae78f0",
+    "recognized_text": "IMG_20240309_114741_JPG.RF.978C3EC24FDE2A0DFA63E79171AE78F0",
+    "part_number": "IMG_20240309_114741_JPG.RF.978C3EC24FDE2A0DFA63E79171AE78F0",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_114741_jpg.rf.978c3ec24fde2a0dfa63e79171ae78f0_fake",
+    "recognized_text": "IMG_20240309_114741_JPG.RF.978C3EC24FDE2A0DFA63E79171AE78F0",
+    "part_number": "IMG_20240309_114741_JPG.RF.978C3EC24FDE2A0DFA63E79171AE78F0",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_114840_jpg.rf.093337ac18ab6f932bedcb9b9964fa32",
+    "recognized_text": "IMG_20240309_114840_JPG.RF.093337AC18AB6F932BEDCB9B9964FA32",
+    "part_number": "IMG_20240309_114840_JPG.RF.093337AC18AB6F932BEDCB9B9964FA32",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_114840_jpg.rf.093337ac18ab6f932bedcb9b9964fa32_fake",
+    "recognized_text": "IMG_20240309_I14840_JPG.RF.093337AC18AB6F932BEDCB9B9964FA32",
+    "part_number": "IMG_20240309_I14840_JPG.RF.093337AC18AB6F932BEDCB9B9964FA32",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115144_jpg.rf.0455676e52950ffa7b79475294c70e06",
+    "recognized_text": "IMG_20240309_115144_JPG.RF.0455676E52950FFA7B79475294C70E06",
+    "part_number": "IMG_20240309_115144_JPG.RF.0455676E52950FFA7B79475294C70E06",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115144_jpg.rf.0455676e52950ffa7b79475294c70e06_fake",
+    "recognized_text": "IMG_20240309_115144_JPG.RF.0455676E52950FFA7B79475294C70E06",
+    "part_number": "IMG_20240309_115144_JPG.RF.0455676E52950FFA7B79475294C70E06",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115637_jpg.rf.d11c1ededec619711299428046b1026f",
+    "recognized_text": "IMG_20240309_115637_JPG.RF.D11C1EDEDEC619711299428046B1026F",
+    "part_number": "IMG_20240309_115637_JPG.RF.D11C1EDEDEC619711299428046B1026F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115637_jpg.rf.d11c1ededec619711299428046b1026f_fake",
+    "recognized_text": "IMG_20240309_115637_JPG.RF.D11C1EDEDEC6I9711299428046B1026F",
+    "part_number": "IMG_20240309_115637_JPG.RF.D11C1EDEDEC6I9711299428046B1026F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115756_jpg.rf.a40490bd6abd60f95255a99b9b761340",
+    "recognized_text": "IMG_20240309_115756_JPG.RF.A40490BD6ABD60F95255A99B9B761340",
+    "part_number": "IMG_20240309_115756_JPG.RF.A40490BD6ABD60F95255A99B9B761340",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115756_jpg.rf.a40490bd6abd60f95255a99b9b761340_fake",
+    "recognized_text": "IMG_20240309_115756_JPG.RF.A40490BD6ABD60F95255A99B9B761340",
+    "part_number": "IMG_20240309_115756_JPG.RF.A40490BD6ABD60F95255A99B9B761340",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115840_jpg.rf.6925c2be2eeddc221ffae03b2d646fd4",
+    "recognized_text": "IMG_20240309_115840_JPG.RF.6925C2BE2EEDDC221FFAE03B2D646FD4",
+    "part_number": "IMG_20240309_115840_JPG.RF.6925C2BE2EEDDC221FFAE03B2D646FD4",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115840_jpg.rf.6925c2be2eeddc221ffae03b2d646fd4_fake",
+    "recognized_text": "IMG_20240309_115840_JPG.RF.6925C2BE2EEDDC221FFAE03B2D646FD4",
+    "part_number": "IMG_20240309_115840_JPG.RF.6925C2BE2EEDDC221FFAE03B2D646FD4",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115958_jpg.rf.b9d023a0f6ab45d90a1d6b509fc05c3b",
+    "recognized_text": "IMG_20240309_115958_JPG.RF.B9D023A0F6AB45D90A1D6B509FC05C3B",
+    "part_number": "IMG_20240309_115958_JPG.RF.B9D023A0F6AB45D90A1D6B509FC05C3B",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115958_jpg.rf.b9d023a0f6ab45d90a1d6b509fc05c3b_fake",
+    "recognized_text": "IMG_20240309_115958_JPG.RF.B9D023A0F6AB45D90A1D6BS09FC05C3B",
+    "part_number": "IMG_20240309_115958_JPG.RF.B9D023A0F6AB45D90A1D6BS09FC05C3B",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_120210_jpg.rf.5b2b41d3908a6c8d2cc6fd4f3006bdab",
+    "recognized_text": "IMG_20240309_120210_JPG.RF.5B2B41D3908A6C8D2CC6FD4F3006BDAB",
+    "part_number": "IMG_20240309_120210_JPG.RF.5B2B41D3908A6C8D2CC6FD4F3006BDAB",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_120210_jpg.rf.5b2b41d3908a6c8d2cc6fd4f3006bdab_fake",
+    "recognized_text": "IMG_20240309_120210_JPG.RF.5B2B41D3908A6C8D2CC6FD4F3006BDAB",
+    "part_number": "IMG_20240309_120210_JPG.RF.5B2B41D3908A6C8D2CC6FD4F3006BDAB",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240417_115042_jpg.rf.d8becf3b60a547ab345e4a53d91bed32",
+    "recognized_text": "IMG_20240417_115042_JPG.RF.D8BECF3B60A547AB345E4A53D91BED32",
+    "part_number": "IMG_20240417_115042_JPG.RF.D8BECF3B60A547AB345E4A53D91BED32",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240417_115042_jpg.rf.d8becf3b60a547ab345e4a53d91bed32_fake",
+    "recognized_text": "IMG_20240417_115042_JPG.RF.D8BECF3B60A547AB345E4A53D91BED32",
+    "part_number": "IMG_20240417_115042_JPG.RF.D8BECF3B60A547AB345E4A53D91BED32",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240417_115155_jpg.rf.70ab43ef5bac80b97d24b52ad710b961",
+    "recognized_text": "IMG_20240417_115155_JPG.RF.70AB43EF5BAC80B97D24B52AD710B961",
+    "part_number": "IMG_20240417_115155_JPG.RF.70AB43EF5BAC80B97D24B52AD710B961",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240417_115155_jpg.rf.70ab43ef5bac80b97d24b52ad710b961_fake",
+    "recognized_text": "IMG_20240417_115155_JPG.RF.70AB43EF5BAC80B97D24B52AD710B961",
+    "part_number": "IMG_20240417_115155_JPG.RF.70AB43EF5BAC80B97D24B52AD710B961",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240417_115349_jpg.rf.dfc99d0e111e482969ece3572475d1e9",
+    "recognized_text": "IMG_20240417_115349_JPG.RF.DFC99D0E111E482969ECE3572475D1E9",
+    "part_number": "IMG_20240417_115349_JPG.RF.DFC99D0E111E482969ECE3572475D1E9",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240417_115349_jpg.rf.dfc99d0e111e482969ece3572475d1e9_fake",
+    "recognized_text": "IMG_20240417_115349_JPG.RF.DFC99D0E111E482969ECE3572475D1E9",
+    "part_number": "IMG_20240417_115349_JPG.RF.DFC99D0E111E482969ECE3572475D1E9",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240417_115403_jpg.rf.53bf73aaed5e9a595b54d404d5be531e",
+    "recognized_text": "IMG_20240417_115403_JPG.RF.53BF73AAED5E9A595B54D404D5BE531E",
+    "part_number": "IMG_20240417_115403_JPG.RF.53BF73AAED5E9A595B54D404D5BE531E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240417_115403_jpg.rf.53bf73aaed5e9a595b54d404d5be531e_fake",
+    "recognized_text": "IMG_20240417_115403_JPG.RF.53BF73AAED5E9A595B54D404D5BE531E",
+    "part_number": "IMG_20240417_115403_JPG.RF.53BF73AAED5E9A595B54D404D5BE531E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5146_JPG.rf.78a2f8d3c5aaf0650fce6cee7c4b6b83",
+    "recognized_text": "IMG_5146_JPG.RF.78A2F8D3C5AAF0650FCE6CEE7C4B6B83",
+    "part_number": "IMG_5146_JPG.RF.78A2F8D3C5AAF0650FCE6CEE7C4B6B83",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5146_JPG.rf.78a2f8d3c5aaf0650fce6cee7c4b6b83_fake",
+    "recognized_text": "IMG_5146_JPG.RF.78A2F8D3C5AAF0650FCE6CEE7C4B6B83",
+    "part_number": "IMG_5146_JPG.RF.78A2F8D3C5AAF0650FCE6CEE7C4B6B83",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5193_JPG.rf.b18f51aa6ccef2f012b40d4b723ae271",
+    "recognized_text": "IMG_5193_JPG.RF.B18F51AA6CCEF2F012B40D4B723AE271",
+    "part_number": "IMG_5193_JPG.RF.B18F51AA6CCEF2F012B40D4B723AE271",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5193_JPG.rf.b18f51aa6ccef2f012b40d4b723ae271_fake",
+    "recognized_text": "1MG_5193_JPG.RF.B18F51AA6CCEF2F012B40D4B723AE271",
+    "part_number": "1MG_5193_JPG.RF.B18F51AA6CCEF2F012B40D4B723AE271",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5212_JPG.rf.64d6edbe30bd3be32e1a4e764c147bb0",
+    "recognized_text": "IMG_5212_JPG.RF.64D6EDBE30BD3BE32E1A4E764C147BB0",
+    "part_number": "IMG_5212_JPG.RF.64D6EDBE30BD3BE32E1A4E764C147BB0",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5212_JPG.rf.64d6edbe30bd3be32e1a4e764c147bb0_fake",
+    "recognized_text": "IMG_5212_JPG.RF.64D6EDBE30BD3BE32E1A4E764C147BB0",
+    "part_number": "IMG_5212_JPG.RF.64D6EDBE30BD3BE32E1A4E764C147BB0",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5225_JPG.rf.d9458a6cdb3978a8dd7e53c19ac8b14b",
+    "recognized_text": "IMG_5225_JPG.RF.D9458A6CDB3978A8DD7E53C19AC8B14B",
+    "part_number": "IMG_5225_JPG.RF.D9458A6CDB3978A8DD7E53C19AC8B14B",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5225_JPG.rf.d9458a6cdb3978a8dd7e53c19ac8b14b_fake",
+    "recognized_text": "IMG_5225_JPG.RF.D9458A6CDB3978A8DD7E53C19AC8B14B",
+    "part_number": "IMG_5225_JPG.RF.D9458A6CDB3978A8DD7E53C19AC8B14B",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5227_JPG.rf.9cda8d3da2185be5734de8ab4043b206",
+    "recognized_text": "IMG_5227_JPG.RF.9CDA8D3DA2185BE5734DE8AB4043B206",
+    "part_number": "IMG_5227_JPG.RF.9CDA8D3DA2185BE5734DE8AB4043B206",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5227_JPG.rf.9cda8d3da2185be5734de8ab4043b206_fake",
+    "recognized_text": "IMG_5227_JPG.RF.9CDA8D3DA2185BE5734DE8AB4043B206",
+    "part_number": "IMG_5227_JPG.RF.9CDA8D3DA2185BE5734DE8AB4043B206",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5229_JPG.rf.716e8ad846e9bc2c9a2fc21266bf280e",
+    "recognized_text": "IMG_5229_JPG.RF.716E8AD846E9BC2C9A2FC21266BF280E",
+    "part_number": "IMG_5229_JPG.RF.716E8AD846E9BC2C9A2FC21266BF280E",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5229_JPG.rf.716e8ad846e9bc2c9a2fc21266bf280e_fake",
+    "recognized_text": "IMG_5229_JPG.RF.7I6EBAD846E9BC2C9A2FC21266BF280E",
+    "part_number": "IMG_5229_JPG.RF.7I6EBAD846E9BC2C9A2FC21266BF280E",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5231_JPG.rf.27e3293413d73eb843e2c4931afa8bfb",
+    "recognized_text": "IMG_5231_JPG.RF.27E3293413D73EB843E2C4931AFA8BFB",
+    "part_number": "IMG_5231_JPG.RF.27E3293413D73EB843E2C4931AFA8BFB",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5231_JPG.rf.27e3293413d73eb843e2c4931afa8bfb_fake",
+    "recognized_text": "IMG_5231_JPG.RF.27E3293413D73EB843E2C4931AFA8BFB",
+    "part_number": "IMG_5231_JPG.RF.27E3293413D73EB843E2C4931AFA8BFB",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5233_JPG.rf.946cd7ccb8a81fe04ba84d5e8652b21b",
+    "recognized_text": "IMG_5233_JPG.RF.946CD7CCB8A81FE04BA84D5E8652B21B",
+    "part_number": "IMG_5233_JPG.RF.946CD7CCB8A81FE04BA84D5E8652B21B",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5233_JPG.rf.946cd7ccb8a81fe04ba84d5e8652b21b_fake",
+    "recognized_text": "IMG_5233_JPG.RF.946CD7CCB8A81FE04BA84D5E8652B21B",
+    "part_number": "IMG_5233_JPG.RF.946CD7CCB8A81FE04BA84D5E8652B21B",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5238_JPG.rf.28fc9f778168921bf7926bd0c4c445ac",
+    "recognized_text": "IMG_5238_JPG.RF.28FC9F778168921BF7926BD0C4C445AC",
+    "part_number": "IMG_5238_JPG.RF.28FC9F778168921BF7926BD0C4C445AC",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5238_JPG.rf.28fc9f778168921bf7926bd0c4c445ac_fake",
+    "recognized_text": "IMG_5238_JPG.RF.28FC9F778168921BF79268D0C4C445AC",
+    "part_number": "IMG_5238_JPG.RF.28FC9F778168921BF79268D0C4C445AC",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5240_JPG.rf.a372077df3a7990dbfb9160db1229128",
+    "recognized_text": "IMG_5240_JPG.RF.A372077DF3A7990DBFB9160DB1229128",
+    "part_number": "IMG_5240_JPG.RF.A372077DF3A7990DBFB9160DB1229128",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5240_JPG.rf.a372077df3a7990dbfb9160db1229128_fake",
+    "recognized_text": "IMG_5240_JPG.RF.A372077DF3A799ODBFB9160DB1229128",
+    "part_number": "IMG_5240_JPG.RF.A372077DF3A799ODBFB9160DB1229128",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5250_JPG.rf.7ba529c0533023be529c6079f8dc4a86",
+    "recognized_text": "IMG_5250_JPG.RF.7BA529C0533023BE529C6079F8DC4A86",
+    "part_number": "IMG_5250_JPG.RF.7BA529C0533023BE529C6079F8DC4A86",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5250_JPG.rf.7ba529c0533023be529c6079f8dc4a86_fake",
+    "recognized_text": "IMG_5250_JPG.RF.7BA529C0533023BE529C6079F8DC4A86",
+    "part_number": "IMG_5250_JPG.RF.7BA529C0533023BE529C6079F8DC4A86",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5258_JPG.rf.4775a060d228ff97c956687dc99c00a0",
+    "recognized_text": "IMG_5258_JPG.RF.4775A060D228FF97C956687DC99C00A0",
+    "part_number": "IMG_5258_JPG.RF.4775A060D228FF97C956687DC99C00A0",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5258_JPG.rf.4775a060d228ff97c956687dc99c00a0_fake",
+    "recognized_text": "1MG_5258_JPG.RF.4775A060D228FF97C956687DC99C00A0",
+    "part_number": "1MG_5258_JPG.RF.4775A060D228FF97C956687DC99C00A0",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5268_JPG.rf.0ec67ed3886071375e0772292b2782bb",
+    "recognized_text": "IMG_5268_JPG.RF.0EC67ED3886071375E0772292B2782BB",
+    "part_number": "IMG_5268_JPG.RF.0EC67ED3886071375E0772292B2782BB",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5268_JPG.rf.0ec67ed3886071375e0772292b2782bb_fake",
+    "recognized_text": "IMG_5268_JPG.RF.0EC67ED3886071375EO772292B2782BB",
+    "part_number": "IMG_5268_JPG.RF.0EC67ED3886071375EO772292B2782BB",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5279_JPG.rf.628e3b503a2320fe33ef0b45d731aa38",
+    "recognized_text": "IMG_5279_JPG.RF.628E3B503A2320FE33EF0B45D731AA38",
+    "part_number": "IMG_5279_JPG.RF.628E3B503A2320FE33EF0B45D731AA38",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5279_JPG.rf.628e3b503a2320fe33ef0b45d731aa38_fake",
+    "recognized_text": "IMG_5279_JPG.RF.628E3B503A2320FE33EF0B45D731AA38",
+    "part_number": "IMG_5279_JPG.RF.628E3B503A2320FE33EF0B45D731AA38",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5296_JPG.rf.2941acd1f061976defc115b03b2c8967",
+    "recognized_text": "IMG_5296_JPG.RF.2941ACD1F061976DEFC115B03B2C8967",
+    "part_number": "IMG_5296_JPG.RF.2941ACD1F061976DEFC115B03B2C8967",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5296_JPG.rf.2941acd1f061976defc115b03b2c8967_fake",
+    "recognized_text": "IMG_5296_JPG.RF.2941ACD1F061976DEFC115B03B2C8967",
+    "part_number": "IMG_5296_JPG.RF.2941ACD1F061976DEFC115B03B2C8967",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5298_JPG.rf.df5409ccac597fc47724d561d844147f",
+    "recognized_text": "IMG_5298_JPG.RF.DF5409CCAC597FC47724D561D844147F",
+    "part_number": "IMG_5298_JPG.RF.DF5409CCAC597FC47724D561D844147F",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5298_JPG.rf.df5409ccac597fc47724d561d844147f_fake",
+    "recognized_text": "IMG_5298_JPG.RF.DF5409CCAC597FC47724D56ID844147F",
+    "part_number": "IMG_5298_JPG.RF.DF5409CCAC597FC47724D56ID844147F",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5299_JPG.rf.ff8ad5632cceaf978ec907f4cd4fc307",
+    "recognized_text": "IMG_5299_JPG.RF.FF8AD5632CCEAF978EC907F4CD4FC307",
+    "part_number": "IMG_5299_JPG.RF.FF8AD5632CCEAF978EC907F4CD4FC307",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5299_JPG.rf.ff8ad5632cceaf978ec907f4cd4fc307_fake",
+    "recognized_text": "IMG_5299_JPG.RF.FF8AD5632CCEAF978EC907F4CD4FC307",
+    "part_number": "IMG_5299_JPG.RF.FF8AD5632CCEAF978EC907F4CD4FC307",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5300_JPG.rf.7617b4a6f59b97e8aa621425bd37e306",
+    "recognized_text": "IMG_5300_JPG.RF.7617B4A6F59B97E8AA621425BD37E306",
+    "part_number": "IMG_5300_JPG.RF.7617B4A6F59B97E8AA621425BD37E306",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5300_JPG.rf.7617b4a6f59b97e8aa621425bd37e306_fake",
+    "recognized_text": "IMG_5300_JPG.RF.7617B4A6F59B97E8AA621425BD37E3O6",
+    "part_number": "IMG_5300_JPG.RF.7617B4A6F59B97E8AA621425BD37E3O6",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5304_JPG.rf.5fd7f6e7ae7269eb51d34916a28a5948",
+    "recognized_text": "IMG_5304_JPG.RF.5FD7F6E7AE7269EB51D34916A28A5948",
+    "part_number": "IMG_5304_JPG.RF.5FD7F6E7AE7269EB51D34916A28A5948",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5304_JPG.rf.5fd7f6e7ae7269eb51d34916a28a5948_fake",
+    "recognized_text": "IMG_5304_JPG.RF.5FD7F6E7AE7269EB51D34916A28A5948",
+    "part_number": "IMG_5304_JPG.RF.5FD7F6E7AE7269EB51D34916A28A5948",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  },
+  {
+    "image_id": "electrocom61_IMG_5314_JPG.rf.9eb98caef1746b2425b32ff5831207f1",
+    "recognized_text": "IMG_5314_JPG.RF.9EB98CAEF1746B2425B32FF5831207F1",
+    "part_number": "IMG_5314_JPG.RF.9EB98CAEF1746B2425B32FF5831207F1",
+    "manufacturer": "Unknown",
+    "authentic": true,
+    "confidence": 1.0,
+    "source": "electrocom61"
+  },
+  {
+    "image_id": "electrocom61_IMG_5314_JPG.rf.9eb98caef1746b2425b32ff5831207f1_fake",
+    "recognized_text": "IMG_5314_JPG.RF.9E898CAEF1746B2425B32FF5831207F1",
+    "part_number": "IMG_5314_JPG.RF.9E898CAEF1746B2425B32FF5831207F1",
+    "manufacturer": "Unknown",
+    "authentic": false,
+    "confidence": 0.0,
+    "source": "synthetic_negative"
+  }
+]

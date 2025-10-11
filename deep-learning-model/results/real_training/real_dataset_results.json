@@ -1,0 +1,15 @@
+{
+  "training_completed": "2025-10-10T02:54:47.634409",
+  "dataset_info": {
+    "total_samples": 205,
+    "train_samples": 143,
+    "val_samples": 41,
+    "test_samples": 21
+  },
+  "best_val_accuracy": 100.0,
+  "test_accuracy": 100.0,
+  "precision": 100.0,
+  "recall": 100.0,
+  "f1_score": 100.0,
+  "epochs_trained": 20
+}

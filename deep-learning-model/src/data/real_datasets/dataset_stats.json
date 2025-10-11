@@ -1,0 +1,16 @@
+{
+  "total_samples": 205,
+  "train_samples": 143,
+  "val_samples": 41,
+  "test_samples": 21,
+  "verification_pairs": 410,
+  "datasets": {
+    "electrocom61": 205,
+    "ictext_agcl": 0,
+    "miic": 0,
+    "generic_ocr": 0,
+    "coco_text": 0
+  },
+  "authentic_samples": 205,
+  "fake_samples": 205
+}

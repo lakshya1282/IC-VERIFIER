@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-10-10T23:45:11.058329",
+  "device": "cpu",
+  "optimizations": {
+    "quantization": {
+      "status": "failed",
+      "error": "Can't get local object 'IndustryLevelOptimizer._load_model.<locals>.SimpleICVerificationModel'"
+    },
+    "pruning": {
+      "status": "failed",
+      "error": "Can't get local object 'IndustryLevelOptimizer._load_model.<locals>.SimpleICVerificationModel'"
+    },
+    "onnx": {
+      "format": "ONNX",
+      "opset_version": 11,
+      "optimization_level": "ORT_ENABLE_ALL",
+      "file_path": "./models/optimized/model.onnx",
+      "file_size_mb": 147.12816333770752,
+      "status": "success"
+    },
+    "batching": {
+      "type": "dynamic",
+      "max_batch_size": 32,
+      "timeout_ms": 50,
+      "status": "implemented"
+    },
+    "caching": {
+      "type": "LRU",
+      "max_size": 1000,
+      "eviction_policy": "FIFO",
+      "status": "implemented"
+    }
+  },
+  "inference_speed": {
+    "original_ms": 3.949296474456787,
+    "onnx_ms": 2.2874975204467773,
+    "onnx_speedup": "1.73x"
+  }
+}

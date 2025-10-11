@@ -1,0 +1,37 @@
+{
+  "image_path": "uploaded_image",
+  "timestamp": "2025-10-10T02:56:38.801829",
+  "detections": 1,
+  "recognized_texts": [
+    {
+      "bbox": [
+        10,
+        10,
+        590,
+        390
+      ],
+      "text": "PIC950N",
+      "detection_confidence": 0.5
+    }
+  ],
+  "verification_results": [
+    {
+      "bbox": [
+        10,
+        10,
+        590,
+        390
+      ],
+      "text": "PIC950N",
+      "detection_confidence": 0.5,
+      "authenticity_score": 1.0,
+      "is_authentic": true
+    }
+  ],
+  "pipeline_summary": {
+    "total_detections": 1,
+    "authentic_parts": 1,
+    "suspicious_parts": 0,
+    "overall_authenticity": "AUTHENTIC"
+  }
+}
