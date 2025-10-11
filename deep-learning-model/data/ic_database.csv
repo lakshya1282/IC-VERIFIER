@@ -1,0 +1,411 @@
+part_number,manufacturer,package,description,status
+STM32OGR5QI,STMicroelectronics,MSOP,STMicroelectronics Op-Amp,active
+STM32IQBTD,STMicroelectronics,TQFP,STMicroelectronics Microcontroller,active
+STM32TNJIJ,STMicroelectronics,SSOP,STMicroelectronics Logic Gate,active
+STM3239QJS,STMicroelectronics,DIP,STMicroelectronics Timer,active
+STM32C2MPYY,STMicroelectronics,LQFP,STMicroelectronics Op-Amp,active
+STM32K5P,STMicroelectronics,LQFP,STMicroelectronics Timer,active
+STM32W5PXF,STMicroelectronics,TQFP,STMicroelectronics Regulator,active
+STM32RR4BJ,STMicroelectronics,MSOP,STMicroelectronics Regulator,active
+STM32JLG,STMicroelectronics,DIP,STMicroelectronics Regulator,active
+STM32FHS735,STMicroelectronics,LQFP,STMicroelectronics Regulator,active
+STM8TD8MFS,STMicroelectronics,QFP,STMicroelectronics Regulator,active
+STM8YUZ53I,STMicroelectronics,BGA,STMicroelectronics Logic Gate,active
+STM889E,STMicroelectronics,SOT,STMicroelectronics Logic Gate,active
+STM8WC6G,STMicroelectronics,QFP,STMicroelectronics Logic Gate,active
+STM870R,STMicroelectronics,BGA,STMicroelectronics Op-Amp,active
+STM8KOO40,STMicroelectronics,DIP,STMicroelectronics Microcontroller,active
+STM8R4WV6,STMicroelectronics,DIP,STMicroelectronics Regulator,active
+STM8C50K9,STMicroelectronics,SOIC,STMicroelectronics Microcontroller,active
+STM8ZU3S3,STMicroelectronics,TQFP,STMicroelectronics Microcontroller,active
+STM81QRY4,STMicroelectronics,LQFP,STMicroelectronics Regulator,active
+STHRFZD,STMicroelectronics,SOIC,STMicroelectronics Op-Amp,active
+STSJ5,STMicroelectronics,SOIC,STMicroelectronics Microcontroller,active
+STQWP,STMicroelectronics,LQFP,STMicroelectronics Logic Gate,active
+ST0LH,STMicroelectronics,BGA,STMicroelectronics Regulator,active
+STNKR8YJ,STMicroelectronics,MSOP,STMicroelectronics Logic Gate,active
+STI7S,STMicroelectronics,SSOP,STMicroelectronics Logic Gate,active
+STP9N9,STMicroelectronics,TQFP,STMicroelectronics Regulator,active
+ST99G3,STMicroelectronics,SOIC,STMicroelectronics Timer,active
+ST338P7,STMicroelectronics,DIP,STMicroelectronics Timer,active
+STW95VKY,STMicroelectronics,TQFP,STMicroelectronics Microcontroller,active
+L78UX06D,STMicroelectronics,TQFP,STMicroelectronics Op-Amp,active
+L78CJZBL,STMicroelectronics,SOIC,STMicroelectronics Timer,active
+L78RF6HL,STMicroelectronics,SOT,STMicroelectronics Timer,active
+L78YJUS5,STMicroelectronics,SSOP,STMicroelectronics Timer,active
+L781UXUKA,STMicroelectronics,SOT,STMicroelectronics Op-Amp,active
+L78TY1L7,STMicroelectronics,SSOP,STMicroelectronics Timer,active
+L78FFVX,STMicroelectronics,SOIC,STMicroelectronics Timer,active
+L78CTO,STMicroelectronics,LQFP,STMicroelectronics Logic Gate,active
+L78NODSXE,STMicroelectronics,SSOP,STMicroelectronics Logic Gate,active
+L786Q4F4,STMicroelectronics,TQFP,STMicroelectronics Logic Gate,active
+LM0ITP,STMicroelectronics,SOT,STMicroelectronics Logic Gate,active
+LMP8Z,STMicroelectronics,SOT,STMicroelectronics Microcontroller,active
+LM5RTBFI,STMicroelectronics,DIP,STMicroelectronics Logic Gate,active
+LML9309,STMicroelectronics,MSOP,STMicroelectronics Op-Amp,active
+LMXUN2,STMicroelectronics,SOT,STMicroelectronics Timer,active
+LMCJ33ES,STMicroelectronics,SOIC,STMicroelectronics Op-Amp,active
+LMJZ9F,STMicroelectronics,QFP,STMicroelectronics Regulator,active
+LMB0NF,STMicroelectronics,SSOP,STMicroelectronics Regulator,active
+LMW78NH,STMicroelectronics,TQFP,STMicroelectronics Regulator,active
+LM9F11U,STMicroelectronics,SOIC,STMicroelectronics Regulator,active
+TIDGG,Texas Instruments,DIP,Texas Instruments Timer,active
+TI6ZLG5,Texas Instruments,LQFP,Texas Instruments Logic Gate,active
+TIGJD7F,Texas Instruments,TQFP,Texas Instruments Microcontroller,active
+TIJXH5K,Texas Instruments,QFP,Texas Instruments Logic Gate,active
+TIWMFB4,Texas Instruments,SOIC,Texas Instruments Regulator,active
+TIURTC6Z,Texas Instruments,DIP,Texas Instruments Op-Amp,active
+TIITI,Texas Instruments,BGA,Texas Instruments Timer,active
+TICNSUA,Texas Instruments,SOT,Texas Instruments Logic Gate,active
+TI7S1Q,Texas Instruments,QFP,Texas Instruments Logic Gate,active
+TIWUX,Texas Instruments,BGA,Texas Instruments Timer,active
+LM2G8X,Texas Instruments,SOT,Texas Instruments Regulator,active
+LMP41IQ,Texas Instruments,LQFP,Texas Instruments Regulator,active
+LM90KX0W,Texas Instruments,LQFP,Texas Instruments Regulator,active
+LM8D72A,Texas Instruments,SSOP,Texas Instruments Op-Amp,active
+LM3Z0J,Texas Instruments,TQFP,Texas Instruments Op-Amp,active
+LMBIMTL8,Texas Instruments,QFP,Texas Instruments Microcontroller,active
+LMVHOYDS,Texas Instruments,TQFP,Texas Instruments Op-Amp,active
+LMV3A,Texas Instruments,BGA,Texas Instruments Timer,active
+LMZZ0R15,Texas Instruments,MSOP,Texas Instruments Timer,active
+LMAX9,Texas Instruments,SOIC,Texas Instruments Regulator,active
+TLWOYPJ,Texas Instruments,DIP,Texas Instruments Logic Gate,active
+TLYNSZ,Texas Instruments,LQFP,Texas Instruments Microcontroller,active
+TLN0EGB,Texas Instruments,MSOP,Texas Instruments Op-Amp,active
+TL9LJB,Texas Instruments,BGA,Texas Instruments Microcontroller,active
+TLVUX,Texas Instruments,TQFP,Texas Instruments Op-Amp,active
+TLVMJ,Texas Instruments,SOT,Texas Instruments Op-Amp,active
+TL6XFU7,Texas Instruments,LQFP,Texas Instruments Regulator,active
+TLHGEEG,Texas Instruments,MSOP,Texas Instruments Op-Amp,active
+TLSOI,Texas Instruments,LQFP,Texas Instruments Logic Gate,active
+TL1AIXX,Texas Instruments,SOIC,Texas Instruments Logic Gate,active
+CDYS0L,Texas Instruments,DIP,Texas Instruments Timer,active
+CDGMA,Texas Instruments,LQFP,Texas Instruments Timer,active
+CD01MY1H,Texas Instruments,DIP,Texas Instruments Regulator,active
+CDZ73MBT,Texas Instruments,BGA,Texas Instruments Op-Amp,active
+CDHA4NS,Texas Instruments,LQFP,Texas Instruments Op-Amp,active
+CDK75Q,Texas Instruments,TQFP,Texas Instruments Regulator,active
+CDDZ108,Texas Instruments,MSOP,Texas Instruments Logic Gate,active
+CDKY7G,Texas Instruments,DIP,Texas Instruments Microcontroller,active
+CD0EUE,Texas Instruments,SOT,Texas Instruments Regulator,active
+CDXIU,Texas Instruments,SOT,Texas Instruments Timer,active
+SNQLT8L,Texas Instruments,QFP,Texas Instruments Logic Gate,active
+SN8ACD7,Texas Instruments,TQFP,Texas Instruments Logic Gate,active
+SNRNN260,Texas Instruments,QFP,Texas Instruments Logic Gate,active
+SNRTXC,Texas Instruments,SOIC,Texas Instruments Logic Gate,active
+SN48VN,Texas Instruments,MSOP,Texas Instruments Op-Amp,active
+SNF5C4J,Texas Instruments,MSOP,Texas Instruments Regulator,active
+SN13L6,Texas Instruments,TQFP,Texas Instruments Regulator,active
+SNEB42,Texas Instruments,SOT,Texas Instruments Op-Amp,active
+SN896,Texas Instruments,DIP,Texas Instruments Op-Amp,active
+SN4VDR,Texas Instruments,DIP,Texas Instruments Regulator,active
+TMSJFYQ,Texas Instruments,LQFP,Texas Instruments Timer,active
+TMSVERAH3,Texas Instruments,MSOP,Texas Instruments Timer,active
+TMSUME9,Texas Instruments,MSOP,Texas Instruments Timer,active
+TMSZH8Z,Texas Instruments,BGA,Texas Instruments Regulator,active
+TMSIP2,Texas Instruments,SOIC,Texas Instruments Op-Amp,active
+TMSWWG7,Texas Instruments,LQFP,Texas Instruments Regulator,active
+TMSZ7CFQ,Texas Instruments,LQFP,Texas Instruments Logic Gate,active
+TMS1UA6U8,Texas Instruments,QFP,Texas Instruments Microcontroller,active
+TMSYU3QE,Texas Instruments,QFP,Texas Instruments Timer,active
+TMS1S4G9,Texas Instruments,LQFP,Texas Instruments Timer,active
+MSP7RA7CT,Texas Instruments,MSOP,Texas Instruments Logic Gate,active
+MSP4AX,Texas Instruments,SOT,Texas Instruments Logic Gate,active
+MSPJFROK,Texas Instruments,LQFP,Texas Instruments Microcontroller,active
+MSPT0D,Texas Instruments,DIP,Texas Instruments Op-Amp,active
+MSPPVG,Texas Instruments,SOT,Texas Instruments Logic Gate,active
+MSPL0G5,Texas Instruments,SOIC,Texas Instruments Op-Amp,active
+MSPT92JER,Texas Instruments,TQFP,Texas Instruments Microcontroller,active
+MSP68RSD,Texas Instruments,SOIC,Texas Instruments Logic Gate,active
+MSPRBD8O1,Texas Instruments,QFP,Texas Instruments Timer,active
+MSP5ZUR1A,Texas Instruments,SSOP,Texas Instruments Timer,active
+PIC18R,Microchip,SOT,Microchip Op-Amp,active
+PIC3ZWG,Microchip,SOIC,Microchip Microcontroller,active
+PICR7I,Microchip,DIP,Microchip Timer,active
+PICY3TBIX,Microchip,SOT,Microchip Timer,active
+PICRI9,Microchip,LQFP,Microchip Timer,active
+PICGAT5WH,Microchip,SOT,Microchip Timer,active
+PICJFY,Microchip,SOT,Microchip Op-Amp,active
+PICY3S1,Microchip,DIP,Microchip Regulator,active
+PICNRP1,Microchip,SSOP,Microchip Timer,active
+PICS0VX,Microchip,SOIC,Microchip Timer,active
+ATMEGA6GK8,Microchip,TQFP,Microchip Timer,active
+ATMEGABPG14,Microchip,SOIC,Microchip Regulator,active
+ATMEGAP77MJY,Microchip,BGA,Microchip Logic Gate,active
+ATMEGAXGI6,Microchip,BGA,Microchip Regulator,active
+ATMEGAGJDDGZ,Microchip,SOT,Microchip Logic Gate,active
+ATMEGAVBSZ,Microchip,DIP,Microchip Regulator,active
+ATMEGAMKGSOF,Microchip,QFP,Microchip Logic Gate,active
+ATMEGAH1VJ,Microchip,MSOP,Microchip Regulator,active
+ATMEGAIL04,Microchip,DIP,Microchip Regulator,active
+ATMEGAG75F,Microchip,LQFP,Microchip Regulator,active
+ATTINYYTKRNJ,Microchip,BGA,Microchip Logic Gate,active
+ATTINYHLGJI,Microchip,QFP,Microchip Regulator,active
+ATTINYQM61G3,Microchip,MSOP,Microchip Op-Amp,active
+ATTINYDVOU0,Microchip,LQFP,Microchip Op-Amp,active
+ATTINYM1L,Microchip,QFP,Microchip Timer,active
+ATTINYQE7K,Microchip,SSOP,Microchip Timer,active
+ATTINY356,Microchip,LQFP,Microchip Timer,active
+ATTINYWHZ,Microchip,MSOP,Microchip Microcontroller,active
+ATTINYABX4R,Microchip,SSOP,Microchip Op-Amp,active
+ATTINYJJNNU,Microchip,BGA,Microchip Op-Amp,active
+ATSTBM15,Microchip,LQFP,Microchip Op-Amp,active
+ATDOIJ7,Microchip,SOT,Microchip Op-Amp,active
+ATYRT,Microchip,TQFP,Microchip Op-Amp,active
+AT6XA,Microchip,DIP,Microchip Logic Gate,active
+AT85T,Microchip,LQFP,Microchip Logic Gate,active
+AT0E7TCN,Microchip,SSOP,Microchip Op-Amp,active
+AT1WNDBD,Microchip,SOIC,Microchip Microcontroller,active
+ATH0L,Microchip,QFP,Microchip Logic Gate,active
+AT15YM,Microchip,MSOP,Microchip Op-Amp,active
+AT61UM,Microchip,BGA,Microchip Regulator,active
+MCPOFZQFW,Microchip,SSOP,Microchip Regulator,active
+MCPFHJRR,Microchip,BGA,Microchip Op-Amp,active
+MCPNFMNF1,Microchip,LQFP,Microchip Microcontroller,active
+MCPNCY,Microchip,TQFP,Microchip Op-Amp,active
+MCPG86T7,Microchip,SOT,Microchip Timer,active
+MCPZ3TYOZ,Microchip,SSOP,Microchip Op-Amp,active
+MCP44Q,Microchip,SSOP,Microchip Microcontroller,active
+MCPYWH9,Microchip,MSOP,Microchip Logic Gate,active
+MCPO92,Microchip,QFP,Microchip Microcontroller,active
+MCPU3LZ,Microchip,SOT,Microchip Microcontroller,active
+TCQP4KN,Microchip,DIP,Microchip Op-Amp,active
+TCBVH,Microchip,DIP,Microchip Timer,active
+TCWI1,Microchip,SSOP,Microchip Op-Amp,active
+TCLF6L9,Microchip,BGA,Microchip Op-Amp,active
+TC5AIY,Microchip,TQFP,Microchip Microcontroller,active
+TCKZNZ9B,Microchip,MSOP,Microchip Microcontroller,active
+TCH2RDK,Microchip,LQFP,Microchip Op-Amp,active
+TCCTLYO,Microchip,MSOP,Microchip Microcontroller,active
+TCDFP3YL,Microchip,TQFP,Microchip Timer,active
+TCAUFB,Microchip,BGA,Microchip Timer,active
+8086US4UWT,Intel,TQFP,Intel Regulator,active
+8086UDUPU,Intel,BGA,Intel Microcontroller,active
+8086GBOD,Intel,SOT,Intel Timer,active
+8086LAJHW,Intel,SSOP,Intel Microcontroller,active
+8086QIPH,Intel,TQFP,Intel Timer,active
+8086VR5P,Intel,DIP,Intel Logic Gate,active
+8086D7Z,Intel,MSOP,Intel Regulator,active
+8086D1GI0L,Intel,QFP,Intel Op-Amp,active
+8086VA8BBX,Intel,QFP,Intel Microcontroller,active
+8086QAGP70,Intel,DIP,Intel Regulator,active
+8051R07G,Intel,QFP,Intel Microcontroller,active
+8051TOD,Intel,QFP,Intel Timer,active
+8051JXV4,Intel,LQFP,Intel Op-Amp,active
+8051RLA,Intel,SOIC,Intel Regulator,active
+8051GF7,Intel,BGA,Intel Timer,active
+8051B15ZV,Intel,TQFP,Intel Microcontroller,active
+8051CBPD,Intel,QFP,Intel Microcontroller,active
+8051234IAY,Intel,SOT,Intel Op-Amp,active
+8051XJNFNV,Intel,SSOP,Intel Logic Gate,active
+80514QX,Intel,SSOP,Intel Op-Amp,active
+80386AUZN9K,Intel,MSOP,Intel Logic Gate,active
+80386FUYRBI,Intel,MSOP,Intel Op-Amp,active
+803864Q7SPW,Intel,SOT,Intel Regulator,active
+803865TCJD,Intel,SOIC,Intel Regulator,active
+80386NW9ER,Intel,MSOP,Intel Microcontroller,active
+80386KG2PR,Intel,BGA,Intel Logic Gate,active
+80386HE03,Intel,BGA,Intel Regulator,active
+80386I2U,Intel,MSOP,Intel Logic Gate,active
+80386GHHNE,Intel,BGA,Intel Regulator,active
+80386B0E,Intel,QFP,Intel Timer,active
+i7CG0Y,Intel,QFP,Intel Timer,active
+i73KU9D,Intel,BGA,Intel Logic Gate,active
+i7AV69O,Intel,SOT,Intel Microcontroller,active
+i7S213,Intel,MSOP,Intel Regulator,active
+i7N0NXFS,Intel,SSOP,Intel Op-Amp,active
+i7B1GI,Intel,QFP,Intel Regulator,active
+i74EU,Intel,SOT,Intel Microcontroller,active
+i72KQ,Intel,MSOP,Intel Logic Gate,active
+i709W,Intel,QFP,Intel Logic Gate,active
+i7KWXRJ,Intel,DIP,Intel Microcontroller,active
+XEON8FTN4C,Intel,SOIC,Intel Timer,active
+XEONBM0,Intel,QFP,Intel Logic Gate,active
+XEONBSJF,Intel,DIP,Intel Logic Gate,active
+XEON3KJ,Intel,BGA,Intel Op-Amp,active
+XEON2EXQXX,Intel,SOIC,Intel Logic Gate,active
+XEONZYVEDW,Intel,SOIC,Intel Timer,active
+XEON2Q2XY3,Intel,LQFP,Intel Logic Gate,active
+XEONGHMFZ,Intel,QFP,Intel Logic Gate,active
+XEONSJNI,Intel,SSOP,Intel Timer,active
+XEONLU8R,Intel,QFP,Intel Microcontroller,active
+RYZEN2V1,AMD,SOIC,AMD Timer,active
+RYZENI4C,AMD,SOIC,AMD Op-Amp,active
+RYZENTF7UJI,AMD,MSOP,AMD Regulator,active
+RYZEN2KEP,AMD,LQFP,AMD Timer,active
+RYZEN57ED4,AMD,SOIC,AMD Regulator,active
+RYZEN8AHZI,AMD,TQFP,AMD Logic Gate,active
+RYZEN7LSZW,AMD,DIP,AMD Regulator,active
+RYZEN0UGAT7,AMD,SOIC,AMD Op-Amp,active
+RYZENLJ05,AMD,SOIC,AMD Op-Amp,active
+RYZENCAJPB,AMD,QFP,AMD Logic Gate,active
+ATHLON9YCN,AMD,DIP,AMD Op-Amp,active
+ATHLONDA51X,AMD,BGA,AMD Op-Amp,active
+ATHLON9PI,AMD,LQFP,AMD Timer,active
+ATHLON7LQES,AMD,LQFP,AMD Op-Amp,active
+ATHLONI2IR,AMD,LQFP,AMD Op-Amp,active
+ATHLON2XA,AMD,SOT,AMD Timer,active
+ATHLONPADY,AMD,SSOP,AMD Timer,active
+ATHLON7QKVJ,AMD,TQFP,AMD Timer,active
+ATHLONJQK,AMD,SOT,AMD Logic Gate,active
+ATHLONGA9,AMD,SOT,AMD Logic Gate,active
+FXLEG,AMD,BGA,AMD Microcontroller,active
+FXS7X,AMD,SSOP,AMD Op-Amp,active
+FXC0D,AMD,TQFP,AMD Regulator,active
+FX5QL,AMD,SOIC,AMD Microcontroller,active
+FXEIZK8,AMD,SOIC,AMD Op-Amp,active
+FXSVO,AMD,MSOP,AMD Microcontroller,active
+FXY7AY,AMD,DIP,AMD Logic Gate,active
+FX8GT,AMD,TQFP,AMD Timer,active
+FXWGV6VF,AMD,SOIC,AMD Logic Gate,active
+FX54RY4A,AMD,LQFP,AMD Regulator,active
+ADAMTDJ,Analog Devices,DIP,Analog Devices Timer,active
+ADPDOM,Analog Devices,SOT,Analog Devices Logic Gate,active
+ADZJ9L,Analog Devices,SOT,Analog Devices Microcontroller,active
+ADDEB,Analog Devices,SOIC,Analog Devices Op-Amp,active
+ADR08Q,Analog Devices,SOT,Analog Devices Logic Gate,active
+AD89HMT6,Analog Devices,SOIC,Analog Devices Logic Gate,active
+ADC007B,Analog Devices,MSOP,Analog Devices Op-Amp,active
+ADY4ZILS,Analog Devices,MSOP,Analog Devices Op-Amp,active
+ADUO6AL0,Analog Devices,SOIC,Analog Devices Logic Gate,active
+ADSWPYMS,Analog Devices,DIP,Analog Devices Logic Gate,active
+ADMBU114,Analog Devices,TQFP,Analog Devices Logic Gate,active
+ADMOJGZ,Analog Devices,SSOP,Analog Devices Op-Amp,active
+ADMK1YTZ,Analog Devices,TQFP,Analog Devices Timer,active
+ADM5ITK1M,Analog Devices,SOIC,Analog Devices Regulator,active
+ADMR3N,Analog Devices,SSOP,Analog Devices Op-Amp,active
+ADMIXBJX,Analog Devices,SOIC,Analog Devices Timer,active
+ADMGG3W8D,Analog Devices,SOT,Analog Devices Logic Gate,active
+ADM6YOK,Analog Devices,LQFP,Analog Devices Regulator,active
+ADMEGJFC,Analog Devices,LQFP,Analog Devices Regulator,active
+ADMBLE89,Analog Devices,MSOP,Analog Devices Regulator,active
+ADPTMKK9,Analog Devices,DIP,Analog Devices Logic Gate,active
+ADPKH5QKN,Analog Devices,SOT,Analog Devices Timer,active
+ADPSGCWBW,Analog Devices,BGA,Analog Devices Timer,active
+ADP1CHX,Analog Devices,SOIC,Analog Devices Timer,active
+ADPCISJO,Analog Devices,SOIC,Analog Devices Logic Gate,active
+ADPVCCFJ6,Analog Devices,BGA,Analog Devices Op-Amp,active
+ADPPZ5D,Analog Devices,SSOP,Analog Devices Timer,active
+ADP0SQZC,Analog Devices,SOIC,Analog Devices Microcontroller,active
+ADPQP57,Analog Devices,SOT,Analog Devices Regulator,active
+ADP9VWWP,Analog Devices,TQFP,Analog Devices Microcontroller,active
+ADXLYDEM8L,Analog Devices,LQFP,Analog Devices Op-Amp,active
+ADXL116,Analog Devices,BGA,Analog Devices Timer,active
+ADXLLV8YI,Analog Devices,BGA,Analog Devices Logic Gate,active
+ADXLGZVGV,Analog Devices,MSOP,Analog Devices Microcontroller,active
+ADXLBCF,Analog Devices,SOT,Analog Devices Logic Gate,active
+ADXLKMFR,Analog Devices,SSOP,Analog Devices Regulator,active
+ADXLU7KJ,Analog Devices,QFP,Analog Devices Op-Amp,active
+ADXLXHF6BR,Analog Devices,SOIC,Analog Devices Op-Amp,active
+ADXLOJH,Analog Devices,QFP,Analog Devices Logic Gate,active
+ADXL1N4,Analog Devices,QFP,Analog Devices Regulator,active
+MAX8P9CI,Maxim,DIP,Maxim Microcontroller,active
+MAX3TX,Maxim,TQFP,Maxim Logic Gate,active
+MAXZALA3A,Maxim,QFP,Maxim Op-Amp,active
+MAX06SX,Maxim,DIP,Maxim Op-Amp,active
+MAXRDFRT,Maxim,QFP,Maxim Regulator,active
+MAXCN4,Maxim,SSOP,Maxim Op-Amp,active
+MAXVUVE8,Maxim,SOT,Maxim Regulator,active
+MAX9V6T,Maxim,SSOP,Maxim Op-Amp,active
+MAXFULI,Maxim,SOT,Maxim Logic Gate,active
+MAXY341U,Maxim,TQFP,Maxim Logic Gate,active
+DSZT8FS,Maxim,SOIC,Maxim Timer,active
+DSJLM,Maxim,MSOP,Maxim Timer,active
+DS9BYB,Maxim,BGA,Maxim Logic Gate,active
+DSJLXOFO,Maxim,SSOP,Maxim Microcontroller,active
+DSQC1,Maxim,SOIC,Maxim Op-Amp,active
+DS5J7,Maxim,MSOP,Maxim Timer,active
+DSRW51O,Maxim,SOIC,Maxim Microcontroller,active
+DSQK0EWZ,Maxim,SOT,Maxim Op-Amp,active
+DSOHL,Maxim,SSOP,Maxim Logic Gate,active
+DSDK0,Maxim,SSOP,Maxim Regulator,active
+LPCOBIDF,NXP,QFP,NXP Timer,active
+LPCQOU1,NXP,SOIC,NXP Microcontroller,active
+LPCDJA,NXP,SSOP,NXP Timer,active
+LPCEF1,NXP,QFP,NXP Timer,active
+LPCZIIUDC,NXP,BGA,NXP Microcontroller,active
+LPCPP5C,NXP,DIP,NXP Logic Gate,active
+LPCBFAN,NXP,BGA,NXP Regulator,active
+LPCYT4E3,NXP,BGA,NXP Op-Amp,active
+LPCLKN0N,NXP,MSOP,NXP Logic Gate,active
+LPCBBZQ4,NXP,DIP,NXP Timer,active
+MCNIG5X,NXP,SSOP,NXP Regulator,active
+MCLHWIT,NXP,TQFP,NXP Microcontroller,active
+MCCS87A,NXP,SOT,NXP Op-Amp,active
+MC3VXXVX,NXP,SOIC,NXP Regulator,active
+MC6H7SU,NXP,BGA,NXP Logic Gate,active
+MC8XW,NXP,SOIC,NXP Microcontroller,active
+MCNEDPJL,NXP,LQFP,NXP Logic Gate,active
+MC1F8WQ,NXP,DIP,NXP Timer,active
+MC7LU97,NXP,BGA,NXP Regulator,active
+MCKXUFF,NXP,SOIC,NXP Regulator,active
+PCF8A6EUG,NXP,LQFP,NXP Microcontroller,active
+PCFW4OY,NXP,LQFP,NXP Op-Amp,active
+PCFN1F,NXP,SOIC,NXP Logic Gate,active
+PCFEH3S05,NXP,DIP,NXP Op-Amp,active
+PCF7LHF5U,NXP,DIP,NXP Regulator,active
+PCFCOTV,NXP,SSOP,NXP Regulator,active
+PCFWEYSN,NXP,TQFP,NXP Op-Amp,active
+PCFV4KN,NXP,SOT,NXP Regulator,active
+PCFWH09,NXP,SOT,NXP Regulator,active
+PCF7XD,NXP,DIP,NXP Microcontroller,active
+IRAFPI,Infineon,TQFP,Infineon Op-Amp,active
+IRP7B,Infineon,TQFP,Infineon Regulator,active
+IRAN5Q,Infineon,SOIC,Infineon Timer,active
+IRJ0M,Infineon,LQFP,Infineon Op-Amp,active
+IRDTHQ,Infineon,LQFP,Infineon Microcontroller,active
+IRNTE,Infineon,BGA,Infineon Regulator,active
+IRSFFJ,Infineon,SOIC,Infineon Logic Gate,active
+IR3V1,Infineon,TQFP,Infineon Microcontroller,active
+IRHKNAZ,Infineon,DIP,Infineon Op-Amp,active
+IRKC4IXP,Infineon,SSOP,Infineon Op-Amp,active
+IRLEQC7Y,Infineon,LQFP,Infineon Regulator,active
+IRLU6Z,Infineon,QFP,Infineon Op-Amp,active
+IRLECCL7,Infineon,DIP,Infineon Logic Gate,active
+IRLEW6V,Infineon,QFP,Infineon Logic Gate,active
+IRLR89GXH,Infineon,QFP,Infineon Logic Gate,active
+IRLUVCB,Infineon,MSOP,Infineon Regulator,active
+IRL7BTZ90,Infineon,SOIC,Infineon Microcontroller,active
+IRLWGZP,Infineon,SOIC,Infineon Op-Amp,active
+IRLQ4MS1,Infineon,DIP,Infineon Timer,active
+IRLJK5LI,Infineon,BGA,Infineon Logic Gate,active
+XMCAQ3,Infineon,MSOP,Infineon Timer,active
+XMCNOYLBO,Infineon,LQFP,Infineon Op-Amp,active
+XMCIUC65,Infineon,SOT,Infineon Regulator,active
+XMCGWYGU0,Infineon,BGA,Infineon Logic Gate,active
+XMCK1Y9,Infineon,SOT,Infineon Logic Gate,active
+XMCLXPVXR,Infineon,SSOP,Infineon Regulator,active
+XMCJBTDIP,Infineon,MSOP,Infineon Timer,active
+XMCFPO7E,Infineon,QFP,Infineon Regulator,active
+XMCB8C9Q1,Infineon,LQFP,Infineon Logic Gate,active
+XMCBJE4T,Infineon,MSOP,Infineon Timer,active
+MCCCGLC9,ON Semiconductor,SSOP,ON Semiconductor Timer,active
+MCGAF,ON Semiconductor,QFP,ON Semiconductor Timer,active
+MCI8B2G,ON Semiconductor,QFP,ON Semiconductor Timer,active
+MCIIIQF,ON Semiconductor,SOT,ON Semiconductor Timer,active
+MCPQ5UX3,ON Semiconductor,QFP,ON Semiconductor Regulator,active
+MCOCYXC,ON Semiconductor,LQFP,ON Semiconductor Regulator,active
+MCG87C,ON Semiconductor,SSOP,ON Semiconductor Logic Gate,active
+MCVJ8A2,ON Semiconductor,SOIC,ON Semiconductor Op-Amp,active
+MCJNM6A,ON Semiconductor,SOT,ON Semiconductor Timer,active
+MCQIH,ON Semiconductor,SOT,ON Semiconductor Regulator,active
+2NBJBLG,ON Semiconductor,QFP,ON Semiconductor Timer,active
+2NBDTYE,ON Semiconductor,TQFP,ON Semiconductor Microcontroller,active
+2NE3QY,ON Semiconductor,SOIC,ON Semiconductor Op-Amp,active
+2NXA36B0,ON Semiconductor,SSOP,ON Semiconductor Op-Amp,active
+2NTDRG6,ON Semiconductor,LQFP,ON Semiconductor Microcontroller,active
+2NBF9NS,ON Semiconductor,DIP,ON Semiconductor Timer,active
+2NYWZSHP,ON Semiconductor,SOT,ON Semiconductor Timer,active
+2NG7UZM4,ON Semiconductor,QFP,ON Semiconductor Logic Gate,active
+2N35N,ON Semiconductor,MSOP,ON Semiconductor Microcontroller,active
+2NKL2,ON Semiconductor,QFP,ON Semiconductor Op-Amp,active
+BCSRQ8RO,ON Semiconductor,LQFP,ON Semiconductor Logic Gate,active
+BCP4Z3H,ON Semiconductor,QFP,ON Semiconductor Timer,active
+BC5JYR,ON Semiconductor,DIP,ON Semiconductor Op-Amp,active
+BC3796B,ON Semiconductor,DIP,ON Semiconductor Timer,active
+BCPU8S,ON Semiconductor,TQFP,ON Semiconductor Microcontroller,active
+BC88Z,ON Semiconductor,LQFP,ON Semiconductor Regulator,active
+BCJWNZ9,ON Semiconductor,SOT,ON Semiconductor Timer,active
+BCJ5SGRD,ON Semiconductor,SOT,ON Semiconductor Timer,active
+BC2MN5,ON Semiconductor,LQFP,ON Semiconductor Logic Gate,active
+BCDXRTPO,ON Semiconductor,SOIC,ON Semiconductor Regulator,active
