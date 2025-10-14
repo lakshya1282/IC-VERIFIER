@@ -1,0 +1,134 @@
+# Training Configuration for IC Recognition & Verification Pipeline
+
+# Data configuration
+data:
+  # Dataset paths
+  dataset_root: "./data"
+  annotations: "./data/annotations/dataset_annotations.json"
+  verification_pairs: "./data/annotations/verification_pairs.json"
+  ic_database: "./data/ic_database.csv"
+  
+  # Training parameters
+  image_size: 640  # Input image size for training
+  batch_size_detection: 8  # Batch size for detection training
+  batch_size_recognition: 16  # Batch size for recognition training
+
+# Training configuration
+training:
+  batch_size: 8
+  num_workers: 4
+  pin_memory: true
+  
+  # Training stages
+  train_detection: true
+  train_recognition: true
+  train_verification: true
+  
+  # CRAFT detection training
+  craft:
+    epochs: 100
+    learning_rate: 0.001
+    weight_decay: 0.0005
+    lr_step_size: 20
+    lr_gamma: 0.5
+    
+  # CRNN recognition training  
+  crnn:
+    epochs: 80
+    learning_rate: 0.001
+    weight_decay: 0.0005
+    lr_step_size: 15
+    lr_gamma: 0.7
+    
+  # Verification training
+  verification:
+    epochs: 50
+    batch_size: 32
+    learning_rate: 0.001
+
+# Model configurations
+models:
+  save_dir: './models'
+  
+  craft:
+    pretrained: true
+    freeze_backbone: false
+    
+  crnn:
+    img_h: 64
+    img_w: 256
+    prediction: 'CTC'  # 'CTC' or 'Attention'
+    
+  verification:
+    hidden_dims: [128, 64, 32]
+    dropout: 0.3
+
+# Curriculum learning
+curriculum_learning:
+  start_epoch: 0
+  easy_epochs: 15
+  medium_epochs: 30
+  hard_epochs: 50
+
+# Early stopping
+early_stopping:
+  patience: 10
+  min_delta: 0.001
+  restore_best_weights: true
+
+# Logging configuration
+logging:
+  log_dir: './logs'
+  use_wandb: false  # Set to true if you want to use Weights & Biases
+  tensorboard: true
+  save_checkpoints: true
+  checkpoint_frequency: 5
+
+# Data augmentation parameters
+augmentation:
+  train:
+    brightness_contrast_prob: 0.7
+    brightness_limit: 0.2
+    contrast_limit: 0.2
+    
+    hue_saturation_prob: 0.5
+    hue_shift_limit: 10
+    sat_shift_limit: 10
+    val_shift_limit: 10
+    
+    rotation_prob: 0.5
+    rotation_limit: 15
+    
+    blur_prob: 0.5
+    gaussian_blur_limit: 3
+    motion_blur_limit: 3
+    
+    noise_prob: 0.3
+    noise_var_limit: 10
+    
+    perspective_prob: 0.3
+    perspective_scale: 0.05
+
+# Optimization settings
+optimization:
+  optimizer: 'AdamW'  # 'Adam', 'AdamW', 'SGD'
+  momentum: 0.9  # For SGD
+  gradient_clipping: 1.0
+  mixed_precision: true
+  
+# Evaluation settings
+evaluation:
+  detection_threshold: 0.5
+  text_threshold: 0.7
+  link_threshold: 0.4
+  verification_threshold: 0.6
+
+# Loss function weights
+loss_weights:
+  detection:
+    region_loss: 1.0
+    affinity_loss: 1.0
+  recognition:
+    ctc_loss: 1.0
+  verification:
+    classification_loss: 1.0

@@ -1,0 +1,485 @@
+[
+  {
+    "image_id": "electrocom61_IMG20240228132456_jpg.rf.eb64c1ed2dbcd1e6aa3444ccbcac9c4c",
+    "image_path": "images\\electrocom61_IMG20240228132456_jpg.rf.eb64c1ed2dbcd1e6aa3444ccbcac9c4c.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG20240228132456_JPG.RF.EB64C1ED2DBCD1E6AA3444CCBCAC9C4C",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG20240228132456_JPG.RF.EB64C1ED2DBCD1E6AA3444CCBCAC9C4C",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_113730_jpg.rf.43bcf0a8aa798b429ab2c0df3544050a",
+    "image_path": "images\\electrocom61_IMG_20240219_113730_jpg.rf.43bcf0a8aa798b429ab2c0df3544050a.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240219_113730_JPG.RF.43BCF0A8AA798B429AB2C0DF3544050A",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240219_113730_JPG.RF.43BCF0A8AA798B429AB2C0DF3544050A",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228123642_jpg.rf.ea1b858851d68488ef362a87b3f5037e",
+    "image_path": "images\\electrocom61_IMG20240228123642_jpg.rf.ea1b858851d68488ef362a87b3f5037e.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG20240228123642_JPG.RF.EA1B858851D68488EF362A87B3F5037E",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG20240228123642_JPG.RF.EA1B858851D68488EF362A87B3F5037E",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240219_113711_jpg.rf.73592dbfb956713954c415060015c988",
+    "image_path": "images\\electrocom61_IMG_20240219_113711_jpg.rf.73592dbfb956713954c415060015c988.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240219_113711_JPG.RF.73592DBFB956713954C415060015C988",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240219_113711_JPG.RF.73592DBFB956713954C415060015C988",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG20240306120839_jpg.rf.f01cef01b9afaf85fd1e7c6242112a6e",
+    "image_path": "images\\electrocom61_IMG20240306120839_jpg.rf.f01cef01b9afaf85fd1e7c6242112a6e.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG20240306120839_JPG.RF.F01CEF01B9AFAF85FD1E7C6242112A6E",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG20240306120839_JPG.RF.F01CEF01B9AFAF85FD1E7C6242112A6E",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228132533_jpg.rf.143880b7203bf01cbc7f4389bf0950a9",
+    "image_path": "images\\electrocom61_IMG20240228132533_jpg.rf.143880b7203bf01cbc7f4389bf0950a9.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG20240228132533_JPG.RF.143880B7203BF01CBC7F4389BF0950A9",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG20240228132533_JPG.RF.143880B7203BF01CBC7F4389BF0950A9",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113834_jpg.rf.a00f74b8ff0f1f083009839ab52267e7",
+    "image_path": "images\\electrocom61_IMG_20240309_113834_jpg.rf.a00f74b8ff0f1f083009839ab52267e7.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240309_113834_JPG.RF.A00F74B8FF0F1F083009839AB52267E7",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240309_113834_JPG.RF.A00F74B8FF0F1F083009839AB52267E7",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_135857_jpg.rf.74cbf8bb1567609d816831fa83f2c871",
+    "image_path": "images\\electrocom61_IMG_20240228_135857_jpg.rf.74cbf8bb1567609d816831fa83f2c871.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240228_135857_JPG.RF.74CBF8BB1567609D816831FA83F2C871",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240228_135857_JPG.RF.74CBF8BB1567609D816831FA83F2C871",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_134137_jpg.rf.2ddd06351f0f48c9c1f0f5ff18c0547b",
+    "image_path": "images\\electrocom61_IMG_20240220_134137_jpg.rf.2ddd06351f0f48c9c1f0f5ff18c0547b.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240220_134137_JPG.RF.2DDD06351F0F48C9C1F0F5FF18C0547B",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240220_134137_JPG.RF.2DDD06351F0F48C9C1F0F5FF18C0547B",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_115756_jpg.rf.a40490bd6abd60f95255a99b9b761340",
+    "image_path": "images\\electrocom61_IMG_20240309_115756_jpg.rf.a40490bd6abd60f95255a99b9b761340.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240309_115756_JPG.RF.A40490BD6ABD60F95255A99B9B761340",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240309_115756_JPG.RF.A40490BD6ABD60F95255A99B9B761340",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_120259_jpg.rf.0af669d95432e3687176e0aebca1836d",
+    "image_path": "images\\electrocom61_IMG_20240306_120259_jpg.rf.0af669d95432e3687176e0aebca1836d.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240306_120259_JPG.RF.0AF669D95432E3687176E0AEBCA1836D",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240306_120259_JPG.RF.0AF669D95432E3687176E0AEBCA1836D",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG20240309112748_jpg.rf.b61e5944228f904b9e67156be26ba15d",
+    "image_path": "images\\electrocom61_IMG20240309112748_jpg.rf.b61e5944228f904b9e67156be26ba15d.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG20240309112748_JPG.RF.B61E5944228F904B9E67156BE26BA15D",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG20240309112748_JPG.RF.B61E5944228F904B9E67156BE26BA15D",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113356_jpg.rf.d0f07ff64ee895962ccfc3edbc5fd5dc",
+    "image_path": "images\\electrocom61_IMG_20240309_113356_jpg.rf.d0f07ff64ee895962ccfc3edbc5fd5dc.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240309_113356_JPG.RF.D0F07FF64EE895962CCFC3EDBC5FD5DC",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240309_113356_JPG.RF.D0F07FF64EE895962CCFC3EDBC5FD5DC",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240417_115349_jpg.rf.dfc99d0e111e482969ece3572475d1e9",
+    "image_path": "images\\electrocom61_IMG_20240417_115349_jpg.rf.dfc99d0e111e482969ece3572475d1e9.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240417_115349_JPG.RF.DFC99D0E111E482969ECE3572475D1E9",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240417_115349_JPG.RF.DFC99D0E111E482969ECE3572475D1E9",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240228_132355_jpg.rf.1c17a8b8cf4d37fdf475aa05278ef1c0",
+    "image_path": "images\\electrocom61_IMG_20240228_132355_jpg.rf.1c17a8b8cf4d37fdf475aa05278ef1c0.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240228_132355_JPG.RF.1C17A8B8CF4D37FDF475AA05278EF1C0",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240228_132355_JPG.RF.1C17A8B8CF4D37FDF475AA05278EF1C0",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240220_114930_jpg.rf.b443e1496d702c6d19987ab43b73930f",
+    "image_path": "images\\electrocom61_IMG_20240220_114930_jpg.rf.b443e1496d702c6d19987ab43b73930f.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240220_114930_JPG.RF.B443E1496D702C6D19987AB43B73930F",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240220_114930_JPG.RF.B443E1496D702C6D19987AB43B73930F",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240306_143742_jpg.rf.8c2c0bf64346f4d0d887d9dbe81a7cd4",
+    "image_path": "images\\electrocom61_IMG_20240306_143742_jpg.rf.8c2c0bf64346f4d0d887d9dbe81a7cd4.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240306_143742_JPG.RF.8C2C0BF64346F4D0D887D9DBE81A7CD4",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240306_143742_JPG.RF.8C2C0BF64346F4D0D887D9DBE81A7CD4",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_114840_jpg.rf.093337ac18ab6f932bedcb9b9964fa32",
+    "image_path": "images\\electrocom61_IMG_20240309_114840_jpg.rf.093337ac18ab6f932bedcb9b9964fa32.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240309_114840_JPG.RF.093337AC18AB6F932BEDCB9B9964FA32",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240309_114840_JPG.RF.093337AC18AB6F932BEDCB9B9964FA32",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG20240228125705_jpg.rf.99d41b064917fb9fd3011b4938528906",
+    "image_path": "images\\electrocom61_IMG20240228125705_jpg.rf.99d41b064917fb9fd3011b4938528906.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG20240228125705_JPG.RF.99D41B064917FB9FD3011B4938528906",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG20240228125705_JPG.RF.99D41B064917FB9FD3011B4938528906",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_5225_JPG.rf.d9458a6cdb3978a8dd7e53c19ac8b14b",
+    "image_path": "images\\electrocom61_IMG_5225_JPG.rf.d9458a6cdb3978a8dd7e53c19ac8b14b.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_5225_JPG.RF.D9458A6CDB3978A8DD7E53C19AC8B14B",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_5225_JPG.RF.D9458A6CDB3978A8DD7E53C19AC8B14B",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  },
+  {
+    "image_id": "electrocom61_IMG_20240309_113625_jpg.rf.5e31475aed19167bf813daecb500270d",
+    "image_path": "images\\electrocom61_IMG_20240309_113625_jpg.rf.5e31475aed19167bf813daecb500270d.jpg",
+    "dataset": "electrocom61",
+    "width": 640,
+    "height": 640,
+    "bboxes": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "x2": 640,
+        "y2": 640,
+        "text": "IMG_20240309_113625_JPG.RF.5E31475AED19167BF813DAECB500270D",
+        "confidence": 1.0
+      }
+    ],
+    "ic_info": {
+      "marking_text": "IMG_20240309_113625_JPG.RF.5E31475AED19167BF813DAECB500270D",
+      "authentic": true,
+      "source": "electrocom61"
+    },
+    "split": "test"
+  }
+]

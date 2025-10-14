@@ -1,0 +1,31 @@
+Part,Manufacturer,Datasheet_URL,Notes,Package_Types,Marking_Text
+STM32F103C8T6,STMicroelectronics,https://www.st.com/resource/en/datasheet/stm32f103c8.pdf,MCU (LQFP/STM32F1 family),LQFP-48,STM32F103C8T6
+ATmega328P,Microchip (Atmel),https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf,AVR MCU (SOIC/DIP),TQFP-32|DIP-28,ATMEL 328P U
+PIC16F877A,Microchip,https://ww1.microchip.com/downloads/en/devicedoc/39582b.pdf,PIC 28/40-pin MCU,DIP-40,PIC16F877A
+LM358,Texas Instruments,https://www.ti.com/lit/ds/symlink/lm358.pdf,Dual op-amp (SOP),DIP-8|SOIC-8,LM358N TI
+TL072,Texas Instruments,https://www.ti.com/lit/ds/symlink/tl072.pdf,Dual FET-input op amp,DIP-8|SOIC-8,TL072CP
+LM324,Texas Instruments,https://www.ti.com/lit/gpn/lm324,Quad op amp,DIP-14|SOIC-14,LM324N
+LM317,Texas Instruments,https://www.ti.com/lit/ds/symlink/lm317.pdf,Adjustable regulator,TO-220,LM317T
+AMS1117,Advanced Monolithic Systems,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5011/AMS1117.pdf,LDO regulator (SOT-223),SOT-223,AMS1117-3.3
+74HC595,Texas Instruments,https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf,8-bit shift register,DIP-16|SOIC-16,SN74HC595N
+74HC245,NXP/Nexperia,https://assets.nexperia.com/documents/data-sheet/74HC_HCT245.pdf,Octal transceiver,DIP-20|SOIC-20,74HC245N
+74HC04,Texas Instruments,https://www.ti.com/lit/ds/symlink/sn74hc04.pdf,Hex inverter,DIP-14|SOIC-14,SN74HC04N
+MAX232,Analog Devices,https://www.analog.com/media/en/technical-documentation/data-sheets/max232.pdf,RS-232 level shifter,DIP-16|SOIC-16,MAX232CPE
+MAX3232,Texas Instruments,https://www.ti.com/lit/ds/symlink/max3232.pdf,3-5.5V RS-232 transceiver,SOIC-16|TSSOP-16,MAX3232
+MCP3008,Microchip,https://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf,10-bit ADC (SPI),DIP-16|SOIC-16,MCP3008
+MCP23017,Microchip,https://ww1.microchip.com/downloads/en/devicedoc/20001952c.pdf,16-bit I2C GPIO expander,DIP-28|SOIC-28,MCP23017
+AT24C02,Microchip,https://ww1.microchip.com/downloads/en/DeviceDoc/doc0180.pdf,2K EEPROM family,DIP-8|SOIC-8,24C02
+24LC256,Microchip,https://ww1.microchip.com/downloads/en/devicedoc/21203r.pdf,256K I2C EEPROM,DIP-8|SOIC-8,24LC256
+ESP32,Espressif,https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf,Wi-Fi + BT SoC,QFN-48,ESP32-D0WDQ6
+ESP8266EX,Espressif,https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf,Wi-Fi SoC,QFN-32,ESP8266EX
+FT232RL,FTDI,https://ftdichip.com/wp-content/uploads/2020/08/DS_FT232R.pdf,USB-to-UART IC,SSOP-28,FT232RL
+MAX7219,Analog Devices,https://www.analog.com/media/en/technical-documentation/data-sheets/max7219-max7221.pdf,LED matrix/7-seg driver,DIP-24|SOIC-24,MAX7219CNG
+MCP6002,Microchip,https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf,Dual low-power op amp,DIP-8|SOIC-8,MCP6002
+INA219,Texas Instruments,https://www.ti.com/lit/ds/symlink/ina219.pdf,I2C current/power monitor,SOIC-8,INA219A
+LM2596,ON Semiconductor,https://www.onsemi.com/download/data-sheet/pdf/lm2596-d.pdf,Buck regulator (3A),TO-220|TO-263,LM2596T-5.0
+STM32F407VG,STMicroelectronics,https://www.st.com/resource/en/datasheet/dm00037051.pdf,Cortex-M4 MCU,LQFP-100|BGA-176,STM32F407VGT6
+ADS1115,Texas Instruments,https://www.ti.com/lit/ds/symlink/ads1115.pdf,16-bit I2C ADC,MSOP-10|VSSOP-10,ADS1115
+MAX6675,Analog Devices,https://www.analog.com/media/en/technical-documentation/data-sheets/max6675.pdf,Thermocouple-to-digital,SO-8,MAX6675ISA
+TCA9548A,Texas Instruments,https://www.ti.com/lit/ds/symlink/tca9548a.pdf,I2C 8-channel switch,TSSOP-24|QFN-24,TCA9548A
+MCP4725,Microchip,https://ww1.microchip.com/downloads/en/devicedoc/22039d.pdf,12-bit I2C DAC with EEPROM,SOT-23-6|MSOP-8,MCP4725
+MAX31855,Analog Devices,https://www.analog.com/media/en/technical-documentation/data-sheets/max31855.pdf,Thermocouple ADC,SO-8|MSOP-8,MAX31855K

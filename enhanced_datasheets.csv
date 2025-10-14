@@ -1,0 +1,26 @@
+Part_Number,Manufacturer,Package_Type,Pin_Count,Description,Category,Datasheet_URL,Standard_Marking,Operating_Voltage_Min,Operating_Voltage_Max,Operating_Temp_Min,Operating_Temp_Max,Status,Verification_Level
+STM32F103C8T6,STMicroelectronics,LQFP,48,ARM Cortex-M3 32-bit MCU,microcontroller,https://www.st.com/resource/en/datasheet/stm32f103c8.pdf,STM32F103C8T6,2.0,3.6,-40,85,active,verified
+ATmega328P,Microchip,DIP,28,8-bit AVR Microcontroller,microcontroller,https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf,ATMEGA328P-PU,1.8,5.5,-40,85,active,verified
+ESP32-WROOM-32,Espressif,Module,38,WiFi & Bluetooth Dual Mode Module,wireless,https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf,ESP32-WROOM-32,2.2,3.6,-40,85,active,verified
+LM555CN,Texas Instruments,DIP,8,Precision Timer,analog,https://www.ti.com/lit/ds/symlink/lm555.pdf,LM555CN,4.5,16,-55,125,active,verified
+TL071CN,Texas Instruments,DIP,8,JFET Input Operational Amplifier,analog,https://www.ti.com/lit/ds/symlink/tl071.pdf,TL071CN,5,15,-55,125,active,verified
+NE555P,Texas Instruments,DIP,8,Precision Timer,analog,https://www.ti.com/lit/ds/symlink/ne555.pdf,NE555P,4.5,16,-55,125,active,verified
+74HC595,NXP,DIP,16,8-bit Serial-in Shift Register,digital,https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf,74HC595N,2.0,6.0,-40,125,active,verified
+CD4017BE,Texas Instruments,DIP,16,Decade Counter/Divider,digital,https://www.ti.com/lit/ds/symlink/cd4017b.pdf,CD4017BE,3.0,18.0,-55,125,active,verified
+LM358N,Texas Instruments,DIP,8,Dual Operational Amplifier,analog,https://www.ti.com/lit/ds/symlink/lm358.pdf,LM358N,3.0,32.0,-40,105,active,verified
+Arduino_UNO_R3,Arduino,PCB,30,Development Board with ATmega328P,development,https://docs.arduino.cc/hardware/uno-rev3,ARDUINO UNO,7.0,12.0,0,50,active,verified
+Raspberry_Pi_4B,Raspberry Pi Foundation,PCB,40,Single Board Computer,computer,https://datasheets.raspberrypi.org/rpi4/raspberry-pi-4-datasheet.pdf,Raspberry Pi 4,5.0,5.2,0,50,active,verified
+ESP8266,Espressif,QFN,32,WiFi Microcontroller,wireless,https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf,ESP8266EX,2.5,3.6,-40,125,active,verified
+L293D,STMicroelectronics,DIP,16,Quadruple Half-H Driver,driver,https://www.st.com/resource/en/datasheet/l293.pdf,L293D,4.5,36.0,-40,70,active,verified
+2N3904,Various,TO-92,3,NPN Bipolar Junction Transistor,transistor,https://www.onsemi.com/pdf/datasheet/2n3904-d.pdf,2N3904,6.0,40.0,-55,150,active,verified
+2N3906,Various,TO-92,3,PNP Bipolar Junction Transistor,transistor,https://www.onsemi.com/pdf/datasheet/2n3906-d.pdf,2N3906,6.0,40.0,-55,150,active,verified
+1N4007,Various,DO-41,2,General Purpose Rectifier Diode,diode,https://www.vishay.com/docs/88503/1n4001.pdf,1N4007,50,1000,-65,175,active,verified
+7805,Various,TO-220,3,5V Voltage Regulator,regulator,https://www.onsemi.com/pdf/datasheet/mc7805-d.pdf,7805T,7.0,35.0,-40,125,active,verified
+7812,Various,TO-220,3,12V Voltage Regulator,regulator,https://www.onsemi.com/pdf/datasheet/mc7812-d.pdf,7812T,14.0,35.0,-40,125,active,verified
+MAX232,Maxim,DIP,16,RS232 Interface IC,interface,https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf,MAX232CPE,4.5,5.5,-40,85,active,verified
+DS1307,Maxim,DIP,8,Real Time Clock,timing,https://datasheets.maximintegrated.com/en/ds/DS1307.pdf,DS1307N,4.5,5.5,0,70,active,verified
+HC-SR04,Various,Module,4,Ultrasonic Distance Sensor,sensor,https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf,HC-SR04,5.0,5.0,-15,70,active,verified
+DHT22,Aosong,Module,4,Digital Temperature Humidity Sensor,sensor,https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf,DHT22,3.3,6.0,-40,80,active,verified
+MCP3008,Microchip,DIP,16,8-Channel 10-bit ADC,adc,https://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf,MCP3008-I/P,2.7,5.5,-40,85,active,verified
+PCF8574,NXP,DIP,16,8-bit I/O Expander,interface,https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf,PCF8574N,2.5,6.0,-40,85,active,verified
+74HC165,NXP,DIP,16,8-bit Parallel-in Shift Register,digital,https://assets.nexperia.com/documents/data-sheet/74HC_HCT165.pdf,74HC165N,2.0,6.0,-40,125,active,verified

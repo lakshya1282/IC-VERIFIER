@@ -1,0 +1,77 @@
+# Enhanced IC Verification System Requirements
+# Virtual Environment: Python 3.11+
+
+# Core Deep Learning and Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web Framework and API
+Flask>=3.0.0
+Flask-CORS>=4.0.0
+Werkzeug>=3.0.0
+requests>=2.31.0
+pandas>=2.0.0
+
+# PDF Processing and Document Analysis
+PyMuPDF>=1.23.0              # fitz - Best PDF processing library
+pdfminer.six>=20220524        # Alternative PDF text extraction
+pdfplumber>=0.10.0            # Table extraction from PDFs
+PyPDF2>=3.0.1                 # Basic PDF operations
+
+# OCR and Text Processing
+pytesseract>=0.3.10           # Tesseract OCR wrapper
+easyocr>=1.7.0                # Alternative OCR engine
+
+# Optional: GROBID client for structured document parsing
+# grobid-client>=0.0.7        # Uncomment if using GROBID server
+
+# Data Processing and Analysis
+beautifulsoup4>=4.12.0        # Web scraping for OEM sites
+lxml>=4.9.0                   # XML/HTML parsing
+selenium>=4.15.0              # Dynamic web content (optional)
+
+# Database and Caching
+pymongo>=4.5.0                # MongoDB driver
+redis>=5.0.0                  # Optional caching
+
+# Machine Learning Utilities
+tqdm>=4.66.0                  # Progress bars
+joblib>=1.3.0                 # Parallel processing
+h5py>=3.9.0                   # HDF5 support
+
+# Image Processing and Augmentation
+albumentations>=1.3.0         # Image augmentations
+imgaug>=0.4.0                 # Alternative augmentation library
+
+# Utilities and Helpers
+pathlib>=1.0.1                # Path handling (built-in in Python 3.4+)
+logging>=0.4.9.6              # Advanced logging
+python-dotenv>=1.0.0          # Environment variables
+click>=8.1.0                  # CLI interface
+rich>=13.5.0                  # Rich terminal output
+
+# Development and Testing (optional)
+pytest>=7.4.0                 # Testing framework
+pytest-cov>=4.1.0            # Coverage testing
+black>=23.7.0                 # Code formatting
+flake8>=6.0.0                 # Code linting
+mypy>=1.5.0                   # Type checking
+
+# Jupyter and Analysis (optional)
+jupyter>=1.0.0                # Jupyter notebooks
+ipywidgets>=8.1.0             # Interactive widgets
+plotly>=5.16.0                # Interactive plotting
+
+# Performance and Monitoring
+psutil>=5.9.0                 # System monitoring
+memory-profiler>=0.61.0       # Memory profiling
+
+# Additional ML Libraries (optional)
+transformers>=4.33.0          # Hugging Face transformers
+datasets>=2.14.0              # Hugging Face datasets

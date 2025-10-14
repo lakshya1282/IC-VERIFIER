@@ -1,0 +1,23 @@
+{
+  "total_images": 2000,
+  "total_text_regions": 4984,
+  "authentic_count": 1603,
+  "fake_count": 397,
+  "manufacturers": [
+    "STMicroelectronics",
+    "Texas Instruments",
+    "Microchip",
+    "Intel",
+    "AMD",
+    "Analog Devices",
+    "Maxim",
+    "NXP",
+    "Infineon",
+    "ON Semiconductor"
+  ],
+  "splits": {
+    "train": 1400,
+    "val": 400,
+    "test": 200
+  }
+}

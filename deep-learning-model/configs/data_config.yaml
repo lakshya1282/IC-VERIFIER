@@ -1,0 +1,126 @@
+# Data Preprocessing Configuration
+# IC Text Detection & Recognition Pipeline
+
+# Dataset paths
+dataset_root: "../DATASETS"  # Path to datasets folder
+output_root: "./data/processed"  # Where to save processed data
+
+# Dataset splits (train/validation/test)
+splits:
+  train: 0.8
+  val: 0.1
+  test: 0.1
+
+# Image preprocessing settings
+image_settings:
+  # Target resolution for training
+  target_height: 640
+  target_width: 640
+  
+  # Data augmentation parameters
+  augmentation:
+    brightness_range: [-0.2, 0.2]
+    contrast_range: [0.8, 1.2]
+    saturation_range: [0.8, 1.2]
+    hue_range: [-0.1, 0.1]
+    rotation_range: [-15, 15]
+    shear_range: [-5, 5]
+    scale_range: [0.9, 1.1]
+    perspective_distortion: 0.1
+    gaussian_blur_prob: 0.3
+    motion_blur_prob: 0.2
+    noise_prob: 0.3
+
+# Text detection settings
+detection:
+  min_text_size: 8  # Minimum text height in pixels
+  max_aspect_ratio: 10  # Maximum width/height ratio
+  min_area: 64  # Minimum bounding box area
+  
+  # Character quality thresholds for curriculum learning
+  quality_thresholds:
+    high: 0.8    # Clear, high-contrast characters
+    medium: 0.5  # Moderate quality characters
+    low: 0.2     # Poor quality, blurry characters
+
+# Text recognition settings
+recognition:
+  character_set: "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+  max_text_length: 32
+  min_text_length: 2
+  
+  # Character attributes for AGCL
+  attributes:
+    - "clear"
+    - "blurry" 
+    - "low_contrast"
+    - "partial_occlusion"
+    - "wear"
+    - "reflection"
+
+# Verification dataset settings
+verification:
+  negative_samples_per_positive: 3
+  similarity_threshold: 0.6
+  min_edit_distance: 2
+  
+  # Features for verification classifier
+  features:
+    - "edit_distance"
+    - "normalized_edit_distance"  
+    - "jaccard_similarity"
+    - "cosine_similarity"
+    - "length_ratio"
+    - "char_overlap_ratio"
+    - "manufacturer_match"
+    - "package_match"
+    - "ocr_confidence"
+
+# Dataset-specific settings
+datasets:
+  ictext_agcl:
+    enabled: true
+    weight: 1.0  # Relative weight in training
+    use_character_attributes: true
+    curriculum_learning: true
+  
+  coco_text:
+    enabled: true
+    weight: 0.5
+    filter_legible_only: true
+    max_samples: 10000  # Limit for pretraining
+  
+  synthtext:
+    enabled: false
+    weight: 0.3
+    max_samples: 5000
+  
+  custom_ic:
+    enabled: true 
+    weight: 2.0  # Higher weight for domain-specific data
+    require_annotations: true
+
+# Training data balancing
+class_balancing:
+  detection:
+    text_to_background_ratio: 1.0
+    hard_negative_mining: true
+  
+  recognition:
+    character_frequency_balancing: true
+    rare_character_upsampling: 2.0
+  
+  verification:
+    positive_to_negative_ratio: 0.4
+    hard_negative_sampling: true
+
+# Output format settings
+output_format:
+  detection_format: "coco"  # COCO format for detection
+  recognition_format: "text_lines"  # Line-by-line text files
+  verification_format: "csv"  # CSV for verification pairs
+  
+  # Save options
+  save_images: false  # Save cropped text images
+  save_visualizations: true  # Save annotated images
+  compress_annotations: true  # Gzip JSON files

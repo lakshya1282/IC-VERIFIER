@@ -5,8 +5,13 @@ const axios = require('axios');
 require('dotenv').config();
 
 const Verification = require('./models/Verification');
+const ICData = require('./models/ICData');
+const IntegratedMLService = require('./services/ml_service');
 
 const app = express();
+
+// Initialize Integrated ML Service
+const mlService = new IntegratedMLService();
 
 // Middleware
 app.use(cors());
@@ -32,17 +37,189 @@ const ML_API_URL = process.env.ML_API_URL || 'http://localhost:5000/api';
 app.get('/api/health', async (req, res) => {
   try {
     const mlHealth = await axios.get(`${ML_API_URL}/health`);
+    const systemStats = await mlService.getSystemStats();
+    
     res.json({
       status: 'ok',
       database: mongoose.connection.readyState === 1 ? 'connected' : 'disconnected',
-      mlModel: mlHealth.data.model_loaded ? 'loaded' : 'not loaded'
+      mlModel: mlHealth.data.model_loaded ? 'loaded' : 'not loaded',
+      integratedML: 'available',
+      intelligentSearch: 'enabled',
+      systemStats: systemStats
     });
   } catch (error) {
     res.json({
       status: 'degraded',
       database: mongoose.connection.readyState === 1 ? 'connected' : 'disconnected',
       mlModel: 'unavailable',
+      integratedML: 'limited',
       error: error.message
+    });
+  }
+});
+
+// Comprehensive IC verification (new intelligent endpoint)
+app.post('/api/comprehensive-verify', async (req, res) => {
+  try {
+    const { marking_text, image_base64 } = req.body;
+
+    if (!marking_text && !image_base64) {
+      return res.status(400).json({ error: 'Either marking text or image is required' });
+    }
+
+    console.log(`🚀 Comprehensive verification request for: ${marking_text}`);
+    
+    // Convert base64 to buffer if image provided
+    let imageBuffer = null;
+    if (image_base64) {
+      const base64Data = image_base64.replace(/^data:image\/\w+;base64,/, '');
+      imageBuffer = Buffer.from(base64Data, 'base64');
+    }
+
+    // Use the integrated ML service for comprehensive verification
+    const result = await mlService.comprehensiveVerification(marking_text, imageBuffer);
+    
+    res.json({
+      ...result.finalResult,
+      comprehensive_results: {
+        methods_used: Object.keys(result.methods),
+        confidence_score: result.confidence,
+        recommendations: result.recommendations,
+        method_results: result.methods,
+        processing_time: Date.now() - result.timestamp.getTime()
+      },
+      verificationId: result.verification?._id
+    });
+
+  } catch (error) {
+    console.error('Error in comprehensive verification:', error);
+    res.status(500).json({ 
+      error: 'Comprehensive verification failed',
+      details: error.message 
+    });
+  }
+});
+
+// Intelligent search endpoint
+app.post('/api/intelligent-search', async (req, res) => {
+  try {
+    const { ic_part_number } = req.body;
+
+    if (!ic_part_number) {
+      return res.status(400).json({ error: 'IC part number is required' });
+    }
+
+    console.log(`🔍 Intelligent search request for: ${ic_part_number}`);
+    
+    const searchResult = await mlService.performIntelligentSearch(ic_part_number);
+    
+    // Update database with found information
+    if (searchResult.status === 'success' && searchResult.processed_documents > 0) {
+      await mlService.updateDatabaseFromSearch(ic_part_number, searchResult);
+    }
+    
+    res.json({
+      ...searchResult,
+      database_updated: searchResult.status === 'success' && searchResult.processed_documents > 0
+    });
+
+  } catch (error) {
+    console.error('Error in intelligent search:', error);
+    res.status(500).json({ 
+      error: 'Intelligent search failed',
+      details: error.message 
+    });
+  }
+});
+
+// Combined verification endpoint (handles both text and image)
+app.post('/api/verify', async (req, res) => {
+  try {
+    const { marking_text, image_base64 } = req.body;
+    
+    if (!marking_text && !image_base64) {
+      return res.status(400).json({ error: 'Either marking text or image is required' });
+    }
+    
+    let result;
+    if (image_base64) {
+      // If image is provided, use image verification
+      const mlResponse = await axios.post(`${ML_API_URL}/verify-image`, {
+        image_base64
+      });
+      result = mlResponse.data;
+      
+      // Save verification to database
+      const verification = new Verification({
+        scannedText: result.scanned_text || '',
+        extractedText: result.extracted_text || '',
+        status: result.status,
+        confidence: result.confidence,
+        isValid: result.is_valid,
+        matchedIC: result.matched_ic ? {
+          icModel: result.matched_ic.ic_model,
+          oemName: result.matched_ic.oem_name,
+          packageType: result.matched_ic.package_type,
+          markingText: result.matched_ic.marking_text,
+          datasheetUrl: result.matched_ic.datasheet_url,
+          releaseDate: result.matched_ic.release_date
+        } : null,
+        possibleMatches: result.possible_matches || [],
+        message: result.message,
+        verificationType: 'image',
+        imageData: image_base64.substring(0, 100) + '...', // Store truncated version
+        userAgent: req.headers['user-agent'],
+        ipAddress: req.ip
+      });
+      
+      await verification.save();
+      
+      res.json({
+        ...result,
+        verificationId: verification._id
+      });
+      
+    } else {
+      // Use text verification
+      const mlResponse = await axios.post(`${ML_API_URL}/verify-text`, {
+        marking_text
+      });
+      result = mlResponse.data;
+      
+      // Save verification to database
+      const verification = new Verification({
+        scannedText: marking_text,
+        status: result.status,
+        confidence: result.confidence,
+        isValid: result.is_valid,
+        matchedIC: result.matched_ic ? {
+          icModel: result.matched_ic.ic_model,
+          oemName: result.matched_ic.oem_name,
+          packageType: result.matched_ic.package_type,
+          markingText: result.matched_ic.marking_text,
+          datasheetUrl: result.matched_ic.datasheet_url,
+          releaseDate: result.matched_ic.release_date
+        } : null,
+        possibleMatches: result.possible_matches || [],
+        message: result.message,
+        verificationType: 'text',
+        userAgent: req.headers['user-agent'],
+        ipAddress: req.ip
+      });
+      
+      await verification.save();
+      
+      res.json({
+        ...result,
+        verificationId: verification._id
+      });
+    }
+    
+  } catch (error) {
+    console.error('Error in verification:', error);
+    res.status(500).json({ 
+      error: 'Verification failed',
+      details: error.message 
     });
   }
 });
@@ -250,16 +427,453 @@ app.get('/api/ic-database', async (req, res) => {
   }
 });
 
-// Get IC stats from ML model
+// Get IC stats from ML model (enhanced)
 app.get('/api/ic-stats', async (req, res) => {
   try {
-    const response = await axios.get(`${ML_API_URL}/ic-stats`);
-    res.json(response.data);
+    // Get stats from both ML model and database
+    const [mlStats, dbStats] = await Promise.allSettled([
+      axios.get(`${ML_API_URL}/ic-stats`),
+      ICData.getStatistics()
+    ]);
+    
+    const response = {
+      traditional_ml: mlStats.status === 'fulfilled' ? mlStats.value.data : { error: 'unavailable' },
+      database_stats: dbStats.status === 'fulfilled' ? dbStats.value[0] : { error: 'unavailable' },
+      enhanced_features: {
+        intelligent_search: 'enabled',
+        internet_updates: 'active',
+        comprehensive_verification: 'available'
+      }
+    };
+    
+    res.json(response);
   } catch (error) {
     console.error('Error fetching IC stats:', error);
     res.status(500).json({ error: 'Failed to fetch IC statistics' });
   }
 });
+
+// Get IC database (enhanced with intelligent search results)
+app.get('/api/ic-database', async (req, res) => {
+  try {
+    const { search, limit = 50, category } = req.query;
+    
+    let query = { isActive: true };
+    if (category) {
+      query['specifications.category'] = category;
+    }
+    
+    let icData;
+    if (search) {
+      icData = await ICData.searchByText(search, { limit: parseInt(limit) });
+    } else {
+      icData = await ICData.find(query)
+        .limit(parseInt(limit))
+        .sort({ popularity: -1, updatedAt: -1 });
+    }
+    
+    const totalCount = await ICData.countDocuments(query);
+    const categories = await ICData.distinct('specifications.category');
+    const manufacturers = await ICData.distinct('manufacturer');
+    
+    res.json({
+      ic_data: icData,
+      total_count: totalCount,
+      categories: categories,
+      manufacturers: manufacturers,
+      search_query: search,
+      intelligent_search_enabled: true
+    });
+    
+  } catch (error) {
+    console.error('Error fetching IC database:', error);
+    res.status(500).json({ error: 'Failed to fetch IC database' });
+  }
+});
+
+// Get popular ICs
+app.get('/api/popular-ics', async (req, res) => {
+  try {
+    const { limit = 10 } = req.query;
+    const popularICs = await ICData.getPopularICs(parseInt(limit));
+    
+    res.json({
+      popular_ics: popularICs,
+      timestamp: new Date()
+    });
+  } catch (error) {
+    console.error('Error fetching popular ICs:', error);
+    res.status(500).json({ error: 'Failed to fetch popular ICs' });
+  }
+});
+
+// Update IC data from internet (manual trigger)
+app.post('/api/update-ic-data', async (req, res) => {
+  try {
+    const { ic_part_number } = req.body;
+    
+    if (!ic_part_number) {
+      // Run background update for multiple ICs
+      const updatePromise = mlService.updateICDataFromInternet();
+      res.json({
+        message: 'Background IC data update started',
+        status: 'processing'
+      });
+      
+      // Don't wait for completion
+      return;
+    }
+    
+    // Update specific IC
+    const searchResult = await mlService.performIntelligentSearch(ic_part_number);
+    
+    if (searchResult.status === 'success') {
+      await mlService.updateDatabaseFromSearch(ic_part_number, searchResult);
+      
+      res.json({
+        message: `IC data updated for ${ic_part_number}`,
+        status: 'success',
+        documents_found: searchResult.found_documents || 0,
+        documents_processed: searchResult.processed_documents || 0
+      });
+    } else {
+      res.json({
+        message: `No new data found for ${ic_part_number}`,
+        status: 'no_data',
+        search_result: searchResult
+      });
+    }
+    
+  } catch (error) {
+    console.error('Error updating IC data:', error);
+    res.status(500).json({ 
+      error: 'Failed to update IC data',
+      details: error.message 
+    });
+  }
+});
+
+// Get IC details with marking information
+app.get('/api/ic-details/:partNumber', async (req, res) => {
+  try {
+    const { partNumber } = req.params;
+    const icData = await ICData.findByPartNumber(partNumber);
+    
+    if (!icData) {
+      return res.status(404).json({ 
+        error: 'IC not found',
+        suggestion: 'Try intelligent search to find and add this IC'
+      });
+    }
+    
+    res.json({
+      ic_data: icData,
+      marking_information: icData.markingInformation,
+      document_sources: icData.documentSources,
+      verification_history: icData.verificationHistory.slice(-10), // Last 10 verifications
+      data_quality: icData.dataQuality
+    });
+    
+  } catch (error) {
+    console.error('Error fetching IC details:', error);
+    res.status(500).json({ error: 'Failed to fetch IC details' });
+  }
+});
+
+// Create or update IC data entry
+app.post('/api/ic-data', async (req, res) => {
+  try {
+    const icData = req.body;
+    
+    // Check if IC already exists
+    const existingIC = await ICData.findByPartNumber(icData.partNumber);
+    
+    let result;
+    if (existingIC) {
+      // Update existing IC
+      result = await ICData.findByIdAndUpdate(
+        existingIC._id,
+        { 
+          ...icData, 
+          updatedAt: new Date(),
+          'dataQuality.lastUpdated': new Date()
+        },
+        { new: true, runValidators: true }
+      );
+    } else {
+      // Create new IC
+      const newIC = new ICData({
+        ...icData,
+        createdAt: new Date(),
+        updatedAt: new Date(),
+        dataQuality: {
+          completeness: calculateCompleteness(icData),
+          verified: false,
+          lastUpdated: new Date(),
+          sources: icData.documentSources?.map(doc => doc.source) || []
+        }
+      });
+      result = await newIC.save();
+    }
+    
+    res.json({
+      message: existingIC ? 'IC data updated successfully' : 'IC data created successfully',
+      ic_data: result,
+      operation: existingIC ? 'update' : 'create'
+    });
+    
+  } catch (error) {
+    console.error('Error creating/updating IC data:', error);
+    res.status(500).json({ 
+      error: 'Failed to create/update IC data',
+      details: error.message 
+    });
+  }
+});
+
+// Delete IC data entry
+app.delete('/api/ic-data/:partNumber', async (req, res) => {
+  try {
+    const { partNumber } = req.params;
+    const { soft_delete = true } = req.query;
+    
+    let result;
+    if (soft_delete === 'true') {
+      // Soft delete - mark as inactive
+      result = await ICData.findOneAndUpdate(
+        { partNumber: partNumber },
+        { 
+          isActive: false,
+          updatedAt: new Date(),
+          deletedAt: new Date()
+        },
+        { new: true }
+      );
+    } else {
+      // Hard delete
+      result = await ICData.findOneAndDelete({ partNumber: partNumber });
+    }
+    
+    if (!result) {
+      return res.status(404).json({ error: 'IC not found' });
+    }
+    
+    res.json({
+      message: `IC data ${soft_delete === 'true' ? 'deactivated' : 'deleted'} successfully`,
+      part_number: partNumber,
+      operation: soft_delete === 'true' ? 'soft_delete' : 'hard_delete'
+    });
+    
+  } catch (error) {
+    console.error('Error deleting IC data:', error);
+    res.status(500).json({ error: 'Failed to delete IC data' });
+  }
+});
+
+// Batch operations for IC data
+app.post('/api/ic-data/batch', async (req, res) => {
+  try {
+    const { operation, ic_data, part_numbers } = req.body;
+    
+    let results = [];
+    
+    switch (operation) {
+      case 'create':
+        if (!ic_data || !Array.isArray(ic_data)) {
+          return res.status(400).json({ error: 'Invalid IC data array provided' });
+        }
+        
+        for (const icItem of ic_data) {
+          try {
+            const newIC = new ICData({
+              ...icItem,
+              createdAt: new Date(),
+              updatedAt: new Date(),
+              dataQuality: {
+                completeness: calculateCompleteness(icItem),
+                verified: false,
+                lastUpdated: new Date(),
+                sources: icItem.documentSources?.map(doc => doc.source) || []
+              }
+            });
+            const result = await newIC.save();
+            results.push({ status: 'success', part_number: icItem.partNumber, data: result });
+          } catch (error) {
+            results.push({ status: 'error', part_number: icItem.partNumber, error: error.message });
+          }
+        }
+        break;
+        
+      case 'delete':
+        if (!part_numbers || !Array.isArray(part_numbers)) {
+          return res.status(400).json({ error: 'Invalid part numbers array provided' });
+        }
+        
+        for (const partNumber of part_numbers) {
+          try {
+            const result = await ICData.findOneAndUpdate(
+              { partNumber: partNumber },
+              { 
+                isActive: false,
+                updatedAt: new Date(),
+                deletedAt: new Date()
+              }
+            );
+            
+            if (result) {
+              results.push({ status: 'success', part_number: partNumber });
+            } else {
+              results.push({ status: 'not_found', part_number: partNumber });
+            }
+          } catch (error) {
+            results.push({ status: 'error', part_number: partNumber, error: error.message });
+          }
+        }
+        break;
+        
+      case 'update_quality':
+        if (!part_numbers || !Array.isArray(part_numbers)) {
+          return res.status(400).json({ error: 'Invalid part numbers array provided' });
+        }
+        
+        for (const partNumber of part_numbers) {
+          try {
+            const icData = await ICData.findOne({ partNumber });
+            if (icData) {
+              icData.dataQuality.completeness = calculateCompleteness(icData.toObject());
+              icData.dataQuality.lastUpdated = new Date();
+              await icData.save();
+              results.push({ status: 'success', part_number: partNumber, quality: icData.dataQuality });
+            } else {
+              results.push({ status: 'not_found', part_number: partNumber });
+            }
+          } catch (error) {
+            results.push({ status: 'error', part_number: partNumber, error: error.message });
+          }
+        }
+        break;
+        
+      default:
+        return res.status(400).json({ error: 'Invalid batch operation' });
+    }
+    
+    res.json({
+      message: `Batch ${operation} operation completed`,
+      results: results,
+      total_processed: results.length,
+      successful: results.filter(r => r.status === 'success').length,
+      failed: results.filter(r => r.status === 'error').length
+    });
+    
+  } catch (error) {
+    console.error('Error in batch operation:', error);
+    res.status(500).json({ error: 'Failed to execute batch operation' });
+  }
+});
+
+// Data quality assessment endpoint
+app.get('/api/data-quality', async (req, res) => {
+  try {
+    const qualityStats = await ICData.aggregate([
+      { $match: { isActive: true } },
+      {
+        $group: {
+          _id: null,
+          totalRecords: { $sum: 1 },
+          averageCompleteness: { $avg: '$dataQuality.completeness' },
+          verifiedRecords: { 
+            $sum: { $cond: ['$dataQuality.verified', 1, 0] } 
+          },
+          recordsWithSources: {
+            $sum: { $cond: [{ $gt: [{ $size: '$documentSources' }, 0] }, 1, 0] }
+          },
+          recordsByCategory: {
+            $push: '$specifications.category'
+          }
+        }
+      }
+    ]);
+    
+    const categoryDistribution = await ICData.aggregate([
+      { $match: { isActive: true } },
+      { $group: { _id: '$specifications.category', count: { $sum: 1 } } },
+      { $sort: { count: -1 } }
+    ]);
+    
+    const manufacturerDistribution = await ICData.aggregate([
+      { $match: { isActive: true } },
+      { $group: { _id: '$manufacturer', count: { $sum: 1 } } },
+      { $sort: { count: -1 } },
+      { $limit: 10 }
+    ]);
+    
+    const lowQualityRecords = await ICData.find({
+      isActive: true,
+      'dataQuality.completeness': { $lt: 0.7 }
+    }).limit(20).select('partNumber dataQuality.completeness manufacturer');
+    
+    res.json({
+      overall_quality: qualityStats[0] || {},
+      category_distribution: categoryDistribution,
+      manufacturer_distribution: manufacturerDistribution,
+      low_quality_records: lowQualityRecords,
+      recommendations: {
+        improve_completeness: lowQualityRecords.length,
+        verify_records: (qualityStats[0]?.totalRecords || 0) - (qualityStats[0]?.verifiedRecords || 0),
+        add_sources: (qualityStats[0]?.totalRecords || 0) - (qualityStats[0]?.recordsWithSources || 0)
+      }
+    });
+    
+  } catch (error) {
+    console.error('Error fetching data quality stats:', error);
+    res.status(500).json({ error: 'Failed to fetch data quality statistics' });
+  }
+});
+
+// Helper function to calculate data completeness
+function calculateCompleteness(icData) {
+  const requiredFields = [
+    'partNumber', 'manufacturer', 'specifications.category',
+    'specifications.description', 'markingInformation.standardMarkings'
+  ];
+  
+  const optionalFields = [
+    'specifications.package', 'specifications.pinCount',
+    'specifications.operatingVoltage', 'specifications.operatingTemperature',
+    'markingInformation.lotCodes', 'markingInformation.dateCodes',
+    'documentSources'
+  ];
+  
+  let score = 0;
+  const totalFields = requiredFields.length + optionalFields.length;
+  
+  // Required fields (higher weight)
+  for (const field of requiredFields) {
+    if (getNestedValue(icData, field)) {
+      score += 2; // Required fields count double
+    }
+  }
+  
+  // Optional fields
+  for (const field of optionalFields) {
+    if (getNestedValue(icData, field)) {
+      score += 1;
+    }
+  }
+  
+  // Maximum possible score: (required * 2) + optional
+  const maxScore = (requiredFields.length * 2) + optionalFields.length;
+  return Math.min(score / maxScore, 1.0);
+}
+
+// Helper function to get nested object values
+function getNestedValue(obj, path) {
+  return path.split('.').reduce((current, key) => {
+    return current && current[key] !== undefined && current[key] !== null && current[key] !== '' 
+      ? current[key] 
+      : null;
+  }, obj);
+}
 
 // 404 handler
 app.use((req, res) => {
