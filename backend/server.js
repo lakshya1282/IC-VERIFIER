@@ -132,6 +132,98 @@ app.post('/api/intelligent-search', async (req, res) => {
   }
 });
 
+// Combined verification endpoint (handles both text and image)
+app.post('/api/verify', async (req, res) => {
+  try {
+    const { marking_text, image_base64 } = req.body;
+    
+    if (!marking_text && !image_base64) {
+      return res.status(400).json({ error: 'Either marking text or image is required' });
+    }
+    
+    let result;
+    if (image_base64) {
+      // If image is provided, use image verification
+      const mlResponse = await axios.post(`${ML_API_URL}/verify-image`, {
+        image_base64
+      });
+      result = mlResponse.data;
+      
+      // Save verification to database
+      const verification = new Verification({
+        scannedText: result.scanned_text || '',
+        extractedText: result.extracted_text || '',
+        status: result.status,
+        confidence: result.confidence,
+        isValid: result.is_valid,
+        matchedIC: result.matched_ic ? {
+          icModel: result.matched_ic.ic_model,
+          oemName: result.matched_ic.oem_name,
+          packageType: result.matched_ic.package_type,
+          markingText: result.matched_ic.marking_text,
+          datasheetUrl: result.matched_ic.datasheet_url,
+          releaseDate: result.matched_ic.release_date
+        } : null,
+        possibleMatches: result.possible_matches || [],
+        message: result.message,
+        verificationType: 'image',
+        imageData: image_base64.substring(0, 100) + '...', // Store truncated version
+        userAgent: req.headers['user-agent'],
+        ipAddress: req.ip
+      });
+      
+      await verification.save();
+      
+      res.json({
+        ...result,
+        verificationId: verification._id
+      });
+      
+    } else {
+      // Use text verification
+      const mlResponse = await axios.post(`${ML_API_URL}/verify-text`, {
+        marking_text
+      });
+      result = mlResponse.data;
+      
+      // Save verification to database
+      const verification = new Verification({
+        scannedText: marking_text,
+        status: result.status,
+        confidence: result.confidence,
+        isValid: result.is_valid,
+        matchedIC: result.matched_ic ? {
+          icModel: result.matched_ic.ic_model,
+          oemName: result.matched_ic.oem_name,
+          packageType: result.matched_ic.package_type,
+          markingText: result.matched_ic.marking_text,
+          datasheetUrl: result.matched_ic.datasheet_url,
+          releaseDate: result.matched_ic.release_date
+        } : null,
+        possibleMatches: result.possible_matches || [],
+        message: result.message,
+        verificationType: 'text',
+        userAgent: req.headers['user-agent'],
+        ipAddress: req.ip
+      });
+      
+      await verification.save();
+      
+      res.json({
+        ...result,
+        verificationId: verification._id
+      });
+    }
+    
+  } catch (error) {
+    console.error('Error in verification:', error);
+    res.status(500).json({ 
+      error: 'Verification failed',
+      details: error.message 
+    });
+  }
+});
+
 // Verify IC from text
 app.post('/api/verify-text', async (req, res) => {
   try {
